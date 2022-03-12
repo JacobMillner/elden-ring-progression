@@ -1,4 +1,5 @@
 import TaskCategory from 'components/TaskCategory';
+import { PageCategory } from 'pageConfig/page/types';
 import { TaskCategoriesProps } from './types';
 
 const TaskCategories = (props: TaskCategoriesProps) => {
@@ -6,8 +7,8 @@ const TaskCategories = (props: TaskCategoriesProps) => {
 
   return (
     <>
-      {pageCategories?.map((cat) => {
-        return <TaskCategory title="test" tasks={[]} />;
+      {pageCategories?.map((cat: PageCategory) => {
+        return <TaskCategory title={cat.title} tasks={cat.tasks} />;
       })}
     </>
   );
