@@ -1,10 +1,4 @@
-export interface ProgressRowProps {
-  id: string;
-  title: string;
-  checked: boolean;
-  image?: string;
-  link?: string;
-}
+import { ProgressRowProps } from './types';
 
 const ProgressRow = (props: ProgressRowProps) => {
   const { id, title, checked, image, link } = props;
@@ -25,10 +19,20 @@ const ProgressRow = (props: ProgressRowProps) => {
         {title}
       </td>
       <td className="text-sm text-gray-900 font-light px-6 py-4 whitespace-nowrap">
-        {link}
+        <a href={link} target="_blank">
+          {link}
+        </a>
       </td>
       <td className="text-sm text-gray-900 font-light px-6 py-4 whitespace-nowrap">
-        {image}
+        <div className="flex flex-wrap justify-center">
+          <a href={image} target="_blank">
+            <img
+              src={image}
+              className="object-scale-down h-20 w-20 p-1 bg-white border rounded shadow-lg max-w-sm hover:bg-grey-600 transition duration-500 hover:scale-150"
+              alt={title}
+            />
+          </a>
+        </div>
       </td>
     </tr>
   );

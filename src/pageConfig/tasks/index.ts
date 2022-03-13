@@ -21,6 +21,16 @@ const taskHash: Map<string, Task> = new Map([
       link: 'https://eldenring.wiki.fextralife.com/Map+(Limgrave,+West)',
     },
   ],
+  [
+    'talk-to-kenneth',
+    {
+      id: 'talk-to-kenneth',
+      title: 'Talk to Kenneth Haight',
+      image:
+        'https://eldenring.wiki.fextralife.com/file/Elden-Ring/kenneth_haight_npcs_elden_ring_wiki_300px.jpg',
+      link: 'https://eldenring.wiki.fextralife.com/Kenneth+Haight',
+    },
+  ],
 ]);
 
 export default taskHash;

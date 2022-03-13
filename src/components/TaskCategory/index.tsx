@@ -34,7 +34,7 @@ const TaskCategory = (props: TaskCategoryProps) => {
                 <tr>
                   <th>Done</th>
                   <th>Task</th>
-                  <th>Link</th>
+                  <th>Wiki</th>
                   <th>Image</th>
                 </tr>
               </thead>
