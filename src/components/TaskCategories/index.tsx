@@ -9,11 +9,15 @@ const TaskCategories = (props: TaskCategoriesProps) => {
     <>
       {pageCategories?.map((cat: PageCategory) => {
         return (
-          <div className="accordion" id="accordionExample5">
+          <div
+            className="accordion"
+            id={`acc-id-${cat.title}`}
+            key={`acc-${cat.title}`}
+          >
             <TaskCategory
               title={cat.title}
               tasks={cat.tasks}
-              key={cat.title}
+              key={`cat-${cat.title}`}
               checkData={checkData}
               toggleCheckbox={toggleCheckbox}
             />

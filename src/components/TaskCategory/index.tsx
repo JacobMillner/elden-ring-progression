@@ -50,6 +50,7 @@ const TaskCategory = (props: TaskCategoryProps) => {
                           link={task.link}
                           checkedData={checkData}
                           toggleCheckbox={toggleCheckbox}
+                          key={`task-${task.id}`}
                         />
                       )}
                     </>
