@@ -9,13 +9,15 @@ const TaskCategories = (props: TaskCategoriesProps) => {
     <>
       {pageCategories?.map((cat: PageCategory) => {
         return (
-          <TaskCategory
-            title={cat.title}
-            tasks={cat.tasks}
-            key={cat.title}
-            checkData={checkData}
-            toggleCheckbox={toggleCheckbox}
-          />
+          <div className="accordion" id="accordionExample5">
+            <TaskCategory
+              title={cat.title}
+              tasks={cat.tasks}
+              key={cat.title}
+              checkData={checkData}
+              toggleCheckbox={toggleCheckbox}
+            />
+          </div>
         );
       })}
     </>
