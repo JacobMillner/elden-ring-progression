@@ -16,6 +16,7 @@ const TaskCategories = (props: TaskCategoriesProps) => {
           >
             <TaskCategory
               title={cat.title}
+              subtitle={cat.subtitle}
               tasks={cat.tasks}
               key={`cat-${cat.title}`}
               checkData={checkData}
