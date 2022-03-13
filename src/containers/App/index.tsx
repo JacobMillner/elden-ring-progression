@@ -41,9 +41,9 @@ const TaskCategoriesContainer = () => {
     }, 2000)
   ).current;
 
-  const toggleCheckbox = (e: ChangeEvent<HTMLInputElement>, id: string) => {
+  const toggleCheckbox = (checked: boolean, id: string) => {
     const newCheckData = cloneDeep(checkData);
-    newCheckData.set(id, e.target.checked);
+    newCheckData.set(id, checked);
     setCheckData(newCheckData);
     setIsDirty(true);
     debouncedSave(newCheckData);
