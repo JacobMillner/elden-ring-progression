@@ -4,21 +4,34 @@ import { progression } from 'pageConfig/page';
 import cloneDeep from 'lodash.clonedeep';
 import debounce from 'lodash.debounce';
 import Header from 'components/Header';
+import useLocalStorage from 'hooks/useLocalstorage';
+import { jsonToMap, mapToJson } from 'utils/map';
+import { Task } from 'pageConfig/tasks/types';
 
 const initialCheckData = new Map<string, boolean>();
 
 const TaskCategoriesContainer = () => {
   const [checkData, setCheckData] =
     useState<Map<string, boolean>>(initialCheckData);
-  const [dataToSave, setDataToSave] = useState();
+  const [dataToSave, setDataToSave] = useState<Map<string, boolean>>();
   const [isDirty, setIsDirty] = useState<boolean>();
+  const [savedCheckData, setSavedCheckData] = useLocalStorage(
+    'savedCheckData',
+    ''
+  );
 
   useEffect(() => {
-    // TODO: set loaded check data
+    // onload, check localStorage and set checked
+    if (savedCheckData) {
+      const loadedDataMap = jsonToMap(savedCheckData) as Map<string, boolean>;
+      if (loadedDataMap) setCheckData(loadedDataMap);
+    }
   }, []);
 
   useEffect(() => {
-    // TODO: save check data
+    if (dataToSave) {
+      setSavedCheckData(mapToJson(dataToSave));
+    }
   }, [dataToSave]);
 
   const debouncedSave = useRef(
