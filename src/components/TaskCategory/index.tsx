@@ -1,11 +1,13 @@
 import ProgressRow from 'components/ProgressRow';
+import taskHash from 'pageConfig/tasks';
 import { Task } from 'pageConfig/tasks/types';
 import { TaskCategoryProps } from './types';
 
 const TaskCategory = (props: TaskCategoryProps) => {
   const { title, tasks } = props;
-  // TODO: get tasks from keys
-  const tasksData = {} as Task[];
+  const tasksData: (Task | undefined)[] = tasks.map((task) =>
+    taskHash.get(task)
+  );
   return (
     <>
       <div className="accordion-item bg-white border border-gray-200">
@@ -37,15 +39,21 @@ const TaskCategory = (props: TaskCategoryProps) => {
                 </tr>
               </thead>
               <tbody>
-                {tasksData?.map((task: Task) => (
-                  <ProgressRow
-                    checked={false}
-                    id={task.id}
-                    title={task.title}
-                    image={task.image}
-                    link={task.link}
-                  />
-                ))}
+                {tasksData?.map((task: Task | undefined) => {
+                  return (
+                    <>
+                      {task && (
+                        <ProgressRow
+                          checked={false}
+                          id={task.id}
+                          title={task.title}
+                          image={task.image}
+                          link={task.link}
+                        />
+                      )}
+                    </>
+                  );
+                })}
               </tbody>
             </table>
           </div>
