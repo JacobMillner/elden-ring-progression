@@ -1,6 +1,6 @@
-import Head from 'next/head'
-import { AppProps } from 'next/app'
-import '../styles/index.css'
+import Head from 'next/head';
+import { AppProps } from 'next/app';
+import '../styles/index.css';
 
 function MyApp({ Component, pageProps }: AppProps) {
   return (
@@ -11,7 +11,7 @@ function MyApp({ Component, pageProps }: AppProps) {
       </Head>
       <Component {...pageProps} />
     </>
-  )
+  );
 }
 
-export default MyApp
+export default MyApp;

@@ -8,7 +8,9 @@ const TaskCategories = (props: TaskCategoriesProps) => {
   return (
     <>
       {pageCategories?.map((cat: PageCategory) => {
-        return <TaskCategory title={cat.title} tasks={cat.tasks} />;
+        return (
+          <TaskCategory title={cat.title} tasks={cat.tasks} key={cat.title} />
+        );
       })}
     </>
   );
