@@ -4,7 +4,7 @@ import { Task } from 'pageConfig/tasks/types';
 import { TaskCategoryProps } from './types';
 
 const TaskCategory = (props: TaskCategoryProps) => {
-  const { title, tasks } = props;
+  const { title, tasks, checkData, toggleCheckbox } = props;
   const tasksData: (Task | undefined)[] = tasks.map((task) =>
     taskHash.get(task)
   );
@@ -44,11 +44,12 @@ const TaskCategory = (props: TaskCategoryProps) => {
                     <>
                       {task && (
                         <ProgressRow
-                          checked={false}
                           id={task.id}
                           title={task.title}
                           image={task.image}
                           link={task.link}
+                          checked={!!checkData.has(task.id)}
+                          toggleCheckbox={toggleCheckbox}
                         />
                       )}
                     </>

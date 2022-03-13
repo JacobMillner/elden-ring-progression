@@ -3,13 +3,19 @@ import { PageCategory } from 'pageConfig/page/types';
 import { TaskCategoriesProps } from './types';
 
 const TaskCategories = (props: TaskCategoriesProps) => {
-  const { pageCategories } = props;
+  const { pageCategories, checkData, toggleCheckbox } = props;
 
   return (
     <>
       {pageCategories?.map((cat: PageCategory) => {
         return (
-          <TaskCategory title={cat.title} tasks={cat.tasks} key={cat.title} />
+          <TaskCategory
+            title={cat.title}
+            tasks={cat.tasks}
+            key={cat.title}
+            checkData={checkData}
+            toggleCheckbox={toggleCheckbox}
+          />
         );
       })}
     </>
