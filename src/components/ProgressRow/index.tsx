@@ -2,7 +2,13 @@ import { ChangeEvent, useEffect, useState } from 'react';
 import { ProgressRowProps } from './types';
 
 const ProgressRow = (props: ProgressRowProps) => {
-  const { id, title, checked, image, link, toggleCheckbox } = props;
+  const { id, title, checkedData, image, link, toggleCheckbox } = props;
+  const [checked, setChecked] = useState<boolean>();
+  useEffect(() => {
+    if (checked !== checkedData.get(id)) {
+      setChecked(checkedData.get(id));
+    }
+  }, [checkedData]);
   return (
     <tr
       id={id}
