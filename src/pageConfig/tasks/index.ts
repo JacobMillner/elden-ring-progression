@@ -107,7 +107,7 @@ const taskHash: Map<string, Task> = new Map([
       id: 'get-wondrous',
       title: 'get the flask of wondrous physik',
       image:
-        'https://eldenring.wiki.fextralife.com/file/elden-ring/flask_of_wondrous_physick_tools_consumables_elden_ring_wiki_guide_200px.png',
+        'https://eldenring.wiki.fextralife.com/file/Elden-Ring/flask_of_wondrous_physick_tools_consumables_elden_ring_wiki_guide_200px.png',
       link: 'https://eldenring.wiki.fextralife.com/flask+of+wondrous+physick',
     },
   ],
@@ -346,8 +346,9 @@ const taskHash: Map<string, Task> = new Map([
     {
       id: 'dispel-fog-enter-gates',
       title: 'Use the Key to dispel the fog in front of the gates and enter',
-      image: '',
-      link: '',
+      image:
+        'https://eldenring.wiki.fextralife.com/file/Elden-Ring/stonesword_key-elden-ring-wiki-guide-200px.png',
+      link: 'https://eldenring.wiki.fextralife.com/Stormveil+Castle',
     },
   ],
   [
@@ -490,9 +491,9 @@ const taskHash: Map<string, Task> = new Map([
     },
   ],
   [
-    'visit-rose-church',
+    'complete-malefactors-evergoal',
     {
-      id: 'visit-rose-church',
+      id: 'complete-malefactors-evergoal',
       title: "Complete Malefactor's Evergaol",
       image:
         'https://eldenring.wiki.fextralife.com/file/Elden-Ring/malefactors_evergaol_locations_elden_ring_wiki_guide.jpg',
@@ -877,6 +878,161 @@ const taskHash: Map<string, Task> = new Map([
       image:
         '',
       link: "https://eldenring.wiki.fextralife.com/Mountaintops+of+the+Giants",
+    },
+  ],
+  [
+    'loot-sacrificial-twig',
+    {
+      id: 'loot-sacrificial-twig',
+      title: 'Loot Sacrificial Twig',
+      image:
+        'https://eldenring.wiki.fextralife.com/file/Elden-Ring/sacrificial_twig_talisman_elden_ring_wiki_guide_200px.png',
+      link: 'https://eldenring.wiki.fextralife.com/Sacrificial+Twig',
+    },
+  ],
+  [
+    'obtain-razya-lucaria-academy-key',
+    {
+      id: 'obtain-raya-lucaria-academy-key',
+      title: 'Obtain Raya Lucaria Academy Key',
+      image: '',
+      link: '',
+    },
+  ],
+  [
+    'acquire-academy-glintstone-key',
+    {
+      id: 'acquire-academy-glintstone-key',
+      title: 'Acquire the Academy Glintstone Key',
+      image:
+        'https://eldenring.wiki.fextralife.com/file/Elden-Ring/academy-glintstone-key_key-items-elden-ring-wiki-guide-200.png',
+      link: 'https://eldenring.wiki.fextralife.com/Academy+Glintstone+Key',
+    },
+  ],
+  [
+    'obtain-gravity-well-sorcery',
+    {
+      id: 'obtain-gravity-well-sorcery',
+      title: 'Obtain Gravity Well Sorcery',
+      image:
+        'https://eldenring.wiki.fextralife.com/file/Elden-Ring/gravity_well_sorcery_elden_ring_wiki_guide_200px.png',
+      link: 'https://eldenring.wiki.fextralife.com/Gravity+Well',
+    },
+  ],
+  [
+    'get-carian-knight-set',
+    {
+      id: 'get-carian-knight-set',
+      title: 'Get Carian Knight Set',
+      image:
+        'https://eldenring.wiki.fextralife.com/file/Elden-Ring/carian-knight-armor-set-elden-ring-wiki-guide.png',
+      link: 'https://eldenring.wiki.fextralife.com/Carian+Knight+Set',
+    },
+  ],
+  [
+    'get-conspectus-scroll',
+    {
+      id: 'get-conspectus-scroll',
+      title: 'Get Conspectus Scroll',
+      image: '',
+      link: 'https://eldenring.wiki.fextralife.com/Conspectus+Scroll',
+    },
+  ],
+  [
+    'get-olivinus-glintstone-crown-and-ritual-pot',
+    {
+      id: 'get-olivinus-glintstone-crown-and-ritual-pot',
+      title: 'Get Olivinus Glintstone Crown and Ritual Pot',
+      image:
+        'https://eldenring.wiki.fextralife.com/file/Elden-Ring/olivinus_glintstone_crown_elden_ring_wiki_guide_200px.png',
+      link: 'https://eldenring.wiki.fextralife.com/Olivinus+Glintstone+Crown',
+    },
+  ],
+  [
+    'defeat-red-wolf-of-radagon',
+    {
+      id: 'defeat-red-wolf-of-radagon',
+      title: 'Defeat Red Wolf of Radagon',
+      image:
+        'https://eldenring.wiki.fextralife.com/file/Elden-Ring/red-wolf-of-radagon.jpg',
+      link: 'https://eldenring.wiki.fextralife.com/Red+Wolf+of+Radagon',
+    },
+  ],
+  [
+    'access-secret-radagon-upstairs-area',
+    {
+      id: 'access-secret-radagon-upstairs-area',
+      title: 'Access Secret Radagon Upstairs Area',
+      image: '',
+      link: '',
+    },
+  ],
+  [
+    'get-key-golden-seed-glintstone-crown',
+    {
+      id: 'get-key-golden-seed-glintstone-crown',
+      title: 'Get Stonesword Key, Golden Seed and Karolos Glintstone Crown',
+      image:
+        'https://eldenring.wiki.fextralife.com/file/Elden-Ring/karolos_glintstone_crown_elden_ring_wiki_guide_200px.png',
+      link: 'https://eldenring.wiki.fextralife.com/Karolos+Glintstone+Crown',
+    },
+  ],
+  [
+    'expore-upper-rooftops',
+    {
+      id: 'expore-upper-rooftops',
+      title: 'Explore Upper Rooftops',
+      image: '',
+      link: '',
+    },
+  ],
+  [
+    'get-imbued-sword-key',
+    {
+      id: 'get-imbued-sword-key',
+      title: 'Get Imbued Sword Key',
+      image:
+        'https://eldenring.wiki.fextralife.com/file/Elden-Ring/imbued-sword-key-elden-ring-wiki-guide.png',
+      link: 'https://eldenring.wiki.fextralife.com/Imbued+Sword+Key',
+    },
+  ],
+  [
+    'loot-scademy-glintstone-key',
+    {
+      id: 'loot-scademy-glintstone-key',
+      title: 'Loot Academy Glintstone Key',
+      image:
+        'https://eldenring.wiki.fextralife.com/file/Elden-Ring/academy-glintstone-key_key-items-elden-ring-wiki-guide-200.png',
+      link: 'https://eldenring.wiki.fextralife.com/Academy+Glintstone+Key',
+    },
+  ],
+  [
+    'defeat-moongrum-carian-knight',
+    {
+      id: 'defeat-moongrum-carian-knight',
+      title: 'Defeat Moongrum, Carian Knight',
+      image:
+        'https://eldenring.wiki.fextralife.com/file/Elden-Ring/moongrum-carian-knight-hostile-npc-enemy-elden-ring-wiki-guide.jpg',
+      link: 'https://eldenring.wiki.fextralife.com/Moongrum+Carian+Knight',
+    },
+  ],
+  [
+    'deal-with-iron-ball',
+    {
+      id: 'deal-with-iron-ball',
+      title: 'Deal with Iron Ball Trap',
+      image: '',
+      link: '',
+    },
+  ],
+  [
+    'defeat-rennala',
+    {
+      id: 'defeat-rennala',
+      title: 'Defeat Rennala, Queen of the Full Moon',
+      image:
+        'https://eldenring.wiki.fextralife.com/file/Elden-Ring/renala_bosses_elden_ring_wiki_guide_300px.jpg',
+      link: 'https://eldenring.wiki.fextralife.com/Rennala+Queen+of+the+Full+Moon',
     },
   ],
 ]);
