@@ -125,6 +125,21 @@ export const progression: PageCategory[] = [
     ],
   },
   {
+    title: 'Deeproot Depths',
+    subtitle: 'Level: 70+ Upgrades: +15 ~ +20',
+    tasks: [
+      'defeat-erdtree-avatar',
+      'loot-upgrade-materials-deeproot-depths',
+      'talk-to-palm-reader',
+      'obtain-area-map-deeproot-depths',
+      'activate-walking-mausoleum',
+      'defeat-crucible-knight-siluria',
+      'defeat-fias-champions',
+      'talk-to-fia',
+      'defeat-lichdragon-fortissax',
+    ],
+  },
+  {
     title: 'Nokstella, Eternal City & Lake of Rot',
     subtitle: 'Level: 80+ Upgrades: +15 ~ +20 (Lake of Rot)',
     tasks: [

@@ -501,10 +501,91 @@ const taskHash: Map<string, Task> = new Map([
     },
   ],
   [
+    'defeat-erdtree-avatar',
+    {
+      id: 'defeat-erdtree-avatar',
+      title: 'Defeat Erdtree Avatar',
+      image: 'https://eldenring.wiki.fextralife.com/file/Elden-Ring/erdtree-avatar-boss-elden-ring-compressed-300px.jpg',
+      link: 'https://eldenring.wiki.fextralife.com/Erdtree+Avatar',
+    },
+  ],
+  [
+    'loot-upgrade-materials-deeproot-depths',
+    {
+      id: 'loot-upgrade-materials-deeproot-depths',
+      title: 'Loot Upgrade Materials',
+      image: '',
+      link: '',
+    },
+  ],
+  [
+    'talk-to-palm-reader',
+    {
+      id: 'talk-to-palm-reader',
+      title: 'Talk to Palm Reader',
+      image: 'https://eldenring.wiki.fextralife.com/file/Elden-Ring/palm_reader_elden_ring_wiki_guide_300px.jpg',
+      link: 'https://eldenring.wiki.fextralife.com/Palm+Reader',
+    },
+  ],
+  [
+    'obtain-area-map-deeproot-depths',
+    {
+      id: 'obtain-area-map-deeproot-depths',
+      title: 'Talk to Palm Reader',
+      image: 'https://eldenring.wiki.fextralife.com/file/Elden-Ring/deeproot-depths-location-undeground-elden-ring-wiki-guide.jpg',
+      link: 'https://eldenring.wiki.fextralife.com/Deeproot+Depths',
+    },
+  ],
+  [
+    'activate-walking-mausoleum',
+    {
+      id: 'activate-walking-mausoleum',
+      title: 'Activate Walking Mausoleum',
+      image: 'https://eldenring.wiki.fextralife.com/file/Elden-Ring/walking-mausoleum-location-elden-ring-wiki-guide.jpg',
+      link: 'https://eldenring.wiki.fextralife.com/Walking+Mausoleum',
+    },
+  ],
+  [
+    'defeat-crucible-knight-siluria',
+    {
+      id: 'defeat-crucible-knight-siluria',
+      title: 'Defeat Crucible Knight Siluria',
+      image: 'https://eldenring.wiki.fextralife.com/file/Elden-Ring/crucible_knight_siluria_elden_ring_wiki_guide_300px.jpg',
+      link: 'https://eldenring.wiki.fextralife.com/Crucible+Knight+Siluria',
+    },
+  ],
+  [
+    'defeat-fias-champions',
+    {
+      id: 'defeat-fias-champions',
+      title: 'Defeat Fia"s Champions',
+      image: 'https://eldenring.wiki.fextralife.com/file/Elden-Ring/crucible_knight_siluria_elden_ring_wiki_guide_300px.jpg',
+      link: 'https://eldenring.wiki.fextralife.com/Fia"s+Champions',
+    },
+  ],
+  [
+    'talk-to-fia',
+    {
+      id: 'talk-to-fia',
+      title: 'Talk to Fia',
+      image: 'https://eldenring.wiki.fextralife.com/file/Elden-Ring/fia-npc-elden-ring-wiki-300px2-min.jpeg',
+      link: 'https://eldenring.wiki.fextralife.com/Fia',
+    },
+  ],
+  [
+    'defeat-lichdragon-fortissax',
+    {
+      id: 'defeat-lichdragon-fortissax',
+      title: 'TDefeat Lichdragon Fortissax',
+      image: 'https://eldenring.wiki.fextralife.com/file/Elden-Ring/lichdragon-fortissax-elden-ring-wiki-guide.jpg',
+      link: 'https://eldenring.wiki.fextralife.com/Lichdragon+Fortissax',
+    },
+  ],
+  [
     'enter-ainsel-river-main',
     {
       id: 'enter-ainsel-river-main',
-      title: 'Enter Ainsel River Main',
+      title: 'Obtain Area Map',
       image: '',
       link: 'https://eldenring.wiki.fextralife.com/Ainsel+River+Main',
     },
