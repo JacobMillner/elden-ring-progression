@@ -501,6 +501,386 @@ const taskHash: Map<string, Task> = new Map([
     },
   ],
   [
+    'enter-ainsel-river-main',
+    {
+      id: 'enter-ainsel-river-main',
+      title: "Enter Ainsel River Main",
+      image:
+        '',
+      link: "https://eldenring.wiki.fextralife.com/Ainsel+River+Main",
+    },
+  ],
+  [
+    'collect-miniature-ranni',
+    {
+      id: 'collect-miniature-ranni',
+      title: "Collect Miniature Ranni",
+      image:
+        'https://eldenring.wiki.fextralife.com/file/Elden-Ring/miniature-ramni-key-items-description.png',
+      link: "https://eldenring.wiki.fextralife.com/Miniature+Ranni",
+    },
+  ],
+  [
+    'enter-nokstella-eternal-city',
+    {
+      id: 'enter-nokstella-eternal-city',
+      title: "Enter Nokstella, Eternal City",
+      image:
+        'https://eldenring.wiki.fextralife.com/file/Elden-Ring/nokstella-eternal-city-locations-elden-ring-wiki-guide-300px.jpg',
+      link: "https://eldenring.wiki.fextralife.com/Nokstella,+Eternal+City",
+    },
+  ],
+  [
+    'collect-key-items-and-spirit-ashes-nokstella',
+    {
+      id: 'collect-key-items-and-spirit-ashes-nokstella',
+      title: "Collect Key Items & Spirit Ashes",
+      image:
+        '',
+      link: "",
+    },
+  ],
+  [
+    'talk-to-miniature-ranni',
+    {
+      id: 'talk-to-miniature-ranni',
+      title: "Talk to Miniature Ranni",
+      image:
+        'https://eldenring.wiki.fextralife.com/file/Elden-Ring/miniature-ramni-key-items-description.png',
+      link: "https://eldenring.wiki.fextralife.com/Miniature+Ranni",
+    },
+  ],
+  [
+    'enter-lake-of-rot',
+    {
+      id: 'enter-lake-of-rot',
+      title: "Enter Lake of Rot",
+      image:
+        'https://eldenring.wiki.fextralife.com/file/Elden-Ring/lake-of-rot-a-locations-elden-ring-wiki-guide-300px.jpg',
+      link: "https://eldenring.wiki.fextralife.com/Lake+of+Rot",
+    },
+  ],
+  [
+    'obtain-map-fragment-nokstella',
+    {
+      id: 'obtain-map-fragment-nokstella',
+      title: "Obtain Map Fragment",
+      image:
+        '',
+      link: "",
+    },
+  ],
+  [
+    'use-the-discarded-palace-key',
+    {
+      id: 'use-the-discarded-palace-key',
+      title: "Obtain Map Fragment",
+      image:
+        'https://eldenring.wiki.fextralife.com/file/Elden-Ring/discarded-palace-key-elden-ring-wiki-guide.png',
+      link: "https://eldenring.wiki.fextralife.com/Discarded+Palace+Key",
+    },
+  ],
+  [
+    'defeat-dragonkin-soldier',
+    {
+      id: 'defeat-dragonkin-soldier',
+      title: "Defeat Dragonkin Soldier",
+      image:
+        'https://eldenring.wiki.fextralife.com/file/Elden-Ring/dragonkin-soldier-boss-enemies-elden-ring-wiki-guide-300px.jpg',
+      link: "https://eldenring.wiki.fextralife.com/Dragonkin+Soldier",
+    },
+  ],
+  [
+    'enter-grand-cloister-nokstella',
+    {
+      id: 'enter-grand-cloister-nokstella',
+      title: "Enter Grand Cloister",
+      image:
+        'https://eldenring.wiki.fextralife.com/file/Elden-Ring/grand_cloister_locations_elden_ring_wiki_300px.jpg',
+      link: "https://eldenring.wiki.fextralife.com/Grand+Cloister",
+    },
+  ],
+  [
+    'defeat-astel-naturalborn-of-the-void',
+    {
+      id: 'defeat-astel-naturalborn-of-the-void',
+      title: "Defeat Astel, Naturalborn of the Void",
+      image:
+        'https://eldenring.wiki.fextralife.com/file/Elden-Ring/astel.jpg',
+      link: "https://eldenring.wiki.fextralife.com/Astel+Naturalborn+of+the+Void",
+    },
+  ],
+  [
+    'get-access-to-altus-plateau',
+    {
+      id: 'get-access-to-altus-plateau',
+      title: "Get access to the Altus Plateau",
+      image:
+        'https://eldenring.wiki.fextralife.com/file/Elden-Ring/altus-plateau-hub-location-preview-elden-ring-wiki-guide-300px.jpghttps://eldenring.wiki.fextralife.com/file/Elden-Ring/malefactors_evergaol_locations_elden_ring_wiki_guide.jpg',
+      link: "https://eldenring.wiki.fextralife.com/Altus+Plateau",
+    },
+  ],
+  [
+    'complete-western-altus-objectives',
+    {
+      id: 'complete-western-altus-objectives',
+      title: "Complete Western Altus Objectives",
+      image:
+        'https://eldenring.wiki.fextralife.com/file/Elden-Ring/altus-plateau-hub-location-preview-elden-ring-wiki-guide-300px.jpghttps://eldenring.wiki.fextralife.com/file/Elden-Ring/malefactors_evergaol_locations_elden_ring_wiki_guide.jpg',
+      link: "https://eldenring.wiki.fextralife.com/Altus+Plateau",
+    },
+  ],
+  [
+    'talk-to-millicent',
+    {
+      id: 'talk-to-millicent',
+      title: "Talk to Millicent",
+      image:
+        'https://eldenring.wiki.fextralife.com/file/Elden-Ring/millicent-npc-elden-ring-wiki-300px-min-min-min.jpeg',
+      link: "https://eldenring.wiki.fextralife.com/Millicent",
+    },
+  ],
+  [
+    'complete-old-altus-tunnel',
+    {
+      id: 'complete-old-altus-tunnel',
+      title: "Complete Old Altus Tunnel",
+      image:
+        'https://eldenring.wiki.fextralife.com/file/Elden-Ring/old_altus_tunnel_locations_elden_ring_wiki_guide_300px.jpg',
+      link: "https://eldenring.wiki.fextralife.com/Old+Altus+Tunnel",
+    },
+  ],
+  [
+    'complete-shaded-castle',
+    {
+      id: 'complete-shaded-castle',
+      title: "Complete Shaded Castle",
+      image:
+        'https://eldenring.wiki.fextralife.com/file/Elden-Ring/the-shaded-castle-location-elden-ring-wiki-guide.jpg',
+      link: "https://eldenring.wiki.fextralife.com/The+Shaded+Castle",
+    },
+  ],
+  [
+    'talk-to-millicent-again',
+    {
+      id: 'talk-to-millicent-again',
+      title: "Talk to Millicent",
+      image:
+        'https://eldenring.wiki.fextralife.com/file/Elden-Ring/millicent-npc-elden-ring-wiki-300px-min-min-min.jpeg',
+      link: "https://eldenring.wiki.fextralife.com/Millicent",
+    },
+  ],
+  [
+    'complete-golden-lineage-evergaolboc-the-seamster',
+    {
+      id: 'complete-golden-lineage-evergaolboc-the-seamster',
+      title: "Complete Golden Lineage EvergaolBoc the Seamster",
+      image:
+        '',
+      link: "https://eldenring.wiki.fextralife.com/Golden+Lineage+Evergaol",
+    },
+  ],
+  [
+    'obtain-zone-map-talk-to-boc-and-corhyn',
+    {
+      id: 'obtain-zone-map-talk-to-boc-and-corhyn',
+      title: "Obtain Zone Map & Talk to Boc and Corhyn",
+      image:
+        'https://eldenring.wiki.fextralife.com/file/Elden-Ring/brother_corhyn_npcs_elden_ring_wiki_guide.jpg',
+      link: "https://eldenring.wiki.fextralife.com/Brother+Corhyn",
+    },
+  ],
+  [
+    'complete-secong-church-of-marika',
+    {
+      id: 'complete-secong-church-of-marika',
+      title: "Complete Second Church of Marika",
+      image:
+        '',
+      link: "https://eldenring.wiki.fextralife.com/Second+Church+of+Marika",
+    },
+  ],
+  [
+    'get-minord-erdtree-flask-upgrade-complete-valley-objectives',
+    {
+      id: 'get-minord-erdtree-flask-upgrade-complete-valley-objectives',
+      title: "Get Minord Erdtree Flask Upgrades & complete valley objectives",
+      image:
+        '',
+      link: "",
+    },
+  ],
+  [
+    'complete-dominula-and-talk-to-millicent',
+    {
+      id: 'complete-dominula-and-talk-to-millicent',
+      title: "Complete Dominula & talk to Millicent",
+      image:
+        'https://eldenring.wiki.fextralife.com/file/Elden-Ring/millicent-npc-elden-ring-wiki-300px-min-min-min.jpeg',
+      link: "https://eldenring.wiki.fextralife.com/Millicent",
+    },
+  ],
+  [
+    'explore-eastern-altus-heights',
+    {
+      id: 'explore-eastern-altus-heights',
+      title: "Explore Eastern Altus Heights",
+      image:
+        'https://eldenring.wiki.fextralife.com/file/Elden-Ring/altus-plateau-hub-location-preview-elden-ring-wiki-guide-300px.jpg',
+      link: "https://eldenring.wiki.fextralife.com/Altus+Plateau",
+    },
+  ],
+  [
+    'meet-goldmask-report-to-corhyb',
+    {
+      id: 'meet-goldmask-report-to-corhyb',
+      title: "Meet Goldmask and report to Corhyn",
+      image:
+        'https://eldenring.wiki.fextralife.com/file/Elden-Ring/goldmask_npcs_elden_ring_wiki_guide300px.jpg',
+      link: "https://eldenring.wiki.fextralife.com/Goldmask",
+    },
+  ],
+  [
+    'unlock-mt-gelmir-site-of-grace',
+    {
+      id: 'unlock-mt-gelmir-site-of-grace',
+      title: "Unlock Mt Gelmir's site of grace",
+      image:
+        'https://eldenring.wiki.fextralife.com/file/Elden-Ring/mt-gelmir-hub-location-preview-elden-ring-wiki-guide-300px.jpg',
+      link: "https://eldenring.wiki.fextralife.com/Mt+Gelmir",
+    },
+  ],
+  [
+    'defeat-tibia-mariner',
+    {
+      id: 'defeat-tibia-mariner',
+      title: "Defeat Tibia Mariner",
+      image:
+        'https://eldenring.wiki.fextralife.com/file/Elden-Ring/tibia-mariner_ground_boss_enemies_elden_ring_wiki_300px.jpg',
+      link: "https://eldenring.wiki.fextralife.com/Tibia+Mariner",
+    },
+  ],
+  [
+    'complete-wyndham-ruins-and-catacombs',
+    {
+      id: 'complete-wyndham-ruins-and-catacombs',
+      title: "Complete Wyndham Ruins & Catacombs",
+      image:
+        'https://eldenring.wiki.fextralife.com/file/Elden-Ring/wyndham_ruins_2_locations_elden_ring_wiki_guide.jpg',
+      link: "https://eldenring.wiki.fextralife.com/Wyndham+Ruins",
+    },
+  ],
+  [
+    'defeat-draconic-tree-sentinel',
+    {
+      id: 'defeat-draconic-tree-sentinel',
+      title: "Defeat Draconic Tree Sentinel",
+      image:
+        'https://eldenring.wiki.fextralife.com/file/Elden-Ring/draconic_tree_sentinel_boss_elden_ring_wiki_guide_300x.jpg',
+      link: "https://eldenring.wiki.fextralife.com/Draconic+Tree+Sentinel",
+    },
+  ],
+  [
+    'enter-leyndell',
+    {
+      id: 'enter-leyndell',
+      title: "Enter Leyndell",
+      image:
+        'https://eldenring.wiki.fextralife.com/file/Elden-Ring/leyndell_royal_capital_locations_elden_ring_wiki_guide_300px.jpg',
+      link: "https://eldenring.wiki.fextralife.com/Leyndell+Royal+Capital",
+    },
+  ],
+  [
+    'go-to-the-erdtree-sanctuary',
+    {
+      id: 'go-to-the-erdtree-sanctuary',
+      title: "Go to the Erdtree Sanctuary",
+      image:
+        '',
+      link: "https://eldenring.wiki.fextralife.com/Interactive+Map?id=4121&lat=-106.921&lng=115.778&zoom=8&code=mapA",
+    },
+  ],
+  [
+    'defeat-godfrey-first-elden-lord-golden-shade',
+    {
+      id: 'defeat-godfrey-first-elden-lord-golden-shade',
+      title: "Defeat Godfrey, First Elden Lord (Golden Shade)",
+      image:
+        'https://eldenring.wiki.fextralife.com/file/Elden-Ring/godfrey_golden_shade_bosses_elden_ring_wiki_guide.jpg',
+      link: "https://eldenring.wiki.fextralife.com/Godfrey,+First+Elden+Lord+(Golden+Shade)",
+    },
+  ],
+  [
+    'get-in-the-queens-bedchamber',
+    {
+      id: 'get-in-the-queens-bedchamber',
+      title: "Get in the Queen's Bedchamber",
+      image:
+        '',
+      link: "https://eldenring.wiki.fextralife.com/Interactive+Map?id=3222&lat=-105.62&lng=119.168&zoom=8&code=mapA",
+    },
+  ],
+  [
+    'defeat-morgott-the-omen-king',
+    {
+      id: 'defeat-morgott-the-omen-king',
+      title: "Defeat Morgott the Omen King",
+      image:
+        'https://eldenring.wiki.fextralife.com/file/Elden-Ring/morgott-the-omen-king.jpg',
+      link: "https://eldenring.wiki.fextralife.com/Morgott+the+Omen+King",
+    },
+  ],
+  [
+    'barrier-in-capital-outskirts-is-no-longer',
+    {
+      id: 'barrier-in-capital-outskirts-is-no-longer',
+      title: "Barrier in the Capital Outskirts is no longer",
+      image:
+        '',
+      link: "https://eldenring.wiki.fextralife.com/Interactive+Map?id=1451&lat=-102.398437&lng=125.082242&zoom=8&code=mapA",
+    },
+  ],
+  [
+    'proceed-to-the-forbidden-lands',
+    {
+      id: 'proceed-to-the-forbidden-lands',
+      title: "Proceed to the Forbidden Lands",
+      image:
+        'https://eldenring.wiki.fextralife.com/file/Elden-Ring/forbidden-lands-hub-location-preview-elden-ring-wiki-guide-300px.jpeg',
+      link: "https://eldenring.wiki.fextralife.com/Forbidden+Lands",
+    },
+  ],
+  [
+    'enter-leyndell-royal-capital',
+    {
+      id: 'enter-leyndell-royal-capital',
+      title: "Enter from Leyndell Royal Capital",
+      image:
+        'https://eldenring.wiki.fextralife.com/file/Elden-Ring/leyndell_royal_capital_locations_elden_ring_wiki_guide_300px.jpg',
+      link: "https://eldenring.wiki.fextralife.com/Leyndell+Royal+Capital",
+    },
+  ],
+  [
+    'defeat-black-blade-kindred',
+    {
+      id: 'defeat-black-blade-kindred',
+      title: "Defeat Black Blade Kindred",
+      image:
+        'https://eldenring.wiki.fextralife.com/file/Elden-Ring/leyndell_royal_capital_locations_elden_ring_wiki_guide_300px.jpg',
+      link: "https://eldenring.wiki.fextralife.com/Leyndell+Royal+Capital",
+    },
+  ],
+  [
+    'proceed-to-mountaintops-of-giants',
+    {
+      id: 'proceed-to-mountaintops-of-giants',
+      title: "Proceed to Mountaintops of the Giants",
+      image:
+        '',
+      link: "https://eldenring.wiki.fextralife.com/Mountaintops+of+the+Giants",
+    },
+  ],
+  [
     'loot-sacrificial-twig',
     {
       id: 'loot-sacrificial-twig',
