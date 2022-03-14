@@ -40,6 +40,7 @@ export const progression: PageCategory[] = [
       'meet-yura',
       'kill-dragon-agheel',
       'obtain-royal-house-scroll',
+      'talk-to-irina',
       'default-knights-cavalry',
       'obtain-memory-slot-1',
       'get-sacred-tears-1',
@@ -163,10 +164,7 @@ export const progression: PageCategory[] = [
   {
     title: 'Mt Gelmir',
     subtitle: 'Level: 80+ Upgrades: +15 ~ +20',
-    tasks: [
-      'defeat-tibia-mariner',
-      'complete-wyndham-ruins-and-catacombs',
-    ],
+    tasks: ['defeat-tibia-mariner', 'complete-wyndham-ruins-and-catacombs'],
   },
   {
     title: 'Leyndell, Royal Capital',
