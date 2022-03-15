@@ -1115,6 +1115,146 @@ const taskHash: Map<string, Task> = new Map([
       link: 'https://eldenring.wiki.fextralife.com/Rennala+Queen+of+the+Full+Moon',
     },
   ],
+  [
+    'get-kaiden-sellsword-ashes',
+    {
+      id: 'get-kaiden-sellsword-ashes',
+      title: 'Get Kaiden Sellsword Ashes',
+      image:
+        'https://eldenring.wiki.fextralife.com/file/Elden-Ring/kaiden_sellsword_ashes_elden_ring_wiki_guide_200px.png',
+      link: 'https://eldenring.wiki.fextralife.com/Kaiden+Sellsword+Ashes',
+    },
+  ],
+  [
+    'get-shabiri-grape-talk-to-hyetta',
+    {
+      id: 'get-shabiri-grape-talk-to-hyetta',
+      title: 'Get Shabriri Grape at Purified Ruins and Talk to Hyetta',
+      image:
+        'https://eldenring.wiki.fextralife.com/file/Elden-Ring/purefied-ruins-location-elden-ring-wiki-300px-min-min.jpeg',
+      link: 'https://eldenring.wiki.fextralife.com/Purified+Ruins',
+    },
+  ],
+  [
+    'get-cookbook-staff-highway-lookout',
+    {
+      id: 'get-cookbook-staff-highway-lookout',
+      title: 'Get Cookbook & Staff at Highway Lookout Tower',
+      image:
+        'https://eldenring.wiki.fextralife.com/file/Elden-Ring/carian_glintblade_staff_glintstonestaff_weapon_elden_ring_wiki_guide_200px.png',
+      link: 'https://eldenring.wiki.fextralife.com/Highway+Lookout+Tower',
+    },
+  ],
+  [
+    'kill-knighs-cavalry-2',
+    {
+      id: 'kill-knighs-cavalry-2',
+      title: "Defeat Night's Cavalry",
+      image:
+        'https://eldenring.wiki.fextralife.com/file/Elden-Ring/nights_cavalry_bosses_elden_ring_wiki_guide.jpg',
+      link: "https://eldenring.wiki.fextralife.com/Night's+Cavalry",
+    },
+  ],
+  [
+    'defeat-tibia-mariner-2',
+    {
+      id: 'defeat-tibia-mariner-2',
+      title: 'Defeat Tibia Mariner',
+      image:
+        'https://eldenring.wiki.fextralife.com/file/Elden-Ring/tibia-mariner_ground_boss_enemies_elden_ring_wiki_300px.jpg',
+      link: 'https://eldenring.wiki.fextralife.com/Tibia+Mariner',
+    },
+  ],
+  [
+    'obtain-dragon-cult-prayerbook',
+    {
+      id: 'obtain-dragon-cult-prayerbook',
+      title: 'Obtain Dragon Cult Prayerbook',
+      image:
+        'https://eldenring.wiki.fextralife.com/file/Elden-Ring/dragon_cult_prayerbook_elden_ring_wiki_guide_200px.png',
+      link: 'https://eldenring.wiki.fextralife.com/Dragon+Cult+Prayerbook',
+    },
+  ],
+  [
+    'visit-church-of-vows',
+    {
+      id: 'visit-church-of-vows',
+      title: 'Visit Church of Vows',
+      image:
+        'https://eldenring.wiki.fextralife.com/file/Elden-Ring/church_of_vows_locations_elden_ring_wiki_300px.jpg',
+      link: 'https://eldenring.wiki.fextralife.com/Church+of+Vows',
+    },
+  ],
+  [
+    'obtain-flask-upgrades-from-erdtree-2',
+    {
+      id: 'obtain-flask-upgrades-from-erdtree-2',
+      title: 'Obtain Flask Upgrades from Minor Erdtree',
+      image:
+        'https://eldenring.wiki.fextralife.com/file/Elden-Ring/minor_erdtree_(liurnia_northeast)_full_map_elden_ring_wiki_guide_600px.jpg',
+      link: 'https://eldenring.wiki.fextralife.com/Minor+Erdtree+(Liurnia+Northeast)',
+    },
+  ],
+  [
+    'obtain-flask-upgrades-from-erdtree-2',
+    {
+      id: 'obtain-flask-upgrades-from-erdtree-2',
+      title: 'Obtain Flask Upgrades from Minor Erdtree',
+      image:
+        'https://eldenring.wiki.fextralife.com/file/Elden-Ring/minor_erdtree_(liurnia_northeast)_full_map_elden_ring_wiki_guide_600px.jpg',
+      link: 'https://eldenring.wiki.fextralife.com/Minor+Erdtree+(Liurnia+Northeast)',
+    },
+  ],
+  [
+    'walking-mausoleum-2',
+    {
+      id: 'walking-mausoleum-2',
+      title: 'Unlock Walking Mausoleum',
+      image:
+        'https://eldenring.wiki.fextralife.com/file/Elden-Ring/walking-mausoleum-location-elden-ring-wiki-guide.jpg',
+      link: 'https://eldenring.wiki.fextralife.com/Walking+Mausoleum',
+    },
+  ],
+  [
+    'upgrades-raya-lucaria-crystal-tunnel',
+    {
+      id: 'upgrades-raya-lucaria-crystal-tunnel',
+      title: 'Get upgrades from Raya Lucaria Crystal Tunnel',
+      image:
+        'https://eldenring.wiki.fextralife.com/file/Elden-Ring/raya_lucaria_crystal_tunnel_locations_elden_ring_wiki_guide.jpg',
+      link: 'https://eldenring.wiki.fextralife.com/Raya+Lucaria+Crystal+Tunnel',
+    },
+  ],
+  [
+    'visit-frenzied-flame-village',
+    {
+      id: 'visit-frenzied-flame-village',
+      title: 'Visit Frenzied Flame Village',
+      image:
+        'https://eldenring.wiki.fextralife.com/file/Elden-Ring/frenzied_flame_village_full_map_elden_ring_wiki_guide_600px.jpg',
+      link: 'https://eldenring.wiki.fextralife.com/Frenzied+Flame+Village',
+    },
+  ],
+  [
+    'spells-from-fringe-tower',
+    {
+      id: 'spells-from-fringe-tower',
+      title: 'Obtain powerful spells from Converted Fringe Tower',
+      image:
+        'https://eldenring.wiki.fextralife.com/file/Elden-Ring/converted_fringe_tower_full_map_elden_ring_wiki_guide_600px.jpg',
+      link: 'https://eldenring.wiki.fextralife.com/Converted+Fringe+Tower',
+    },
+  ],
+  [
+    'unlock-ainsel-river-well',
+    {
+      id: 'unlock-ainsel-river-well',
+      title: 'Unlock Ainsel River Well',
+      image:
+        'https://eldenring.wiki.fextralife.com/file/Elden-Ring/ainsel-river-well-location-elden-ring-wiki-guide.jpg',
+      link: 'https://eldenring.wiki.fextralife.com/Ainsel+River+Well',
+    },
+  ],
 ]);
 
 export default taskHash;

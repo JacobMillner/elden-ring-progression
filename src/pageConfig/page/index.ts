@@ -125,6 +125,25 @@ export const progression: PageCategory[] = [
     ],
   },
   {
+    title: 'Liurnia of the Lakes East',
+    subtitle: 'Level: 50~60 Upgrades: +4 ~ +6',
+    tasks: [
+      'get-kaiden-sellsword-ashes',
+      'get-shabiri-grape-talk-to-hyetta',
+      'get-cookbook-staff-highway-lookout',
+      'kill-knighs-cavalry-2',
+      'defeat-tibia-mariner-2',
+      'obtain-dragon-cult-prayerbook',
+      'visit-church-of-vows',
+      'obtain-flask-upgrades-from-erdtree-2',
+      'walking-mausoleum-2',
+      'upgrades-raya-lucaria-crystal-tunnel',
+      'visit-frenzied-flame-village',
+      'spells-from-fringe-tower',
+      'unlock-ainsel-river-well',
+    ],
+  },
+  {
     title: 'Deeproot Depths',
     subtitle: 'Level: 70+ Upgrades: +15 ~ +20',
     tasks: [
@@ -191,6 +210,7 @@ export const progression: PageCategory[] = [
       'get-in-the-queens-bedchamber',
       'defeat-morgott-the-omen-king',
       'barrier-in-capital-outskirts-is-no-longer',
+      'proceed-to-the-forbidden-lands',
       'proceed-to-the-forbidden-lands',
     ],
   },
