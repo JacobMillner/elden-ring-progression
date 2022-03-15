@@ -42,13 +42,15 @@ const ProgressRow = (props: ProgressRowProps) => {
       </td>
       <td className="text-sm text-gray-900 font-light px-6 py-4 whitespace-nowrap">
         <div className="flex flex-wrap justify-center">
-          <a href={image} target="_blank" rel="noreferrer">
-            <img
-              src={image}
-              className="object-scale-down h-20 w-20 p-1 bg-white border rounded shadow-lg max-w-sm hover:bg-grey-600 transition duration-500 hover:scale-150"
-              alt={title}
-            />
-          </a>
+          {image && image !== '' && (
+            <a href={image} target="_blank" rel="noreferrer">
+              <img
+                src={image}
+                className="object-scale-down h-20 w-20 p-1 bg-white border rounded shadow-lg max-w-sm hover:bg-grey-600 transition duration-500 hover:scale-150"
+                alt={title}
+              />
+            </a>
+          )}
         </div>
       </td>
     </tr>
