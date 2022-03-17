@@ -1,6 +1,7 @@
 import Modal from 'components/Modal';
 import React, { useEffect, useState } from 'react';
 import { ProgressRowProps } from './types';
+import { InformationCircleIcon } from '@heroicons/react/solid';
 
 const ProgressRow = (props: ProgressRowProps) => {
   const { id, title, checkedData, image, link, longDesc, toggleCheckbox } =
@@ -33,19 +34,16 @@ const ProgressRow = (props: ProgressRowProps) => {
           />
         </td>
         <td
-          className="text-sm text-gray-900 font-light px-6 py-4 whitespace-nowrap hover:cursor-pointer"
-          onClick={() => {
-            toggleCheckbox(!checked, id);
-          }}
+          className="text-sm text-gray-900 font-light px-6 py-4 whitespace-nowrap"
         >
-          {title}{' '}
+          {title}
           {longDesc && (
             <button
-              className="bg-pink-500 text-white active:bg-pink-600 font-bold uppercase text-sm px-6 py-3 rounded shadow hover:shadow-lg outline-none focus:outline-none mr-1 mb-1 ease-linear transition-all duration-150"
+              className="bg-blue-500 text-white active:bg-blue-600 ml-6 px-2 py-1 rounded shadow hover:shadow-lg outline-none focus:outline-none mr-1 mb-1 ease-linear transition-all duration-150"
               type="button"
               onClick={() => setShowModal(true)}
             >
-              More info
+              <InformationCircleIcon className="h-5 w-5 text-black-500" />
             </button>
           )}
         </td>
