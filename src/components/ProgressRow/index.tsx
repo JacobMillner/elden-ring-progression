@@ -1,7 +1,7 @@
-import Modal from 'components/Modal';
 import React, { useEffect, useState } from 'react';
 import { ProgressRowProps } from './types';
 import { InformationCircleIcon } from '@heroicons/react/solid';
+import Modal from 'components/Modal';
 
 const ProgressRow = (props: ProgressRowProps) => {
   const { id, title, checkedData, image, link, longDesc, toggleCheckbox } =
@@ -33,9 +33,7 @@ const ProgressRow = (props: ProgressRowProps) => {
             id={id}
           />
         </td>
-        <td
-          className="text-sm text-gray-900 font-light px-6 py-4 whitespace-nowrap"
-        >
+        <td className="text-sm text-gray-900 font-light px-6 py-4 whitespace-nowrap">
           {title}
           {longDesc && (
             <button

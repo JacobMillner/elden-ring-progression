@@ -4,3 +4,7 @@
 /* Your own custom component styles */
 
 @import 'tailwindcss/utilities';
+
+a {
+    @apply underline text-blue-600 hover:text-blue-800
+ }
