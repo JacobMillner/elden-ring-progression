@@ -21,7 +21,11 @@ const TaskCategory = (props: TaskCategoryProps) => {
             aria-controls="collapseOne5"
           >
             {title}
-            {subtitle && <span className="p-1 ml-2 text-xs text-center text-lime-600">{subtitle}</span>}
+            {subtitle && (
+              <span className="p-1 ml-2 text-xs text-center text-lime-600">
+                {subtitle}
+              </span>
+            )}
           </button>
         </h2>
         <div
