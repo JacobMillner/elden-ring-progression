@@ -13,7 +13,7 @@ const TaskCategory = (props: TaskCategoryProps) => {
       <div className="accordion-item bg-white border border-gray-200">
         <h2 className="accordion-header mb-0" id="headingOne5">
           <button
-            className="accordion-button text-2xl relative flex items-center w-full py-4 px-5 text-base text-gray-800 text-left bg-white border-0 rounded-none transition focus:outline-none"
+            className="accordion-button text-3xl relative flex items-center w-full py-4 px-5 text-base text-gray-800 text-left bg-white border-0 rounded-none transition focus:outline-none"
             type="button"
             data-bs-toggle="collapse"
             data-bs-target="#collapseOne5"
@@ -21,7 +21,7 @@ const TaskCategory = (props: TaskCategoryProps) => {
             aria-controls="collapseOne5"
           >
             {title}
-            {subtitle && <span className="p-1 ml-2 text-sm text-cyan-900">{subtitle}</span>}
+            {subtitle && <span className="p-1 ml-2 text-xs text-center text-lime-600">{subtitle}</span>}
           </button>
         </h2>
         <div
