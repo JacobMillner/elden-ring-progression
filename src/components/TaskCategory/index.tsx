@@ -49,6 +49,7 @@ const TaskCategory = (props: TaskCategoryProps) => {
                           title={task.title}
                           image={task.image}
                           link={task.link}
+                          longDesc={task.longDesc}
                           checkedData={checkData}
                           toggleCheckbox={toggleCheckbox}
                           key={`task-${task.id}`}

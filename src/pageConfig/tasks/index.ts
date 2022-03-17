@@ -29,6 +29,7 @@ const taskHash: Map<string, Task> = new Map([
       image:
         'https://eldenring.wiki.fextralife.com/file/Elden-Ring/boc_npcs_elden_ring_wiki_guide_300px.jpg',
       link: 'https://eldenring.wiki.fextralife.com/Boc+the+Seamster',
+      longDesc: `South-east from Gatefront Ruins (past east of the telescope on the map), you'll hear him shout, so hit the small tree around here to begin <a class="wiki_link" title="Elden Ring Boc the Seamster" href="/Boc+the+Seamster" target="">Boc the Seamster</a>'s questline (see <a class="wiki_link" title="Elden Ring Side Quests" href="/Side+Quests" target="">Side Quests</a> for other quests). It will take you to <a class="wiki_link" title="Elden Ring Coastal Cave" href="/Coastal+Cave" target="">Coastal Cave</a>&nbsp;(southern portion of the western beach), which also unlocks access to the <a class="wiki_link" title="Elden Ring Church of Dragon Communion" href="/Church+of+Dragon+Communion" target="">Church of Dragon Communion</a>&nbsp;(if you continue further in the cave without exiting it via portal).`,
     },
   ],
   [
@@ -505,7 +506,8 @@ const taskHash: Map<string, Task> = new Map([
     {
       id: 'defeat-erdtree-avatar',
       title: 'Defeat Erdtree Avatar',
-      image: 'https://eldenring.wiki.fextralife.com/file/Elden-Ring/erdtree-avatar-boss-elden-ring-compressed-300px.jpg',
+      image:
+        'https://eldenring.wiki.fextralife.com/file/Elden-Ring/erdtree-avatar-boss-elden-ring-compressed-300px.jpg',
       link: 'https://eldenring.wiki.fextralife.com/Erdtree+Avatar',
     },
   ],
@@ -523,7 +525,8 @@ const taskHash: Map<string, Task> = new Map([
     {
       id: 'talk-to-palm-reader',
       title: 'Talk to Palm Reader',
-      image: 'https://eldenring.wiki.fextralife.com/file/Elden-Ring/palm_reader_elden_ring_wiki_guide_300px.jpg',
+      image:
+        'https://eldenring.wiki.fextralife.com/file/Elden-Ring/palm_reader_elden_ring_wiki_guide_300px.jpg',
       link: 'https://eldenring.wiki.fextralife.com/Palm+Reader',
     },
   ],
@@ -532,7 +535,8 @@ const taskHash: Map<string, Task> = new Map([
     {
       id: 'obtain-area-map-deeproot-depths',
       title: 'Talk to Palm Reader',
-      image: 'https://eldenring.wiki.fextralife.com/file/Elden-Ring/deeproot-depths-location-undeground-elden-ring-wiki-guide.jpg',
+      image:
+        'https://eldenring.wiki.fextralife.com/file/Elden-Ring/deeproot-depths-location-undeground-elden-ring-wiki-guide.jpg',
       link: 'https://eldenring.wiki.fextralife.com/Deeproot+Depths',
     },
   ],
@@ -541,7 +545,8 @@ const taskHash: Map<string, Task> = new Map([
     {
       id: 'activate-walking-mausoleum',
       title: 'Activate Walking Mausoleum',
-      image: 'https://eldenring.wiki.fextralife.com/file/Elden-Ring/walking-mausoleum-location-elden-ring-wiki-guide.jpg',
+      image:
+        'https://eldenring.wiki.fextralife.com/file/Elden-Ring/walking-mausoleum-location-elden-ring-wiki-guide.jpg',
       link: 'https://eldenring.wiki.fextralife.com/Walking+Mausoleum',
     },
   ],
@@ -550,7 +555,8 @@ const taskHash: Map<string, Task> = new Map([
     {
       id: 'defeat-crucible-knight-siluria',
       title: 'Defeat Crucible Knight Siluria',
-      image: 'https://eldenring.wiki.fextralife.com/file/Elden-Ring/crucible_knight_siluria_elden_ring_wiki_guide_300px.jpg',
+      image:
+        'https://eldenring.wiki.fextralife.com/file/Elden-Ring/crucible_knight_siluria_elden_ring_wiki_guide_300px.jpg',
       link: 'https://eldenring.wiki.fextralife.com/Crucible+Knight+Siluria',
     },
   ],
@@ -559,7 +565,8 @@ const taskHash: Map<string, Task> = new Map([
     {
       id: 'defeat-fias-champions',
       title: 'Defeat Fia"s Champions',
-      image: 'https://eldenring.wiki.fextralife.com/file/Elden-Ring/crucible_knight_siluria_elden_ring_wiki_guide_300px.jpg',
+      image:
+        'https://eldenring.wiki.fextralife.com/file/Elden-Ring/crucible_knight_siluria_elden_ring_wiki_guide_300px.jpg',
       link: 'https://eldenring.wiki.fextralife.com/Fia"s+Champions',
     },
   ],
@@ -568,7 +575,8 @@ const taskHash: Map<string, Task> = new Map([
     {
       id: 'talk-to-fia',
       title: 'Talk to Fia',
-      image: 'https://eldenring.wiki.fextralife.com/file/Elden-Ring/fia-npc-elden-ring-wiki-300px2-min.jpeg',
+      image:
+        'https://eldenring.wiki.fextralife.com/file/Elden-Ring/fia-npc-elden-ring-wiki-300px2-min.jpeg',
       link: 'https://eldenring.wiki.fextralife.com/Fia',
     },
   ],
@@ -577,7 +585,8 @@ const taskHash: Map<string, Task> = new Map([
     {
       id: 'defeat-lichdragon-fortissax',
       title: 'TDefeat Lichdragon Fortissax',
-      image: 'https://eldenring.wiki.fextralife.com/file/Elden-Ring/lichdragon-fortissax-elden-ring-wiki-guide.jpg',
+      image:
+        'https://eldenring.wiki.fextralife.com/file/Elden-Ring/lichdragon-fortissax-elden-ring-wiki-guide.jpg',
       link: 'https://eldenring.wiki.fextralife.com/Lichdragon+Fortissax',
     },
   ],

@@ -1,4 +1,4 @@
-import { HeaderProps } from './styles';
+import { HeaderProps } from './types';
 
 const Header = (props: HeaderProps) => {
   const { isDirty } = props;
