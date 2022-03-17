@@ -24,9 +24,7 @@ const TaskCategory = (props: TaskCategoryProps) => {
           </button>
           <p>
             {subtitle && (
-              <span className="ml-5 text-xs text-grey-600">
-                {subtitle}
-              </span>
+              <span className="ml-5 text-xs text-grey-600">{subtitle}</span>
             )}
           </p>
         </h2>
