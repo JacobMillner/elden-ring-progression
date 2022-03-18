@@ -3,7 +3,7 @@ import taskHash from 'pageConfig/tasks';
 import { Task } from 'pageConfig/tasks/types';
 import { useEffect, useState } from 'react';
 import { TaskCategoryProps } from './types';
-import { ChevronDownIcon, ChevronUpIcon } from '@heroicons/react/solid';
+import { ChevronDownIcon, ChevronRightIcon } from '@heroicons/react/solid';
 
 const TaskCategory = (props: TaskCategoryProps) => {
   const { title, subtitle, tasks, checkData, toggleCheckbox } = props;
@@ -55,12 +55,12 @@ const TaskCategory = (props: TaskCategoryProps) => {
             aria-controls="collapseOne5"
             onClick={handleCollapse}
           >
-            {title}{' '}
             {collapsed ? (
-              <ChevronDownIcon className="h-5 w-5 ml-2 text-black-500" />
+              <ChevronRightIcon className="h-5 w-5 mr-2 text-black-500" />
             ) : (
-              <ChevronUpIcon className="h-5 w-5 ml-2 text-black-500" />
+              <ChevronDownIcon className="h-5 w-5 mr-2 text-black-500" />
             )}
+            {title}
           </button>
           <p>
             {subtitle && (
