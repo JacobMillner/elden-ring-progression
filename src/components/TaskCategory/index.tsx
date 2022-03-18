@@ -33,7 +33,7 @@ const TaskCategory = (props: TaskCategoryProps) => {
   }, [dirty]);
 
   useEffect(() => {
-    if (tasksComplete === totalTasks) setCollapsed(true);
+    if (totalTasks !== 0 && tasksComplete === totalTasks) setCollapsed(true);
   }, [tasksComplete]);
 
   const handleCollapse = () => {
