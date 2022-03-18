@@ -1,3 +1,4 @@
+import { fixLongDesc } from 'utils/fixLongDesc';
 import { ModalProps } from './types';
 
 const Modal = (props: ModalProps) => {
@@ -26,7 +27,11 @@ const Modal = (props: ModalProps) => {
                 <div className="relative p-6 flex-auto">
                   <p className="my-4 text-blueGray-500 text-lg leading-relaxed">
                     {longDesc && (
-                      <div dangerouslySetInnerHTML={{ __html: longDesc }}></div>
+                      <div
+                        dangerouslySetInnerHTML={{
+                          __html: fixLongDesc(longDesc),
+                        }}
+                      ></div>
                     )}
                   </p>
                 </div>
