@@ -4,8 +4,16 @@ import { InformationCircleIcon } from '@heroicons/react/solid';
 import Modal from 'components/Modal';
 
 const ProgressRow = (props: ProgressRowProps) => {
-  const { id, title, checkedData, image, link, longDesc, toggleCheckbox } =
-    props;
+  const {
+    id,
+    title,
+    checkedData,
+    image,
+    link,
+    longDesc,
+    setDirty,
+    toggleCheckbox,
+  } = props;
   const [checked, setChecked] = useState<boolean>();
   const [showModal, setShowModal] = useState<boolean>(false);
 
@@ -14,6 +22,12 @@ const ProgressRow = (props: ProgressRowProps) => {
       setChecked(checkedData.get(id));
     }
   }, [checkedData, checked, id]);
+
+  const handleCheck = () => {
+    setDirty(true);
+    toggleCheckbox(!checked, id);
+  };
+
   return (
     <>
       <tr
@@ -22,9 +36,7 @@ const ProgressRow = (props: ProgressRowProps) => {
       >
         <td
           className="text-sm text-gray-900 font-light px-6 py-4 whitespace-nowrap hover:cursor-pointer"
-          onClick={() => {
-            toggleCheckbox(!checked, id);
-          }}
+          onClick={handleCheck}
         >
           <input
             className="form-check-input appearance-none h-4 w-4 border border-gray-300 rounded-sm bg-white checked:bg-blue-600 checked:border-blue-600 focus:outline-none transition duration-200 mt-1 align-top bg-no-repeat bg-center bg-contain float-left mr-2 cursor-pointer"

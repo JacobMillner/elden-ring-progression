@@ -1,13 +1,36 @@
 import ProgressRow from 'components/ProgressRow';
 import taskHash from 'pageConfig/tasks';
 import { Task } from 'pageConfig/tasks/types';
+import { useEffect, useState } from 'react';
 import { TaskCategoryProps } from './types';
 
 const TaskCategory = (props: TaskCategoryProps) => {
   const { title, subtitle, tasks, checkData, toggleCheckbox } = props;
-  const tasksData: (Task | undefined)[] = tasks.map((task) =>
-    taskHash.get(task)
-  );
+  const [tasksData, setTasksData] = useState<(Task | undefined)[]>([]);
+  const [tasksComplete, setTasksComplete] = useState<number>(0);
+  const [dirty, setDirty] = useState<boolean>(false);
+
+  useEffect(() => {
+    const data: (Task | undefined)[] = tasks.map((task) => taskHash.get(task));
+    setTasksData(data);
+  }, [tasks]);
+
+  useEffect(() => {
+    setTasksComplete(
+      tasksData.reduce(
+        (prev, cur) => prev + (checkData.get(cur?.id || '') ? 1 : 0),
+        0
+      )
+    );
+  }, [tasksData, dirty]);
+
+  useEffect(() => {
+    setDirty(false);
+  }, [dirty]);
+
+  const totalTasks = tasksData?.length;
+  const percentComplete = (tasksComplete / totalTasks) * 100;
+
   return (
     <>
       <div className="accordion-item bg-white border border-gray-200">
@@ -28,6 +51,14 @@ const TaskCategory = (props: TaskCategoryProps) => {
             )}
           </p>
         </h2>
+        <div className="w-10/12 ml-4 bg-gray-200 rounded-full">
+          <div
+            className="mb-4 bg-blue-600 text-xs font-medium text-blue-100 text-center p-0.5 leading-none rounded-full"
+            style={{ width: `${percentComplete}%` }}
+          >
+            {`${tasksComplete}`}/{`${totalTasks}`}
+          </div>
+        </div>
         <div
           id="collapseOne5"
           className="accordion-collapse collapse show"
@@ -54,6 +85,7 @@ const TaskCategory = (props: TaskCategoryProps) => {
                           image={task.image}
                           link={task.link}
                           longDesc={task.longDesc}
+                          setDirty={setDirty}
                           checkedData={checkData}
                           toggleCheckbox={toggleCheckbox}
                           key={`task-${task.id}`}
