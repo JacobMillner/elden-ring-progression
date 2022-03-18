@@ -12,6 +12,8 @@ const TaskCategory = (props: TaskCategoryProps) => {
   const [dirty, setDirty] = useState<boolean>(false);
   const [collapsed, setCollapsed] = useState<boolean>(false);
 
+  const totalTasks = tasksData?.length;
+
   useEffect(() => {
     const data: (Task | undefined)[] = tasks.map((task) => taskHash.get(task));
     setTasksData(data);
@@ -30,11 +32,14 @@ const TaskCategory = (props: TaskCategoryProps) => {
     setDirty(false);
   }, [dirty]);
 
+  useEffect(() => {
+    if (tasksComplete === totalTasks) setCollapsed(true);
+  }, [tasksComplete]);
+
   const handleCollapse = () => {
     setCollapsed(!collapsed);
   };
 
-  const totalTasks = tasksData?.length;
   const percentComplete = (tasksComplete / totalTasks) * 100;
 
   return (
