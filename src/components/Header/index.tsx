@@ -12,6 +12,17 @@ const Header = (props: HeaderProps) => {
           </h2>
         </main>
       </div>
+      <div className="mb-4">
+        Elden Ring Progress guide and checklist based on the{' '}
+        <a
+          href="https://eldenring.wiki.fextralife.com/Game+Progress+Route"
+          target="_blank"
+          rel="noreferrer"
+        >
+          Elden Ring Wiki Game Progress Route
+        </a>
+        .
+      </div>
     </>
   );
 };
