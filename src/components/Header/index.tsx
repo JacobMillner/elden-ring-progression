@@ -12,7 +12,7 @@ const Header = (props: HeaderProps) => {
           </h2>
         </main>
       </div>
-      <div className="mb-4">
+      <div className="mb-2 ml-4">
         Elden Ring Progress guide and checklist based on the{' '}
         <a
           href="https://eldenring.wiki.fextralife.com/Game+Progress+Route"
@@ -22,6 +22,20 @@ const Header = (props: HeaderProps) => {
           Elden Ring Wiki Game Progress Route
         </a>
         .
+      </div>
+      <div className="mb-2 ml-4">
+        <a
+          href="https://github.com/JacobMillner/elden-ring-progression"
+          target="_blank"
+          rel="noreferrer"
+        >
+          Github
+        </a>
+      </div>
+      <div className="mb-6 ml-4">
+        <a href="jacobmillner.dev" target="_blank" rel="noreferrer">
+          jacobmillner.dev
+        </a>
       </div>
     </>
   );
