@@ -146,6 +146,33 @@ export const progression: PageCategory[] = [
     ],
   },
   {
+    title: 'Ainsel River (Underground)',
+    subtitle: 'Level: 50~60 Upgrades: +4 ~ +6',
+    tasks: [
+      'collect-upgrade-materials-3',
+      'find-nomadic-merchant-3',
+      'collect-immunizing-horn-charm',
+      'defeat-dragonkin-soldier-nokstella',
+      'loot-boss-room-3',
+    ],
+  },
+  {
+    title: 'Liurnia of the Lakes West',
+    subtitle: 'Level: 60~70 Upgrades: +8 ~ +12',
+    tasks: [
+      'begin-exploration-from-south-to-north',
+      'find-fillage-of-the-albinaurics',
+      'loot-secret-medallion-key',
+      'complete-optional-objectives-2',
+      'loot-flask-upgrades-4',
+      'visit-thefour-belfries',
+      'obtain-map-fragments-4',
+      'talk-smithing-master-iji',
+      'complete-caria-manor',
+      'meet-ranni-and-her-allies',
+    ],
+  },
+  {
     title: 'Deeproot Depths',
     subtitle: 'Level: 70+ Upgrades: +15 ~ +20',
     tasks: [
@@ -216,7 +243,7 @@ export const progression: PageCategory[] = [
     ],
   },
   {
-    title: 'Leyndell, Royal Capital',
+    title: 'Leyndell, Royal Capital Outskirts',
     tasks: [
       'defeat-draconic-tree-sentinel',
       'enter-leyndell',

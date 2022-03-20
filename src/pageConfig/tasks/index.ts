@@ -1503,6 +1503,164 @@ const taskHash: Map<string, Task> = new Map([
       link: 'https://eldenring.wiki.fextralife.com/Castle+Morne',
     },
   ],
+  [
+    'collect-upgrade-materials-3',
+    {
+      id: 'collect-upgrade-materials-3',
+      title: 'Collect Upgrade Materials',
+      longDesc: `<p><a class="wiki_link" title="Elden Ring Interactive Map?id=1362&amp;lat=-129.46875&amp;lng=77.567149&amp;zoom=5&amp;code=mapB" href="/Interactive+Map?id=1362&amp;lat=-129.46875&amp;lng=77.567149&amp;zoom=5&amp;code=mapB">Elden Ring Map: Ainsel River Starting Point</a>. This is a pretty easy area to tackle even earlier on, however it makes sense to visit it now because it follows a "natural" path from Liurnia East. You will be able to loot several <a class="wiki_link" title="Elden Ring Smithing Stone (3)" href="/Smithing+Stone+(3)" target="">Smithing Stone (3)</a> here that allow you to upgrade your weapons to +9, making Liurnia West easier. Head left from the Site of Grace and defeat the many Ants you'll encounter until you arrive at an open area with many <a class="wiki_link" title="Elden Ring Clayman" href="/Clayman" target="">Clayman</a> humanoid enemies. Here, loot several <a class="wiki_link" title="Elden Ring Upgrade Materials" href="/Upgrade+Materials" target="">Upgrade Materials</a> and then you should take a non-obvious path to the RIGHT of the wall blocking your progress, as this will enable you to hide from the lazer-beam bug that would terrorize other approach. Use this right path and the broken pillars to quickly make your way across and get BEHIND the giant monster (<a class="wiki_link" title="Elden Ring Malformed Star" href="/Malformed+Star" target="">Malformed Star</a>). From here you'll be able to tackle it much easier and not be overwhelmed by other enemies. It will not respawn once defeated.</p>`,
+      image:
+        'https://eldenring.wiki.fextralife.com/file/Elden-Ring/smithing_stone_3_upgrade_material_elden_ring_wiki_guide_200px.png',
+      link: '',
+    },
+  ],
+  [
+    'find-nomadic-merchant-3',
+    {
+      id: 'find-nomadic-merchant-3',
+      title: 'Find Nomadic Merchant',
+      longDesc: `<p>Loot <a class="wiki_link" title="Elden Ring Map (Ainsel River)" href="/Map+(Ainsel+River)" target="">Map (Ainsel River)</a> and talk to the <a class="wiki_link" title="Elden Ring Nomadic Merchant Ainsel River" href="/Nomadic+Merchant+Ainsel+River" target="">Nomadic Merchant</a> to check out his shop. There's a curved sword (<a class="wiki_link" title="Elden Ring Wing of Astel" href="/Wing+of+Astel" target="">Wing of Astel</a>) that can be looted from a chest in the upper area if you want to explore around (This upper area can only be accessed later during <a class="wiki_link" title="Elden Ring Ranni the Witch" href="/Ranni+the+Witch">Ranni's sidequest</a>). Once you've gathered materials take the path downstream and confront several more giant ants and frogs, then get the <a class="wiki_link" title="Elden Ring Immunizing Horn Charm" href="/Immunizing+Horn+Charm" target="">Immunizing Horn Charm</a>. Keep following the river until you arrive at a boss room where you can fight the Great Enemy: <a class="wiki_link" title="Elden Ring Dragonkin Soldier of Nokstella" href="/Dragonkin+Soldier+of+Nokstella" target="">Dragonkin Soldier of Nokstella</a> and get the&nbsp;<a class="wiki_link" title="Elden Ring Frozen Lightning Spear" href="/Frozen+Lightning+Spear" target="">Frozen Lightning Spear</a> incantation. There's nothing else that can be done in this zone right now so we'll head back up to Liurnia of the Lakes and explore its western shores.</p>`,
+      image:
+        'https://eldenring.wiki.fextralife.com/file/Elden-Ring/nomadic-merchant-ainsel-river-npcs-elden-ring-wiki-guide-300px.jpg',
+      link: 'https://eldenring.wiki.fextralife.com/Wandering+Merchant+Ainsel+River',
+    },
+  ],
+  [
+    'collect-immunizing-horn-charm',
+    {
+      id: 'collect-immunizing-horn-charm',
+      title: 'Collect Immunizing Horn Charm',
+      longDesc: `<p>Loot <a class="wiki_link" title="Elden Ring Map (Ainsel River)" href="/Map+(Ainsel+River)" target="">Map (Ainsel River)</a> and talk to the <a class="wiki_link" title="Elden Ring Nomadic Merchant Ainsel River" href="/Nomadic+Merchant+Ainsel+River" target="">Nomadic Merchant</a> to check out his shop. There's a curved sword (<a class="wiki_link" title="Elden Ring Wing of Astel" href="/Wing+of+Astel" target="">Wing of Astel</a>) that can be looted from a chest in the upper area if you want to explore around (This upper area can only be accessed later during <a class="wiki_link" title="Elden Ring Ranni the Witch" href="/Ranni+the+Witch">Ranni's sidequest</a>). Once you've gathered materials take the path downstream and confront several more giant ants and frogs, then get the <a class="wiki_link" title="Elden Ring Immunizing Horn Charm" href="/Immunizing+Horn+Charm" target="">Immunizing Horn Charm</a>. Keep following the river until you arrive at a boss room where you can fight the Great Enemy: <a class="wiki_link" title="Elden Ring Dragonkin Soldier of Nokstella" href="/Dragonkin+Soldier+of+Nokstella" target="">Dragonkin Soldier of Nokstella</a> and get the&nbsp;<a class="wiki_link" title="Elden Ring Frozen Lightning Spear" href="/Frozen+Lightning+Spear" target="">Frozen Lightning Spear</a> incantation. There's nothing else that can be done in this zone right now so we'll head back up to Liurnia of the Lakes and explore its western shores.</p>`,
+      image:
+        'https://eldenring.wiki.fextralife.com/file/Elden-Ring/immunizing_horn_charm_talisman_elden_ring_wiki_guide_200px.png',
+      link: 'https://eldenring.wiki.fextralife.com/Immunizing+Horn+Charm',
+    },
+  ],
+  [
+    'defeat-dragonkin-soldier-nokstella',
+    {
+      id: 'defeat-dragonkin-soldier-nokstella',
+      title: 'Defeat Dragonkin Soldier of Nokstella',
+      image:
+        'https://eldenring.wiki.fextralife.com/file/Elden-Ring/dragonkin_soldier_of_nokstella_boss_enemies_elden_ring_wiki_300px.jpg',
+      link: 'https://eldenring.wiki.fextralife.com/Dragonkin+Soldier+of+Nokstella',
+    },
+  ],
+  [
+    'loot-boss-room-3',
+    {
+      id: 'loot-boss-room-3',
+      title: 'Loot Boss Room',
+      image:
+        'https://eldenring.wiki.fextralife.com/file/Elden-Ring/95b56d97-cb83-4ef1-869e-a639449252c9.png',
+      link: 'https://eldenring.wiki.fextralife.com/Ainsel+River',
+    },
+  ],
+  [
+    'begin-exploration-from-south-to-north',
+    {
+      id: 'begin-exploration-from-south-to-north',
+      title: 'Begin Exploration from South to North',
+      longDesc: `<p><a class="wiki_link" title="Elden Ring Interactive Map?id=937&amp;lat=-153.265625&amp;lng=58.258712&amp;zoom=5&amp;code=mapA" href="/Interactive+Map?id=937&amp;lat=-153.265625&amp;lng=58.258712&amp;zoom=5&amp;code=mapA">Elden Ring Map: Liurnia of the Lakes West Starting Point</a>. Begin Exploration by accessing the Site of Grace: Folly on the Lake (<a class="wiki_link" title="Elden Ring Interactive Map?id=937&amp;lat=-153.265625&amp;lng=58.258712&amp;zoom=8&amp;code=mapA" href="/Interactive+Map?id=937&amp;lat=-153.265625&amp;lng=58.258712&amp;zoom=8&amp;code=mapA">Map coordinates here</a>). Ride Torrent to avoid being poisoned and explore the cavernous swamp. From the Site of Grace, head south and then hug the wall and keep going north. Eventually, you will notice a road heading up into a town - this is <a class="wiki_link" title="Elden Ring Village of the Albinaurics" href="/Village+of+the+Albinaurics" target="">Village of the Albinaurics</a> and has a VERY important item you don't want to miss. There are 2x <a class="wiki_link" title="Elden Ring Stormhawk Axe" href="/Stormhawk+Axe" target="">Stormhawk Axe</a> that can be looted from under a bridge as you access the village, then you'll come to a well and an NPC ghost that talks about Albus. Activate the site of grace then put the well to your back and go forward and left up a slope toward the Perfumer enemy. Past the perfumer, there's a suspicious POT. Hit the pot and it will transform into <a class="wiki_link" title="Elden Ring Albus" href="/Albus" target="">Albus</a>, who gives you the <a class="wiki_link" title="Elden Ring Haligtree Secret Medallion (Right)" href="/Haligtree+Secret+Medallion+(Right)" target="">Haligtree Secret Medallion (Right)</a>. This item is ESSENTIAL to access a later area of the game. Other interesting items in the area are the <a class="wiki_link" title="Elden Ring Crystal Sword" href="/Crystal+Sword" target="">Crystal Sword</a> across the rackety wooden bridge, and a <a class="wiki_link" title="Elden Ring Larval Tear" href="/Larval+Tear" target="">Larval Tear</a> in the graveyard. If you go across the other bridge and past the Teardrop Scarab, you can fight field boss <a class="wiki_link" title="Elden Ring Omenkiller" href="/Omenkiller" target="">Omenkiller</a> and obtain the <a class="wiki_link" title="Elden Ring Crucible Knot Talisman" href="/Crucible+Knot+Talisman" target="">Crucible Knot Talisman</a>. There are more items to be gathered here and in the swamp, to take a moment and look at the <a class="wiki_link" title="Elden Ring Interactive Map" href="/Interactive+Map" target="">Interactive Map</a> for details.</p>`,
+      image:
+        'https://eldenring.wiki.fextralife.com/file/Elden-Ring/liurnia-of-the-lakes-hub-location-preview-elden-ring-wiki-guide-300px.jpeg',
+      link: 'https://eldenring.wiki.fextralife.com/Liurnia+of+the+Lakes',
+    },
+  ],
+  [
+    'find-fillage-of-the-albinaurics',
+    {
+      id: 'find-fillage-of-the-albinaurics',
+      title: 'Find Village of the Aulbinaurics',
+      image:
+        'https://eldenring.wiki.fextralife.com/file/Elden-Ring/village_of_the_albinaurics_location_elden_ring_wiki_guide_300x.jpg',
+      link: 'https://eldenring.wiki.fextralife.com/Village+of+the+Albinaurics',
+    },
+  ],
+  [
+    'loot-secret-medallion-key',
+    {
+      id: 'loot-secret-medallion-key',
+      title: 'Loot Secret Medallion Key',
+      image:
+        'https://eldenring.wiki.fextralife.com/file/Elden-Ring/haligtree-secret-medalllion-right-key-itemselden-ring-wiki-guide.png',
+      link: 'https://eldenring.wiki.fextralife.com/Haligtree+Secret+Medallion+(Right)',
+    },
+  ],
+  [
+    'complete-optional-objectives-2',
+    {
+      id: 'complete-optional-objectives-2',
+      title: 'Complete Optional Objectives',
+      longDesc: `<p>Go back to the Folly on the Lake site of grace and this time head west and north. You will eventually come to the entrance to <a class="wiki_link" title="Elden Ring Converted Tower" href="/Converted+Tower" target="">Converted Tower</a>, perform the ERUDITION <a class="wiki_link" title="Elden Ring Gestures" href="/Gestures" target="">Gesture</a> to loot a <a class="wiki_link" title="Elden Ring Memory Stone" href="/Memory+Stone" target="">Memory Stone</a>. From here you should follow the road north toward the Minor Erdtree, defeat the <a class="wiki_link" title="Elden Ring Erdtree Avatar" href="/Erdtree+Avatar" target="">Erdtree Avatar</a> and loot Flask Upgrades:&nbsp;<a class="wiki_link" title="Elden Ring Cerulean Crystal Tear" href="/Cerulean+Crystal+Tear" target="">Cerulean Crystal Tear</a> and <a class="wiki_link" title="Elden Ring Ruptured Crystal Tear" href="/Ruptured+Crystal+Tear" target="">Ruptured Crystal Tear</a>.</p>`,
+      image: '',
+      link: '',
+    },
+  ],
+  [
+    'loot-flask-upgrades-4',
+    {
+      id: 'loot-flask-upgrades-4',
+      title: 'Loot Flask Upgrades',
+      longDesc: `<p>Return to the Converted Tower site grace and, with the Minor Erdtree as reference, keep to its right side (east) and keep the cliff to your left. Keep hugging it until you find the entrance to&nbsp;<a class="wiki_link" title="Elden Ring Road End's Catacombs" href="/Road+End's+Catacombs">Road End's Catacombs</a> for some <a class="wiki_link" title="Elden Ring Spirit Ashes" href="/Spirit+Ashes" target="">Spirit Ashes</a> and <a class="wiki_link" title="Elden Ring Upgrade Materials" href="/Upgrade+Materials" target="">Upgrade Materials</a>. Further north, <a class="wiki_link" title="Elden Ring Revenger's Shack" href="/Revenger's+Shack" target="">Revenger's Shack</a> will have an invasion by <a class="wiki_link" title="Elden Ring Edgar the Revenger" href="/Edgar+the+Revenger" target="">Edgar the Revenger</a> if you completed <a class="wiki_link" title="Elden Ring Irina" href="/Irina" target="">Irina</a>'s quest in <a class="wiki_link" title="Elden Ring Weeping Peninsula" href="/Weeping+Peninsula" target="">Weeping Peninsula</a>. He drops&nbsp;<a class="wiki_link" title="Elden Ring Shabriri Grape" href="/Shabriri+Grape" target="">Shabriri Grape</a> and <a class="wiki_link" title="Elden Ring Banished Knight's Halberd" href="/Banished+Knight's+Halberd" target="">Banished Knight's Halberd</a> (+8). Further north you can challenge the <a class="wiki_link" title="Elden Ring Cuckoo's Evergaol" href="/Cuckoo's+Evergaol">Cuckoo's Evergaol</a>for the&nbsp;<a class="wiki_link" title="Elden Ring Greatblade Phalanx" href="/Greatblade+Phalanx" target="">Greatblade Phalanx</a> <a class="wiki_link" title="Elden Ring Sorceries" href="/Sorceries" target="">Sorcery</a>.</p>`,
+      image: '',
+      link: '',
+    },
+  ],
+  [
+    'visit-thefour-belfries',
+    {
+      id: 'visit-thefour-belfries',
+      title: 'Visit The Four Belfries',
+      longDesc: `<p>Keep following the road north and then take right to go up to <a class="wiki_link" title="Elden Ring The Four Belfries" href="/The+Four+Belfries" target="">The Four Belfries</a>. Loot the&nbsp;<a class="wiki_link" title="Elden Ring Imbued Sword Key" href="/Imbued+Sword+Key">Imbued Sword Key</a> at the top and activate the site of grace. You can explore this destinations to get a sneak peak of later areas in the game. It's possible to range the enemies you come across, and also you get to take revenge vs the <a class="wiki_link" title="Elden Ring Grafted Scion" href="/Grafted+Scion" target="">Grafted Scion</a> that defeated you in the tutorial.</p>`,
+      image:
+        'https://eldenring.wiki.fextralife.com/file/Elden-Ring/d0d26f10-73a9-4213-9838-bce38e7ec370.png',
+      link: 'https://eldenring.wiki.fextralife.com/The+Four+Belfries',
+    },
+  ],
+  [
+    'obtain-map-fragments-4',
+    {
+      id: 'obtain-map-fragments-4',
+      title: 'Obtain Map Fragment',
+      image:
+        'https://eldenring.wiki.fextralife.com/file/Elden-Ring/map_liurnia_west_key_items_elden_ring_wiki_guide.png',
+      link: 'https://eldenring.wiki.fextralife.com/Map+(Liurnia,+West)',
+    },
+  ],
+  [
+    'talk-smithing-master-iji',
+    {
+      id: 'talk-smithing-master-iji',
+      title: 'Talk to Smithing Master Iji',
+      longDesc: `<p>Once back, take the lower road north and loot the caravan for the Carian Knight's Sword. Further ahead you can loot Map (Liurnia, West) and proceed through Kingsrealm Ruins. Hit the <a class="wiki_link" title="Elden Ring Illusory Walls" href="/Illusory+Walls" target="">Illusory Wall</a> at the end of the road to reveal the <a class="wiki_link" title="Elden Ring Interactive Map?id=1507&amp;lat=-114.875&amp;lng=52.924561&amp;zoom=8&amp;code=mapA" href="/Interactive+Map?id=1507&amp;lat=-114.875&amp;lng=52.924561&amp;zoom=8&amp;code=mapA">Road to the Manor Site of Grace</a> and then talk to <a class="wiki_link" title="Elden Ring War Counselor Iji" href="/War+Counselor+Iji">Smithing Master Iji</a>. He can upgrade your weapons and sells valuable materials. The road north leads to a small Legacy Dungeon called <a class="wiki_link" title="Elden Ring Caria Manor" href="/Caria+Manor" target="">Caria Manor</a>. Unlock the site of grace at the entrance, go into the Gardens and hug the right wall and loot&nbsp;<a class="wiki_link" title="Elden Ring Glintstone Craftsman's Cookbook (6)" href="/Glintstone+Craftsman's+Cookbook+(6)" target="">Glintstone Craftsman's Cookbook (6)</a>.&nbsp;There will be magic traps that attack you constantly, so keep on the move!&nbsp;</p>`,
+      image:
+        'https://eldenring.wiki.fextralife.com/file/Elden-Ring/map_liurnia_west_key_items_elden_ring_wiki_guide.png',
+      link: 'https://eldenring.wiki.fextralife.com/War+Counselor+Iji',
+    },
+  ],
+  [
+    'complete-caria-manor',
+    {
+      id: 'complete-caria-manor',
+      title: 'Complete Caria Manor',
+      longDesc: `<p>Caria Manor is a large location so please see the <a class="wiki_link" title="Elden Ring Caria Manor" href="/Caria+Manor" target="">Caria Manor</a> page for a walkthrough of the area. There's a <a class="wiki_link" title="Elden Ring Golden Seed" href="/Golden+Seed" target="">Golden Seed</a> and NPC merchant <a class="wiki_link" title="Elden Ring Pidia, Carian Servant" href="/Pidia,+Carian+Servant" target="">Pidia, Carian Servant</a>. Mages will absolutely want to defeat the boss <a class="wiki_link" title="Elden Ring Royal Knight Loretta" href="/Royal+Knight+Loretta" target="">Royal Knight Loretta</a> to obtain the&nbsp;<a class="wiki_link" title="Elden Ring Loretta's Greatbow" href="/Loretta's+Greatbow" target="">Loretta's Greatbow</a> sorcery.</p> <p>Once through the manor, you will come to an area guarded by <a class="wiki_link" title="Elden Ring Glintstone Dragon Adula" href="/Glintstone+Dragon+Adula" target="">Glintstone Dragon Adula</a>. You don't have to defeat this dragon. This area has 3 towers called "Rises". Only one of them is accessible at the moment:&nbsp;&nbsp;<a class="wiki_link" title="Elden Ring Ranni's Rise" href="/Ranni's+Rise" target="">Ranni's Rise</a>, which you can find to the west.&nbsp;</p>`,
+      image:
+        'https://eldenring.wiki.fextralife.com/file/Elden-Ring/caria_manor_locations_elden_ring_wiki_guide.jpg',
+      link: 'https://eldenring.wiki.fextralife.com/Caria+Manor',
+    },
+  ],
+  [
+    'meet-ranni-and-her-allies',
+    {
+      id: 'meet-ranni-and-her-allies',
+      title: 'Meet Ranni and her allies',
+      longDesc: `<p>Go all the way to the top and talk to <a class="wiki_link" title="Elden Ring Ranni the Witch" href="/Ranni+the+Witch" target="">Ranni the Witch</a> to begin her questline: The Hidden Treasure of Nokron. Agree to her request to find the hidden treasure of Nokron and she asks that you speak with three people in her service: War Counselor Iji, Blaidd and Seluvis. These three will then appear in spectral form on the first floor of her tower. After you talk to everyone, talk to her again to be able to leave this destination.</p> <p>From now this walkthrough will guide you to complete this quest. Blaidd will be waiting in the Siofra River area, and will reveal that he suspects that Seluvis knows more than he lets on. Seluvis will inform you that Sorceress Sellen has some information, and provide you with Seluvis's Introduction. <a class="wiki_link" title="Elden Ring Sorceress Sellen" href="/Sorceress+Sellen" target="">Sorceress Sellen</a> then informs the player that <a class="wiki_link" title="Elden Ring Starscourge Radahn" href="/Starscourge+Radahn" target="">Starscourge Radahn</a> stopped the stars, and that defeating him is the key to Nokron's secrets.</p> <p>Therefore the first step is to visit Siofra and complete it. BE WARNED: if you follow Preceptor Seluvis questline, you will betray Ranni and fail her quest. We will not do this on this walkthrough but you can read about it on his page: <a class="wiki_link" title="Elden Ring Preceptor Seluvis" href="/Preceptor+Seluvis" target="">Preceptor Seluvis</a></p>`,
+      image:
+        'https://eldenring.wiki.fextralife.com/file/Elden-Ring/fmlgngpvcacmvf4.jpg',
+      link: 'https://eldenring.wiki.fextralife.com/Ranni+the+Witch',
+    },
+  ],
 ]);
 
 export default taskHash;
