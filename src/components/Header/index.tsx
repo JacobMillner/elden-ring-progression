@@ -33,7 +33,7 @@ const Header = (props: HeaderProps) => {
         </a>
       </div>
       <div className="mb-6 ml-4">
-        <a href="jacobmillner.dev" target="_blank" rel="noreferrer">
+        <a href="https://jacobmillner.dev/" target="_blank" rel="noreferrer">
           jacobmillner.dev
         </a>
       </div>
