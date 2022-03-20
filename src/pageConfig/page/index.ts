@@ -110,6 +110,7 @@ export const progression: PageCategory[] = [
     subtitle: 'Level: 50~60 Upgrades: +4 ~ +6',
     tasks: [
       'acquire-academy-glintstone-key',
+      'pickup-several-ashes',
       'obtain-gravity-well-sorcery',
       'get-carian-knight-set',
       'get-conspectus-scroll',
@@ -119,6 +120,7 @@ export const progression: PageCategory[] = [
       'get-key-golden-seed-glintstone-crown',
       'expore-upper-rooftops',
       'get-imbued-sword-key',
+      'loot-scademy-glintstone-key',
       'defeat-moongrum-carian-knight',
       'deal-with-iron-ball',
       'defeat-rennala',
@@ -198,7 +200,20 @@ export const progression: PageCategory[] = [
   {
     title: 'Mt Gelmir',
     subtitle: 'Level: 80+ Upgrades: +15 ~ +20',
-    tasks: ['defeat-tibia-mariner', 'complete-wyndham-ruins-and-catacombs'],
+    tasks: [
+      'defeat-tibia-mariner',
+      'complete-wyndham-ruins-and-catacombs',
+      'collect-golden-seed-2',
+      'complete-fort-laeidd',
+      'defeat-magma-wyrm',
+      'talk-to-iron-fist-2',
+      'obtain-memory-stone-comet-azur',
+      'complete-gelmir-hero-grave',
+      'trigger-patches-event',
+      'defeat-fallingstar-beast',
+      'loot-golden-seed-map-fragment-3',
+      'complete-volcano-manor',
+    ],
   },
   {
     title: 'Leyndell, Royal Capital',

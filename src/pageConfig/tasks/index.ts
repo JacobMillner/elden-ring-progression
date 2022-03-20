@@ -537,6 +537,7 @@ const taskHash: Map<string, Task> = new Map([
     {
       id: 'defeat-erdtree-avatar',
       title: 'Defeat Erdtree Avatar',
+      longDesc: `<p><a class="wiki_link" title="Elden Ring Interactive Map?id=4583&amp;lat=-103.039&amp;lng=124.305&amp;zoom=5&amp;code=mapB" href="/Interactive+Map?id=4583&amp;lat=-103.039&amp;lng=124.305&amp;zoom=5&amp;code=mapB">Elden Ring Map: Deeproot Depths Starting Point</a>. This is a special location only accessible by teleporting in from the coffin in <a class="wiki_link" title="Elden Ring Siofra Aqueduct" href="/Siofra+Aqueduct" target="">Siofra Aqueduct</a>, so it's easy to miss. The are is important to progress <a class="wiki_link" title="Elden Ring Fia" href="/Fia" target="">Fia</a>'s questline, and give the player a chance to align with a specific faction for the <a class="wiki_link" title="Elden Ring Endings" href="/Endings" target="">Endings</a>. The area offers <a class="wiki_link" title="Elden Ring Smithing Stone (4)" href="/Smithing+Stone+(4)" target="">Smithing Stone (4)</a> to&nbsp;<a class="wiki_link" title="Elden Ring Smithing Stone (6)" href="/Smithing+Stone+(6)" target=""> (6)</a> and <a class="wiki_link" title="Elden Ring Ghost Glovewort (4)" href="/Ghost+Glovewort+(4)" target="">Ghost Glovewort (4)</a> to&nbsp;<a class="wiki_link" title="Elden Ring Ghost Glovewort (6)" href="/Ghost+Glovewort+(6)" target=""> (6)</a>, so you should have your upgrades over 15 or +6 for special.</p>`,
       image:
         'https://eldenring.wiki.fextralife.com/file/Elden-Ring/erdtree-avatar-boss-elden-ring-compressed-300px.jpg',
       link: 'https://eldenring.wiki.fextralife.com/Erdtree+Avatar',
@@ -547,6 +548,7 @@ const taskHash: Map<string, Task> = new Map([
     {
       id: 'loot-upgrade-materials-deeproot-depths',
       title: 'Loot Upgrade Materials',
+      longDesc: `<p>You will spawn in a watery area in the underground beneath Lyndell. This is Great Waterfall Crest. Nearby, defeat an Erdtree Avatar enemy and loot <a class="wiki_link" title="Elden Ring Staff of the Avatar" href="/Staff+of+the+Avatar">Staff of the Avatar</a> and <a class="wiki_link" title="Elden Ring Ash of War: Golden Land" href="/Ash+of+War:+Golden+Land">Ash of War: Golden Land</a>. From here, cross the ravine west by carefully following the roots. There are some items around in this area in the root paths if you're willing to explore a bit. If not, keep going west until you meet the Palm Reader and the site of grace Deeproot depths.</p>`,
       image: '',
       link: '',
     },
@@ -556,6 +558,7 @@ const taskHash: Map<string, Task> = new Map([
     {
       id: 'talk-to-palm-reader',
       title: 'Talk to Palm Reader',
+      longDesc: `<p>You will spawn in a watery area in the underground beneath Lyndell. This is Great Waterfall Crest. Nearby, defeat an Erdtree Avatar enemy and loot <a class="wiki_link" title="Elden Ring Staff of the Avatar" href="/Staff+of+the+Avatar">Staff of the Avatar</a> and <a class="wiki_link" title="Elden Ring Ash of War: Golden Land" href="/Ash+of+War:+Golden+Land">Ash of War: Golden Land</a>. From here, cross the ravine west by carefully following the roots. There are some items around in this area in the root paths if you're willing to explore a bit. If not, keep going west until you meet the Palm Reader and the site of grace Deeproot depths.</p>`,
       image:
         'https://eldenring.wiki.fextralife.com/file/Elden-Ring/palm_reader_elden_ring_wiki_guide_300px.jpg',
       link: 'https://eldenring.wiki.fextralife.com/Palm+Reader',
@@ -565,7 +568,8 @@ const taskHash: Map<string, Task> = new Map([
     'obtain-area-map-deeproot-depths',
     {
       id: 'obtain-area-map-deeproot-depths',
-      title: 'Talk to Palm Reader',
+      title: 'Obtain Area Map',
+      longDesc: `<p>Navigate the roots north toward the flooded ruins, past what seems like an army of <a class="wiki_link" title="Elden Ring Basilisk" href="/Basilisk" target="">Basilisks</a>, until you find a gazebo with a corpse that holds <a class="wiki_link" title="Elden Ring Map (Deeproot Depths)" href="/Map+(Deeproot+Depths)" target="">Map (Deeproot Depths)</a>. The building nearby has <a class="wiki_link" title="Elden Ring Ash of War: Vacuum Slice" href="/Ash+of+War:+Vacuum+Slice" target="">Ash of War: Vacuum Slice</a> within it. From here, you will want to ignore most enemies and travel northwest to <span class="fextratip"><a class="wiki_link wiki_tooltip" title="Elden Ring Interactive Map?id=5206&amp;lat=-97.507812&amp;lng=111.457443&amp;zoom=8&amp;code=mapB" href="/Interactive+Map?id=5206&amp;lat=-97.507812&amp;lng=111.457443&amp;zoom=8&amp;code=mapB">The Nameless Eternal City site of grace</a><span class="popover left" style="right: 256px; display: none;"><span class="arrow"></span><span class="popover-content"></span></span></span>. A coffin nearby teleports you to Ainsel River main, but your objective is to get to the <a class="wiki_link" title="Elden Ring Walking Mausoleum" href="/Walking+Mausoleum" target="">Walking Mausoleum</a> roaming nearby and deactivate it, as it will de-spawn all the <a class="wiki_link" title="Elden Ring Mausoleum Knight" href="/Mausoleum+Knight" target="">Mausoleum Knight</a> and <a class="wiki_link" title="Elden Ring Mausoleum Soldier" href="/Mausoleum+Soldier" target="">Mausoleum Soldier</a> enemies.</p>`,
       image:
         'https://eldenring.wiki.fextralife.com/file/Elden-Ring/deeproot-depths-location-undeground-elden-ring-wiki-guide.jpg',
       link: 'https://eldenring.wiki.fextralife.com/Deeproot+Depths',
@@ -586,6 +590,7 @@ const taskHash: Map<string, Task> = new Map([
     {
       id: 'defeat-crucible-knight-siluria',
       title: 'Defeat Crucible Knight Siluria',
+      longDesc: `<p>To deactivate the Mausolum, go to the lower area north from the site of grace and all the way to the west.&nbsp; Loot the Stonesword Key while you're here, then take the spirit spring up. You will land by <a class="wiki_link" title="Elden Ring Crucible Knight Siluria" href="/Crucible+Knight+Siluria" target="">Crucible Knight Siluria</a>, which should be a straight-forward fight at this point. Defeat it and loot the <a class="wiki_link" title="Elden Ring Crucible Tree Set" href="/Crucible+Tree+Set" target="">Crucible Tree Set</a> and <a class="wiki_link" title="Elden Ring Siluria's Tree" href="/Siluria's+Tree" target="">Siluria's Tree</a>. Now head east toward the branches and quickly navigate across them to a point here you can jump ONTO the mausoleum. There are basilisks and archers that will interrupt your progress so it's best to dismount from Torrent as you get closer to the mausoleum. Once on it, hit the white skulls until it stops. This will de-spawn all Mausoleum-type enemies.</p>`,
       image:
         'https://eldenring.wiki.fextralife.com/file/Elden-Ring/crucible_knight_siluria_elden_ring_wiki_guide_300px.jpg',
       link: 'https://eldenring.wiki.fextralife.com/Crucible+Knight+Siluria',
@@ -596,6 +601,9 @@ const taskHash: Map<string, Task> = new Map([
     {
       id: 'defeat-fias-champions',
       title: 'Defeat Fia"s Champions',
+      longDesc: `<p>You are now free to roam and loot any other objects in the area before proceeding in the game. When you feel you're ready, go back to the <a class="wiki_link" title="Elden Ring Interactive Map?id=5206&amp;lat=-97.507812&amp;lng=111.457443&amp;zoom=8&amp;code=mapB" href="/Interactive+Map?id=5206&amp;lat=-97.507812&amp;lng=111.457443&amp;zoom=8&amp;code=mapB">Nameless Eternal City site of grace</a>&nbsp;and look directly Northeast. This is the general area leading you to where you need go next. To your right there will be some rooftops that you can use to get to and navigate the branches. There's <a class="wiki_link" title="Elden Ring Prince of Death's Staff" href="/Prince+of+Death's+Staff">Prince of Death's Staff</a>&nbsp;to be found just up the first branch to your left when you're making your way up.</p> <p>You will deal with some fire-breathing Broken Statue enemies as you attempt to cross, and you will then arrive at the <a class="wiki_link" title="Elden Ring Interactive Map?id=5362&amp;lat=-96.335937&amp;lng=116.879443&amp;zoom=8&amp;code=mapB" href="/Interactive+Map?id=5362&amp;lat=-96.335937&amp;lng=116.879443&amp;zoom=8&amp;code=mapB">Across the Roots site of grace</a>. Nearby, an entrance gives you access to the <a class="wiki_link" title="Elden Ring Fia's Champions" href="/Fia's+Champions">Fia's Champions</a> boss fight:</p> <ul> 
+      <li>Fia's Champions are five randomized invader enemies and are found in Deeproot Depths. This is an optional boss as players don't need to defeat it to advance in Elden Ring. Fia's Champions spawn in three waves: single invader, single invader, three invaders. Each wave begins after previous one is defeated.</li> 
+     </ul>`,
       image:
         'https://eldenring.wiki.fextralife.com/file/Elden-Ring/crucible_knight_siluria_elden_ring_wiki_guide_300px.jpg',
       link: 'https://eldenring.wiki.fextralife.com/Fia"s+Champions',
@@ -606,6 +614,16 @@ const taskHash: Map<string, Task> = new Map([
     {
       id: 'talk-to-fia',
       title: 'Talk to Fia',
+      longDesc: `<p>After defeating Fia's Champions , it's time to proceed with Fia's quest. NOTE that completing Fia's quest determines the ending you get):</p> <ul> 
+      <li>Go back to Roundtable&nbsp;hold and talk to Fia.</li> 
+      <li>Exhaust her dialogue and receive a <a class="wiki_link" title="Elden Ring Weathered Dagger" href="/Weathered+Dagger">Weathered Dagger</a>.</li> 
+      <li>Exhaust her dialogue once again and receive&nbsp;a simple map concerning the location of a Black Knifeprint.</li> 
+      <li>Still in Roundhold, talk to <a class="wiki_link" title="Elden Ring D, Hunter of the Dead" href="/D,+Hunter+of+the+Dead">D, Hunter of the Dead</a>&nbsp;and give him the Weathered Dagger.</li> 
+      <li>Reload the game to find Fia in a newly opened room near the blacksmith area.</li> 
+      <li>Go back to the&nbsp;<a class="wiki_link" title="Elden Ring Interactive Map?id=5401&amp;lat=-92.882812&amp;lng=118.79351&amp;zoom=8&amp;code=mapB" href="/Interactive+Map?id=5401&amp;lat=-92.882812&amp;lng=118.79351&amp;zoom=8&amp;code=mapB">Prince of Death's Trone grace site</a>. Talk to Fia near the teleport and receive her embrace.</li> 
+      <li>Exhaust her dialogue until an option opens to giver her <a class="wiki_link" title="Elden Ring Cursemark of Death" href="/Cursemark+of+Death">Cursemark of Death</a>&nbsp;to receive a <a class="wiki_link" title="Elden Ring Radiant Baldachin's Blessing" href="/Radiant+Baldachin's+Blessing">Radiant Baldachin's Blessing</a>.</li> 
+      <li>Exhaust her dialogue once again&nbsp;and reload the area and talk/exhaust the dialogue one more time.</li> 
+     </ul>`,
       image:
         'https://eldenring.wiki.fextralife.com/file/Elden-Ring/fia-npc-elden-ring-wiki-300px2-min.jpeg',
       link: 'https://eldenring.wiki.fextralife.com/Fia',
@@ -616,6 +634,11 @@ const taskHash: Map<string, Task> = new Map([
     {
       id: 'defeat-lichdragon-fortissax',
       title: 'TDefeat Lichdragon Fortissax',
+      longDesc: `<p>If you proceed from this point on with the quest you'll get Age of Duskborn ending, so beware what ending you're going for. If you don't want this ending, don't interact with Fia anymore. Since this walkthrough is going for Age of Duskborn (that requires Fia's questline to be completed), we recommend the following steps:</p> <ul> 
+      <li>Inspect Fia to&nbsp;enter Godwyn's dream to fight <a class="wiki_link" title="Elden Ring Lichdragon Fortissax" href="/Lichdragon+Fortissax">Lichdragon Fortissax</a>. Defeating Fortissax grants you with 90k runes and <a class="wiki_link" title="Elden Ring Remembrance of the Lichdragon" href="/Remembrance+of+the+Lichdragon">Remembrance of the Lichdragon</a>, which you can&nbsp;trade for <a class="wiki_link" title="Elden Ring Fortissax's Lightning Spear" href="/Fortissax's+Lightning+Spear">Fortissax's Lightning Spear</a>&nbsp;or <a class="wiki_link" title="Elden Ring Death Lightning " href="/Death+Lightning+">Death Lightning</a>&nbsp;incantation.</li> 
+      <li>Winning this fight will allow you to pick up the <a class="wiki_link" title="Elden Ring Mending Rune of the Death-Prince" href="/Mending+Rune+of+the+Death-Prince">Mending Rune of the Death-Prince</a>, which is the item that will grant you the Age of Duskborn ending.</li> 
+      <li>Return to Fia and get her <a class="wiki_link" title="Elden Ring armor set" href="/armor+set">armor set</a>.</li> 
+     </ul>`,
       image:
         'https://eldenring.wiki.fextralife.com/file/Elden-Ring/lichdragon-fortissax-elden-ring-wiki-guide.jpg',
       link: 'https://eldenring.wiki.fextralife.com/Lichdragon+Fortissax',
@@ -625,7 +648,8 @@ const taskHash: Map<string, Task> = new Map([
     'enter-ainsel-river-main',
     {
       id: 'enter-ainsel-river-main',
-      title: 'Obtain Area Map',
+      title: 'Enter Ainsel River Main',
+      longDesc: `<p><a class="wiki_link" title="Elden Ring Interactive Map?id=1963&amp;lat=-120.30469&amp;lng=75.90301&amp;zoom=5&amp;code=mapB" href="/Interactive+Map?id=1963&amp;lat=-120.30469&amp;lng=75.90301&amp;zoom=5&amp;code=mapB">Elden Ring Map: Nokstella Eternal City Starting Point</a>. Begin from North-West Liurnia of the Lakes. Take the stairs to the very top of <a class="wiki_link" title="Elden Ring Renna's Rise" href="/Renna's+Rise">Renna's Rise</a> and take the waygate there. It will teleport you to <a class="wiki_link" title="Elden Ring Ainsel River Main" href="/Ainsel+River+Main">Ainsel River Main</a>, that northern part of <a class="wiki_link" title="Elden Ring Ainsel River" href="/Ainsel+River">Ainsel River</a> that was inaccessible last time you were there. Inside an open coffin you'll find <a class="wiki_link" title="Elden Ring Miniature Ranni" href="/Miniature+Ranni">Miniature Ranni</a>. Hold on to that doll for now, you'll need it later. Follow the path through the river and you'll get to another section of the <a class="wiki_link" title="Elden Ring Uhl Palace Ruins" href="/Uhl+Palace+Ruins">Uhl Palace Ruins</a>. Clear the enemies out and collect the loot here that includes <a class="wiki_link" title="Elden Ring Ghost Glovewort (6)" href="/Ghost+Glovewort+(6)">Ghost Gloveworts [6]</a>&nbsp;&amp; <a class="wiki_link" title="Elden Ring Ghost Glovewort (7)" href="/Ghost+Glovewort+(7)">[7]</a>, <a class="wiki_link" title="Elden Ring Smithing Stone (4)" href="/Smithing+Stone+(4)">Smithing Stone [4]</a>, and a <a class="wiki_link" title="Elden Ring Stonesword Key" href="/Stonesword+Key">Stonesword Key</a>.</p>`,
       image: '',
       link: 'https://eldenring.wiki.fextralife.com/Ainsel+River+Main',
     },
@@ -635,6 +659,7 @@ const taskHash: Map<string, Task> = new Map([
     {
       id: 'collect-miniature-ranni',
       title: 'Collect Miniature Ranni',
+      longDesc: `<p><a class="wiki_link" title="Elden Ring Interactive Map?id=1963&amp;lat=-120.30469&amp;lng=75.90301&amp;zoom=5&amp;code=mapB" href="/Interactive+Map?id=1963&amp;lat=-120.30469&amp;lng=75.90301&amp;zoom=5&amp;code=mapB">Elden Ring Map: Nokstella Eternal City Starting Point</a>. Begin from North-West Liurnia of the Lakes. Take the stairs to the very top of <a class="wiki_link" title="Elden Ring Renna's Rise" href="/Renna's+Rise">Renna's Rise</a> and take the waygate there. It will teleport you to <a class="wiki_link" title="Elden Ring Ainsel River Main" href="/Ainsel+River+Main">Ainsel River Main</a>, that northern part of <a class="wiki_link" title="Elden Ring Ainsel River" href="/Ainsel+River">Ainsel River</a> that was inaccessible last time you were there. Inside an open coffin you'll find <a class="wiki_link" title="Elden Ring Miniature Ranni" href="/Miniature+Ranni">Miniature Ranni</a>. Hold on to that doll for now, you'll need it later. Follow the path through the river and you'll get to another section of the <a class="wiki_link" title="Elden Ring Uhl Palace Ruins" href="/Uhl+Palace+Ruins">Uhl Palace Ruins</a>. Clear the enemies out and collect the loot here that includes <a class="wiki_link" title="Elden Ring Ghost Glovewort (6)" href="/Ghost+Glovewort+(6)">Ghost Gloveworts [6]</a>&nbsp;&amp; <a class="wiki_link" title="Elden Ring Ghost Glovewort (7)" href="/Ghost+Glovewort+(7)">[7]</a>, <a class="wiki_link" title="Elden Ring Smithing Stone (4)" href="/Smithing+Stone+(4)">Smithing Stone [4]</a>, and a <a class="wiki_link" title="Elden Ring Stonesword Key" href="/Stonesword+Key">Stonesword Key</a>.</p>`,
       image:
         'https://eldenring.wiki.fextralife.com/file/Elden-Ring/miniature-ramni-key-items-description.png',
       link: 'https://eldenring.wiki.fextralife.com/Miniature+Ranni',
@@ -645,6 +670,7 @@ const taskHash: Map<string, Task> = new Map([
     {
       id: 'enter-nokstella-eternal-city',
       title: 'Enter Nokstella, Eternal City',
+      longDesc: `<p>Continue west and keep following the path up, making sure not to fall back down into the lower floors of <a class="wiki_link" title="Elden Ring Ainsel River" href="/Ainsel+River">Ainsel River</a>, and eventually you'll reach <a class="wiki_link" title="Elden Ring Nokstella, Eternal City" href="/Nokstella,+Eternal+City">Nokstella, Eternal City</a>. Feel free to explore the city to collect equipment and valuable upgrade materials. Items to note are <a class="wiki_link" title="Elden Ring Archer Ashes" href="/Archer+Ashes">Archer Ashes</a>, <a class="wiki_link" title="Elden Ring Nightmaiden &amp; Swordstress Puppets" href="/Nightmaiden+&amp;+Swordstress+Puppets">Nightmaiden &amp; Swordstress Puppets</a>, and <a class="wiki_link" title="Elden Ring Ghost-Glovewort Picker's Bell Bearing (2)" href="/Ghost-Glovewort+Picker's+Bell+Bearing+(2)">Ghost-Glovewort Picker's Bell Bearing [2]</a>, all of which can be found in buildings near the entrance to Nokstella, and the <a class="wiki_link" title="Elden Ring Moon of Nokstella" href="/Moon+of+Nokstella">Moon of Nokstella</a>, a <a class="wiki_link" title="Elden Ring Talismans" href="/Talismans">Talisman</a> that increases your memory slots found in the north-west of the city.</p>`,
       image:
         'https://eldenring.wiki.fextralife.com/file/Elden-Ring/nokstella-eternal-city-locations-elden-ring-wiki-guide-300px.jpg',
       link: 'https://eldenring.wiki.fextralife.com/Nokstella,+Eternal+City',
@@ -655,6 +681,7 @@ const taskHash: Map<string, Task> = new Map([
     {
       id: 'collect-key-items-and-spirit-ashes-nokstella',
       title: 'Collect Key Items & Spirit Ashes',
+      longDesc: `<p>Continue west and keep following the path up, making sure not to fall back down into the lower floors of <a class="wiki_link" title="Elden Ring Ainsel River" href="/Ainsel+River">Ainsel River</a>, and eventually you'll reach <a class="wiki_link" title="Elden Ring Nokstella, Eternal City" href="/Nokstella,+Eternal+City">Nokstella, Eternal City</a>. Feel free to explore the city to collect equipment and valuable upgrade materials. Items to note are <a class="wiki_link" title="Elden Ring Archer Ashes" href="/Archer+Ashes">Archer Ashes</a>, <a class="wiki_link" title="Elden Ring Nightmaiden &amp; Swordstress Puppets" href="/Nightmaiden+&amp;+Swordstress+Puppets">Nightmaiden &amp; Swordstress Puppets</a>, and <a class="wiki_link" title="Elden Ring Ghost-Glovewort Picker's Bell Bearing (2)" href="/Ghost-Glovewort+Picker's+Bell+Bearing+(2)">Ghost-Glovewort Picker's Bell Bearing [2]</a>, all of which can be found in buildings near the entrance to Nokstella, and the <a class="wiki_link" title="Elden Ring Moon of Nokstella" href="/Moon+of+Nokstella">Moon of Nokstella</a>, a <a class="wiki_link" title="Elden Ring Talismans" href="/Talismans">Talisman</a> that increases your memory slots found in the north-west of the city.</p>`,
       image: '',
       link: '',
     },
@@ -664,6 +691,7 @@ const taskHash: Map<string, Task> = new Map([
     {
       id: 'talk-to-miniature-ranni',
       title: 'Talk to Miniature Ranni',
+      longDesc: `<p>When you're done exploring, head to the far western side of Nokstella to find a lift that takes you back down to <a class="wiki_link" title="Elden Ring Ainsel River Main" href="/Ainsel+River+Main">Ainsel River Main</a>. You'll find a Site of Grace here where when resting at,&nbsp; you'll be given the option to talk with the <a class="wiki_link" title="Elden Ring Miniature Ranni" href="/Miniature+Ranni">Miniature Ranni</a> doll. She'll ignore you the first two times, but keep at it and she'll eventually give in and ask you to defeat a <a class="wiki_link" title="Elden Ring Baleful Shadow" href="/Baleful+Shadow">Baleful Shadow</a>. Luckily, if you continue forward you'll find him right ahead in an open cavern. Defeat him and you'll be rewarded with&nbsp;the <a class="wiki_link" title="Elden Ring Discarded Palace Key" href="/Discarded+Palace+Key">Discarded Palace Key</a>.</p>`,
       image:
         'https://eldenring.wiki.fextralife.com/file/Elden-Ring/miniature-ramni-key-items-description.png',
       link: 'https://eldenring.wiki.fextralife.com/Miniature+Ranni',
@@ -674,6 +702,7 @@ const taskHash: Map<string, Task> = new Map([
     {
       id: 'enter-lake-of-rot',
       title: 'Enter Lake of Rot',
+      longDesc: `<p>Head south and find a building that houses a lift taking you down.&nbsp;This lift will take&nbsp;you to <a class="wiki_link" title="Elden Ring Lake Rot" href="/Lake+Rot">Lake Rot</a>. At the water's edge, just slightly past the Site of Grace, you can loot a corpse that holds the Map fragment for the Lake of Rot, making navigation easier.</p>`,
       image:
         'https://eldenring.wiki.fextralife.com/file/Elden-Ring/lake-of-rot-a-locations-elden-ring-wiki-guide-300px.jpg',
       link: 'https://eldenring.wiki.fextralife.com/Lake+of+Rot',
@@ -692,7 +721,8 @@ const taskHash: Map<string, Task> = new Map([
     'use-the-discarded-palace-key',
     {
       id: 'use-the-discarded-palace-key',
-      title: 'Obtain Map Fragment',
+      title: 'Use the Discarded Palace Key',
+      longDesc: `<p>Now that you've got the map and a Site of Grace to teleport to, we're taking a quick detour for <a class="wiki_link" title="Elden Ring Ranni the Witch" href="/Ranni+the+Witch">Ranni's</a> quest. Feel free to skip this part if you've chosen not to provide your services to her. Teleport back to the Raya Lucaria Grand Library. There is a small chest next to a bookshelf north-west of where Rennala is sitting that can be unlocked with the <a class="wiki_link" title="Elden Ring Discarded Palace Key" href="/Discarded+Palace+Key">Discarded Palace Key</a> that <a class="wiki_link" title="Elden Ring Miniature Ranni" href="/Miniature+Ranni">Miniature Ranni</a> handed over to you. Inside&nbsp;you'll find <a class="wiki_link" title="Elden Ring Ranni the Witch" href="/Ranni+the+Witch">Ranni's</a> ring, the <a class="wiki_link" title="Elden Ring Dark Moon Ring" href="/Dark+Moon+Ring">Dark Moon Ring</a>. And with that out of the way, you can teleport back to the <a class="wiki_link" title="Elden Ring Lake of Rot" href="/Lake+of+Rot">Lake of Rot</a>.</p>`,
       image:
         'https://eldenring.wiki.fextralife.com/file/Elden-Ring/discarded-palace-key-elden-ring-wiki-guide.png',
       link: 'https://eldenring.wiki.fextralife.com/Discarded+Palace+Key',
@@ -703,6 +733,7 @@ const taskHash: Map<string, Task> = new Map([
     {
       id: 'defeat-dragonkin-soldier',
       title: 'Defeat Dragonkin Soldier',
+      longDesc: `<p>With all the landmasses raised, we can go deal with the boss. In the middle of the lake, next to three raised islands, sits the <a class="wiki_link" title="Elden Ring Dragonkin Soldier" href="/Dragonkin+Soldier">Dragonkin Soldier</a> once again. Defeat him, being careful not to get knocked down in the water. From here you can choose to loot bodies scattered all around <a class="wiki_link" title="Elden Ring Lake Rot" href="/Lake+Rot">Lake Rot</a> to obtain <a class="wiki_link" title="Elden Ring Items" href="/Items">items</a>, many of which are <a class="wiki_link" title="Elden Ring Somber Smithing Stone (7)" href="/Somber+Smithing+Stone+(7)">Somber Smithing Stones [7]</a> &amp; <a class="wiki_link" title="Elden Ring Somber Smithing Stone (8)" href="/Somber+Smithing+Stone+(8)">[8]</a>. An item of note is the <a class="wiki_link" title="Elden Ring Nomadic Warrior's Cookbook (22)" href="/Nomadic+Warrior's+Cookbook+(22)">Nomadic Warrior's Cookbook [22]</a> obtained from a lone chest in a large ruin in the south-western section of the map.</p>`,
       image:
         'https://eldenring.wiki.fextralife.com/file/Elden-Ring/dragonkin-soldier-boss-enemies-elden-ring-wiki-guide-300px.jpg',
       link: 'https://eldenring.wiki.fextralife.com/Dragonkin+Soldier',
@@ -713,6 +744,7 @@ const taskHash: Map<string, Task> = new Map([
     {
       id: 'enter-grand-cloister-nokstella',
       title: 'Enter Grand Cloister',
+      longDesc: `<p>After you're done with this area, head over to the southern section, where you'll find a waterfall. Climb down the stairs next to it to reach the <a class="wiki_link" title="Elden Ring Grand Cloister" href="/Grand+Cloister">Grand Cloister</a>. If you're not planning to explore the area, head west and then south by&nbsp;a group of enemies, where you'll find an open coffin at the tip of the waterfall. Interact with the coffin to rest in it and a cutscene will play.</p>`,
       image:
         'https://eldenring.wiki.fextralife.com/file/Elden-Ring/grand_cloister_locations_elden_ring_wiki_300px.jpg',
       link: 'https://eldenring.wiki.fextralife.com/Grand+Cloister',
@@ -723,6 +755,7 @@ const taskHash: Map<string, Task> = new Map([
     {
       id: 'defeat-astel-naturalborn-of-the-void',
       title: 'Defeat Astel, Naturalborn of the Void',
+      longDesc: `<p>If you open your map now, you will find yourself in an isolated area south of the <a class="wiki_link" title="Elden Ring Lake of Rot" href="/Lake+of+Rot">Lake of Rot</a>. Through the mist door, you'll fight <a class="wiki_link" title="Elden Ring Astel, Naturalborn of the Void" href="/Astel,+Naturalborn+of+the+Void">Astel, Naturalborn of the Void</a>, and with his defeat, all the underground areas have been explored. Head north past his boss room to find a lift that takes you back to the surface at <a class="wiki_link" title="Elden Ring Deep Ainsel Well" href="/Deep+Ainsel+Well">Deep Ainsel Well</a>.</p>`,
       image: 'https://eldenring.wiki.fextralife.com/file/Elden-Ring/astel.jpg',
       link: 'https://eldenring.wiki.fextralife.com/Astel+Naturalborn+of+the+Void',
     },
@@ -732,6 +765,7 @@ const taskHash: Map<string, Task> = new Map([
     {
       id: 'get-access-to-altus-plateau',
       title: 'Get access to the Altus Plateau',
+      longDesc: `<p><a class="wiki_link" title="Elden Ring Interactive Map?id=1963&amp;lat=-120.30469&amp;lng=75.90301&amp;zoom=5&amp;code=mapB" href="/Interactive+Map?id=1963&amp;lat=-120.30469&amp;lng=75.90301&amp;zoom=5&amp;code=mapB">Elden Ring Map: Altus Plateau Starting Point</a>. The Altus Plateau, northeast of Liurnia, is your next destination. There are two ways to access it: fight your way up through the cliffside dungeon at <a class="wiki_link" title="Elden Ring Ruin-Strewn Precipice" href="/Ruin-Strewn+Precipice" target="">Ruin-Strewn Precipice</a> (the red-outlined hole on the map, accessed from northern canyon of Liurnia of the Lakes), or use the <a class="wiki_link" title="Elden Ring Dectus Medallion (Left)" href="/Dectus+Medallion+(Left)">left</a>&nbsp;and <a class="wiki_link" title="Elden Ring Dectus Medallion (Right)" href="/Dectus+Medallion+(Right)">right halves of the Dectus Medallion</a> at the <a class="wiki_link" title="Elden Ring Grand Lift of Dectus" href="/Grand+Lift+of+Dectus">Grand Lift of Dectus</a>.</p>`,
       image:
         'https://eldenring.wiki.fextralife.com/file/Elden-Ring/altus-plateau-hub-location-preview-elden-ring-wiki-guide-300px.jpghttps://eldenring.wiki.fextralife.com/file/Elden-Ring/malefactors_evergaol_locations_elden_ring_wiki_guide.jpg',
       link: 'https://eldenring.wiki.fextralife.com/Altus+Plateau',
@@ -742,6 +776,7 @@ const taskHash: Map<string, Task> = new Map([
     {
       id: 'complete-western-altus-objectives',
       title: 'Complete Western Altus Objectives',
+      longDesc: `<p>Entering from <a class="wiki_link" title="Elden Ring Ruin-Strewn Precipice" href="/Ruin-Strewn+Precipice" target="">Ruin-Strewn Precipice</a> is better as you can obtain several crafting magerials, a <a class="wiki_link" title="Elden Ring Dragon Heart" href="/Dragon+Heart" target="">Dragon Heart</a> and&nbsp; <a class="wiki_link" title="Elden Ring Golden Seed" href="/Golden+Seed" target="">Golden Seed</a> within it. You will head up to the plateau from Magma Wyrm Site of grace, and can pick up the <a class="wiki_link" title="Elden Ring Ruler's Set" href="/Ruler's+Set" target="">Ruler's Set</a> shortly after.</p> <p>You are now at the Abandoned Coffin site of grace (<a class="wiki_link" title="Elden Ring Interactive Map?id=1138&amp;lat=-101.343747&amp;lng=69.075444&amp;zoom=8&amp;code=mapA" href="/Interactive+Map?id=1138&amp;lat=-101.343747&amp;lng=69.075444&amp;zoom=8&amp;code=mapA">see it on the map here</a>). Head West from this site of grace and defeat a Teardrop Scarab to loot <a class="wiki_link" title="Elden Ring Ash of War: Sacred Order" href="/Ash+of+War:+Sacred+Order" target="">Ash of War: Sacred Order</a>. Further east, <a class="wiki_link" title="Elden Ring Perfumer's Ruins" href="/Perfumer's+Ruins" target="">Perfumer's Ruins</a> has the <a class="wiki_link" title="Elden Ring Omenkiller Set" href="/Omenkiller+Set" target="">Omenkiller Set</a>, <a class="wiki_link" title="Elden Ring Perfumer's Cookbook (1)" href="/Perfumer's+Cookbook+(1)" target="">Perfumer's Cookbook (1)</a> and <a class="wiki_link" title="Elden Ring Perfumer's Talisman" href="/Perfumer's+Talisman" target="">Perfumer's Talisman</a>. Nearby, <a class="wiki_link" title="Elden Ring Unsightly Catacombs" href="/Unsightly+Catacombs" target="">Unsightly Catacombs</a> has valuable <a class="wiki_link" title="Elden Ring Ghost Glovewort (5)" href="/Ghost+Glovewort+(5)" target="">Ghost Glovewort (5)</a> and <a class="wiki_link" title="Elden Ring Grave Glovewort (4)" href="/Grave+Glovewort+(4)" target="">Grave Glovewort (4)</a> to loot, as well as the <a class="wiki_link" title="Elden Ring Perfumer Tricia" href="/Perfumer+Tricia" target="">Perfumer Tricia</a> spirit ash from the dual boss of the dungeon.</p>`,
       image:
         'https://eldenring.wiki.fextralife.com/file/Elden-Ring/altus-plateau-hub-location-preview-elden-ring-wiki-guide-300px.jpghttps://eldenring.wiki.fextralife.com/file/Elden-Ring/malefactors_evergaol_locations_elden_ring_wiki_guide.jpg',
       link: 'https://eldenring.wiki.fextralife.com/Altus+Plateau',
@@ -752,6 +787,7 @@ const taskHash: Map<string, Task> = new Map([
     {
       id: 'talk-to-millicent',
       title: 'Talk to Millicent',
+      longDesc: `<p>Return to Abandoned Coffin and follow the road north toward Lux Ruins, <a class="wiki_link" title="Elden Ring Ancient Dragon Lansseax" href="/Ancient+Dragon+Lansseax" target="">Ancient Dragon Lansseax</a> will stand on your way but it's an optional fight as you can just run by if you prefer, heading to meet <a class="wiki_link" title="Elden Ring Millicent" href="/Millicent" target="">Millicent</a> and collect a <a class="wiki_link" title="Elden Ring Golden Seed" href="/Golden+Seed" target="">Golden Seed</a> before veering slightly south to Erdtree-Gazing Hill and <a class="wiki_link" title="Elden Ring Lux Ruins" href="/Lux+Ruins" target="">Lux Ruins</a>. <a class="wiki_link" title="Elden Ring Ash of War: Shield Crash" href="/Ash+of+War:+Shield+Crash" target="">Ash of War: Shield Crash</a> can be looted from a teardrop scarab here, and the <a class="wiki_link" title="Elden Ring Greatshield Talisman" href="/Greatshield+Talisman" target="">Greatshield Talisman</a> from a chest further east.</p>`,
       image:
         'https://eldenring.wiki.fextralife.com/file/Elden-Ring/millicent-npc-elden-ring-wiki-300px-min-min-min.jpeg',
       link: 'https://eldenring.wiki.fextralife.com/Millicent',
@@ -762,6 +798,7 @@ const taskHash: Map<string, Task> = new Map([
     {
       id: 'complete-old-altus-tunnel',
       title: 'Complete Old Altus Tunnel',
+      longDesc: `<p>Find the lower ground and head due north on the bottom cannyon. You will find <a class="wiki_link" title="Elden Ring Old Altus Tunnel" href="/Old+Altus+Tunnel" target="">Old Altus Tunnel</a> on your left, with <a class="wiki_link" title="Elden Ring Smithing Stone (4)" href="/Smithing+Stone+(4)" target="">Smithing Stone (4)</a> and (5) as well as <a class="wiki_link" title="Elden Ring Somber Smithing Stone (5)" href="/Somber+Smithing+Stone+(5)" target="">Somber Smithing Stone (5)</a> and (6). The <a class="wiki_link" title="Elden Ring Stonedigger Troll" href="/Stonedigger+Troll" target="">Stonedigger Troll</a> boss within drops the <a class="wiki_link" title="Elden Ring Great Club" href="/Great+Club" target="">Great Club</a>, and a <a class="wiki_link" title="Elden Ring Troll Hammer" href="/Troll+Hammer" target="">Troll Hammer</a> and <a class="wiki_link" title="Elden Ring Boldrake Talisman" href="/Boldrake+Talisman" target="">Boldrake Talisman</a> +1 can be looted from sheds within the tunnel.</p>`,
       image:
         'https://eldenring.wiki.fextralife.com/file/Elden-Ring/old_altus_tunnel_locations_elden_ring_wiki_guide_300px.jpg',
       link: 'https://eldenring.wiki.fextralife.com/Old+Altus+Tunnel',
@@ -772,6 +809,7 @@ const taskHash: Map<string, Task> = new Map([
     {
       id: 'complete-shaded-castle',
       title: 'Complete Shaded Castle',
+      longDesc: `<p>Exit and continue following the cannyon north until you come to a poisonous area. This is the Shaded Castle. Please see the <a class="wiki_link" title="Elden Ring Shaded Castle" href="/Shaded+Castle" target="">Shaded Castle</a> page for a proper walkthrough of the area. Notable items include <a class="wiki_link" title="Elden Ring Perfumer's Cookbook (2)" href="/Perfumer's+Cookbook+(2)" target="">Perfumer's Cookbook (2)</a> and the <a class="wiki_link" title="Elden Ring Valkyrie's Prosthesis" href="/Valkyrie's+Prosthesis" target="">Valkyrie's Prosthesis</a> that you need to advance <a class="wiki_link" title="Elden Ring Millicent" href="/Millicent" target="">Millicent</a>'s quest. To the west of the castle, an invasion by <a class="wiki_link" title="Elden Ring Maleigh Marais, Shaded Castle Castellan" href="/Maleigh+Marais,+Shaded+Castle+Castellan" target="">Maleigh Marais, Shaded Castle Castellan</a> gives you the <a class="wiki_link" title="Elden Ring House Marais Set" href="/House+Marais+Set" target="">House Marais Set</a> and <a class="wiki_link" title="Elden Ring Antspur Rapier" href="/Antspur+Rapier" target="">Antspur Rapier</a>.</p>`,
       image:
         'https://eldenring.wiki.fextralife.com/file/Elden-Ring/the-shaded-castle-location-elden-ring-wiki-guide.jpg',
       link: 'https://eldenring.wiki.fextralife.com/The+Shaded+Castle',
@@ -782,6 +820,7 @@ const taskHash: Map<string, Task> = new Map([
     {
       id: 'talk-to-millicent-again',
       title: 'Talk to Millicent',
+      longDesc: `<p>Teleport back to the Erdtree-Gazing Hill in souther Altus and talk to <a class="wiki_link" title="Elden Ring Millicent" href="/Millicent" target="">Millicent</a> to advance her quest. Then travel south and east until you are at the road by the Grand Lift of Dectus. To the east of here and down the slopes, the <a class="wiki_link" title="Elden Ring Golden Lineage Evergaol" href="/Golden+Lineage+Evergaol" target="">Golden Lineage Evergaol</a> has the optional boss <a class="wiki_link" title="Elden Ring Godfrey the Grafted" href="/Godfrey+the+Grafted" target="">Godfrey the Grafted</a>, that drops the very useful <a class="wiki_link" title="Elden Ring Godfrey Icon" href="/Godfrey+Icon" target="">Godfrey Icon</a> talisman for charged spells and skills.&nbsp;</p> <p>NOTE: If you want you can ride the lift up and spawn <a class="wiki_link" title="Elden Ring Rya" href="/Rya" target="">Rya</a>, who will invite you to the <a class="wiki_link" title="Elden Ring Volcano Manor" href="/Volcano+Manor" target="">Volcano Manor</a>, which we will naturally visit later on this playthrough.</p>`,
       image:
         'https://eldenring.wiki.fextralife.com/file/Elden-Ring/millicent-npc-elden-ring-wiki-300px-min-min-min.jpeg',
       link: 'https://eldenring.wiki.fextralife.com/Millicent',
@@ -792,6 +831,7 @@ const taskHash: Map<string, Task> = new Map([
     {
       id: 'complete-golden-lineage-evergaolboc-the-seamster',
       title: 'Complete Golden Lineage EvergaolBoc the Seamster',
+      longDesc: `<p>You can follow now follow the main road north and activate the Altus Highway Junction site of grace, nearby you can meet <a class="wiki_link" title="Elden Ring Boc the Seamster" href="/Boc+the+Seamster" target="">Boc the Seamster</a> and advance his quest. North from here the road takes you to a <a class="wiki_link" title="Elden Ring Golden Seed" href="/Golden+Seed" target="">Golden Seed</a> and <a class="wiki_link" title="Elden Ring Map (Altus Plateau)" href="/Map+(Altus+Plateau)" target="">Map (Altus Plateau)</a> to reveal the region. Slightly north, talk to <a class="wiki_link" title="Elden Ring Brother Corhyn" href="/Brother+Corhyn" target="">Brother Corhyn</a> who is looking for the Goldmask. Directly east from the Atlus Highway Junction Site of Grace, follow the road until it breaks off <strong>north</strong> into an open cave, in the cave the <a class="wiki_link" title="Elden Ring Amber Starlight" href="/Amber+Starlight" target="">Amber Starlight</a> will be sitting below a statue surrounded by octupus ball creatures. <a class="wiki_link" title="Elden Ring Interactive Map?id=5766&amp;lat=-95.45&amp;lng=87.133&amp;zoom=8&amp;code=mapA" href="/Interactive+Map?id=5766&amp;lat=-95.45&amp;lng=87.133&amp;zoom=8&amp;code=mapA">Map Link</a> - you need this item for&nbsp;<a class="wiki_link" title="Elden Ring Preceptor Seluvis" href="/Preceptor+Seluvis">Seluvis's</a> quest if you are doing it, but in this playthrough we have already bypassed his side-quest.</p>`,
       image: '',
       link: 'https://eldenring.wiki.fextralife.com/Golden+Lineage+Evergaol',
     },
@@ -801,6 +841,7 @@ const taskHash: Map<string, Task> = new Map([
     {
       id: 'obtain-zone-map-talk-to-boc-and-corhyn',
       title: 'Obtain Zone Map & Talk to Boc and Corhyn',
+      longDesc: `<p>You can follow now follow the main road north and activate the Altus Highway Junction site of grace, nearby you can meet <a class="wiki_link" title="Elden Ring Boc the Seamster" href="/Boc+the+Seamster" target="">Boc the Seamster</a> and advance his quest. North from here the road takes you to a <a class="wiki_link" title="Elden Ring Golden Seed" href="/Golden+Seed" target="">Golden Seed</a> and <a class="wiki_link" title="Elden Ring Map (Altus Plateau)" href="/Map+(Altus+Plateau)" target="">Map (Altus Plateau)</a> to reveal the region. Slightly north, talk to <a class="wiki_link" title="Elden Ring Brother Corhyn" href="/Brother+Corhyn" target="">Brother Corhyn</a> who is looking for the Goldmask. Directly east from the Atlus Highway Junction Site of Grace, follow the road until it breaks off <strong>north</strong> into an open cave, in the cave the <a class="wiki_link" title="Elden Ring Amber Starlight" href="/Amber+Starlight" target="">Amber Starlight</a> will be sitting below a statue surrounded by octupus ball creatures. <a class="wiki_link" title="Elden Ring Interactive Map?id=5766&amp;lat=-95.45&amp;lng=87.133&amp;zoom=8&amp;code=mapA" href="/Interactive+Map?id=5766&amp;lat=-95.45&amp;lng=87.133&amp;zoom=8&amp;code=mapA">Map Link</a> - you need this item for&nbsp;<a class="wiki_link" title="Elden Ring Preceptor Seluvis" href="/Preceptor+Seluvis">Seluvis's</a> quest if you are doing it, but in this playthrough we have already bypassed his side-quest.</p>`,
       image:
         'https://eldenring.wiki.fextralife.com/file/Elden-Ring/brother_corhyn_npcs_elden_ring_wiki_guide.jpg',
       link: 'https://eldenring.wiki.fextralife.com/Brother+Corhyn',
@@ -811,6 +852,7 @@ const taskHash: Map<string, Task> = new Map([
     {
       id: 'complete-secong-church-of-marika',
       title: 'Complete Second Church of Marika',
+      longDesc: `<p>Keep following the road north then go West to visit the <a class="wiki_link" title="Elden Ring Second Church of Marika" href="/Second+Church+of+Marika" target="">Second Church of Marika</a> and loot the <a class="wiki_link" title="Elden Ring Crystal Tear" href="/Crystal+Tear" target="">Crystal Tear</a> there. <a class="wiki_link" title="Elden Ring Bloody Finger Hunter Yura" href="/Bloody+Finger+Hunter+Yura" target="">Bloody Finger Hunter Yura</a> will be here, and if you talk to him you will trigger an invasion from <a class="wiki_link" title="Elden Ring Eleonora, Violet Bloody Finger" href="/Eleonora,+Violet+Bloody+Finger" target="">Eleonora, Violet Bloody Finger</a>, who allows for the acquisition of <a class="wiki_link" title="Elden Ring Purifying Crystal Tear" href="/Purifying+Crystal+Tear" target="">Purifying Crystal Tear</a> alongside <a class="wiki_link" title="Elden Ring Eleonora's Poleblade" href="/Eleonora's+Poleblade" target="">Eleonora's Poleblade</a>. This is a VERY useful item for an upcoming Boss fight, and doing Yura's quest is not necessarily required for her to spawn, but the triggers are unclear at this time.</p>`,
       image: '',
       link: 'https://eldenring.wiki.fextralife.com/Second+Church+of+Marika',
     },
@@ -820,6 +862,7 @@ const taskHash: Map<string, Task> = new Map([
     {
       id: 'get-minord-erdtree-flask-upgrade-complete-valley-objectives',
       title: 'Get Minord Erdtree Flask Upgrades & complete valley objectives',
+      longDesc: `<p>Return to the road and follow it to the valley with the Minor Erdtree. The tree is protected by <a class="wiki_link" title="Elden Ring Wormface" href="/Wormface" target="">Wormface</a>, a boss that drops <a class="wiki_link" title="Elden Ring Speckled Hardtear" href="/Speckled+Hardtear" target="">Speckled Hardtear</a> and <a class="wiki_link" title="Elden Ring Crimsonspill Crystal Tear" href="/Crimsonspill+Crystal+Tear" target="">Crimsonspill Crystal Tear</a>. There's also a Golden Seed slightly north and west from the tree. Within this valley, you will find <a class="wiki_link" title="Elden Ring Mirage Rise" href="/Mirage+Rise" target="">Mirage Rise</a> to the west, that asks that you find symbols in the valley to unlock the tower and gain the <a class="wiki_link" title="Elden Ring Unseen Form" href="/Unseen+Form" target="">Unseen Form</a> and <a class="wiki_link" title="Elden Ring Unseen Blade" href="/Unseen+Blade" target="">Unseen Blade</a> spells. To the East, <a class="wiki_link" title="Elden Ring Altus Tunnel" href="/Altus+Tunnel" target="">Altus Tunnel</a> has <a class="wiki_link" title="Elden Ring Smithing Stone (5)" href="/Smithing+Stone+(5)" target="">Smithing Stone (5)</a> upgrades and the <a class="wiki_link" title="Elden Ring Somberstone Miner's Bell Bearing (2)" href="/Somberstone+Miner's+Bell+Bearing+(2)" target="">Somberstone Miner's Bell Bearing (2)</a>. <a class="wiki_link" title="Elden Ring Woodfolk Ruins" href="/Woodfolk+Ruins" target="">Woodfolk Ruins</a> has an underground cellar with <a class="wiki_link" title="Elden Ring Wrath of Gold" href="/Wrath+of+Gold" target="">Wrath of Gold</a> in a chest, another one with <a class="wiki_link" title="Elden Ring Nomadic Warrior's Cookbook (19)" href="/Nomadic+Warrior's+Cookbook+(19)" target="">Nomadic Warrior's Cookbook (19)</a>, and a teardrop scarab with <a class="wiki_link" title="Elden Ring Ash of War: Golden Slam" href="/Ash+of+War:+Golden+Slam" target="">Ash of War: Golden Slam</a> in the northern area of the ruins.</p>`,
       image: '',
       link: '',
     },
@@ -829,6 +872,7 @@ const taskHash: Map<string, Task> = new Map([
     {
       id: 'complete-dominula-and-talk-to-millicent',
       title: 'Complete Dominula & talk to Millicent',
+      longDesc: `<p>Follow the road north exiting the Erdtree Valley and once you reach the elevation after the villagers attack you go right until you are in front of a watchtower to collect a <a class="wiki_link" title="Elden Ring Golden Seed" href="/Golden+Seed" target="">Golden Seed</a>. From this point East, enemies will shoot at you with deadly ballistas and catapults. Instead of going East toward the capital, go north into <a class="wiki_link" title="Elden Ring Dominula, Windmill Village" href="/Dominula,+Windmill+Village" target="">Dominula, Windmill Village</a>. Here you can defeat the <a class="wiki_link" title="Elden Ring Godskin Apostle" href="/Godskin+Apostle" target="">Godskin Apostle</a> boss that drops the <a class="wiki_link" title="Elden Ring Scouring Black Flame" href="/Scouring+Black+Flame" target="">Scouring Black Flame</a> incantation, after which you can talk to <a class="wiki_link" title="Elden Ring Millicent" href="/Millicent" target="">Millicent</a> again. The area also has the <a class="wiki_link" title="Elden Ring Goskin Peeler" href="/Goskin+Peeler" target="">Goskin Peeler</a> twinblade and <a class="wiki_link" title="Elden Ring Celebrant's Skull" href="/Celebrant's+Skull" target="">Celebrant's Skull</a> warhammer.</p>`,
       image:
         'https://eldenring.wiki.fextralife.com/file/Elden-Ring/millicent-npc-elden-ring-wiki-300px-min-min-min.jpeg',
       link: 'https://eldenring.wiki.fextralife.com/Millicent',
@@ -839,6 +883,7 @@ const taskHash: Map<string, Task> = new Map([
     {
       id: 'explore-eastern-altus-heights',
       title: 'Explore Eastern Altus Heights',
+      longDesc: `<p>If you return to the road, there's the option to head East into Lyndell, Capital City outskirts. We will leave this for later, and instead take the lower road south-east. This will bring you to an unnamed ruins where a noble will transform into a Lion Guardian. Defeat it to get a <a class="wiki_link" title="Elden Ring Larval Tear" href="/Larval+Tear" target="">Larval Tear</a>, then continue following the road until you come to an elevation with lightning and <a class="wiki_link" title="Elden Ring Ancient Dragon Lansseax" href="/Ancient+Dragon+Lansseax" target="">Ancient Dragon Lansseax</a>. This is an optional fight, and west from here there's another boss encounter with a <a class="wiki_link" title="Elden Ring Black Knife Assassin" href="/Black+Knife+Assassin" target="">Black Knife Assassin</a> just outside the <a class="wiki_link" title="Elden Ring Sainted Hero's Grave" href="/Sainted+Hero's+Grave" target="">Sainted Hero's Grave</a>. The grave has the <a class="wiki_link" title="Elden Ring Crimson Seed Talisman" href="/Crimson+Seed+Talisman" target="">Crimson Seed Talisman</a> and <a class="wiki_link" title="Elden Ring Dragoncrest Shield Talisman" href="/Dragoncrest+Shield+Talisman" target="">Dragoncrest Shield Talisman</a> +1. South from here, <a class="wiki_link" title="Elden Ring Stormcaller Church" href="/Stormcaller+Church" target="">Stormcaller Church</a> has a <a class="wiki_link" title="Elden Ring Crystal Tear" href="/Crystal+Tear" target="">Crystal Tear</a> to loot, as well as the <a class="wiki_link" title="Elden Ring Dragonbolt Blessing" href="/Dragonbolt+Blessing" target="">Dragonbolt Blessing</a> incantation.</p>`,
       image:
         'https://eldenring.wiki.fextralife.com/file/Elden-Ring/altus-plateau-hub-location-preview-elden-ring-wiki-guide-300px.jpg',
       link: 'https://eldenring.wiki.fextralife.com/Altus+Plateau',
@@ -849,6 +894,7 @@ const taskHash: Map<string, Task> = new Map([
     {
       id: 'meet-goldmask-report-to-corhyb',
       title: 'Meet Goldmask and report to Corhyn',
+      longDesc: `<p>You have now successfully looted the eastern part of Altus Plains, so bactrack to <a class="wiki_link" title="Elden Ring Dominula, Windmill Village" href="/Dominula,+Windmill+Village" target="">Dominula, Windmill Village</a> and head west instead. Following the main road without going up you will arrive to meet <a class="wiki_link" title="Elden Ring Goldmask" href="/Goldmask" target="">Goldmask</a> near the collapsed bridge. The lower area has <a class="wiki_link" title="Elden Ring Radiant Gold Mask" href="/Radiant+Gold+Mask" target="">Radiant Gold Mask</a> helm. After interacting with Goldmask, go back to Brother Corhyn near the Altus Highway Junction site of grace and tell him of your finding. He will move to Goldmask's location.</p>`,
       image:
         'https://eldenring.wiki.fextralife.com/file/Elden-Ring/goldmask_npcs_elden_ring_wiki_guide300px.jpg',
       link: 'https://eldenring.wiki.fextralife.com/Goldmask',
@@ -859,6 +905,7 @@ const taskHash: Map<string, Task> = new Map([
     {
       id: 'unlock-mt-gelmir-site-of-grace',
       title: "Unlock Mt Gelmir's site of grace",
+      longDesc: `<p>Travel back to Goldmask and Corhyn will have more incantations to sell, and dialogue that you should exhaust to progress his quest. To the north from here, in the higher areas, the Windmill Pastures (East and West) hold the <a class="wiki_link" title="Elden Ring Noble's Set" href="/Noble's+Set" target="">Noble's Set</a>, <a class="wiki_link" title="Elden Ring Battlemage Set" href="/Battlemage+Set" target="">Battlemage Set</a> and <a class="wiki_link" title="Elden Ring Giant Rat Ashes" href="/Giant+Rat+Ashes" target="">Giant Rat Ashes</a>. You can do a quick sweep of this before dropping back to the road and taking the <a class="wiki_link" title="Elden Ring Great Stars" href="/Great+Stars" target="">Great Stars</a> Warhammer from the enemy caravan traveling here. Following this road West leads you directly to Mt. Gelmir, but it's a good idea to follow it until the Bridge of Iniquity site of grace to activate it for teleporting. The road ahead from here is a dead-end with difficult enemies leading to an invasion by <a class="wiki_link" title="Elden Ring Anastacia, Tarnished-Eater" href="/Anastacia,+Tarnished-Eater" target="">Anastacia, Tarnished-Eater</a> and the <a class="wiki_link" title="Elden Ring Golden Vow (Spell)" href="/Golden+Vow+(Spell)" target="">Golden Vow (Spell)</a>.</p>`,
       image:
         'https://eldenring.wiki.fextralife.com/file/Elden-Ring/mt-gelmir-hub-location-preview-elden-ring-wiki-guide-300px.jpg',
       link: 'https://eldenring.wiki.fextralife.com/Mt+Gelmir',
@@ -869,6 +916,7 @@ const taskHash: Map<string, Task> = new Map([
     {
       id: 'defeat-tibia-mariner',
       title: 'Defeat Tibia Mariner',
+      longDesc: `<p><a class="wiki_link" title="Elden Ring Interactive Map?id=4567&amp;lat=-99.632&amp;lng=75.514&amp;zoom=8&amp;code=mapA" href="/Interactive+Map?id=4567&amp;lat=-99.632&amp;lng=75.514&amp;zoom=8&amp;code=mapA">Elden Ring Map: Mt. Gelmir Starting Point</a>. We'll complete a couple of locations that are technically Altus Plains but we left for later in order to make it easier to understand progress. From the Erdtree-Gazing Hill site of grace, go straight north and up to arrive to <a class="wiki_link" title="Elden Ring Wyndham Ruins" href="/Wyndham+Ruins" target="">Wyndham Ruins</a> and <a class="wiki_link" title="Elden Ring Wyndham Catacombs" href="/Wyndham+Catacombs" target="">Wyndham Catacombs</a>. There's a <a class="wiki_link" title="Elden Ring Tibia Mariner" href="/Tibia+Mariner" target="">Tibia Mariner</a> here to defeat and earn a <a class="wiki_link" title="Elden Ring Deathroot" href="/Deathroot" target="">Deathroot</a> as well as <a class="wiki_link" title="Elden Ring Tibia's Summons" href="/Tibia's+Summons" target="">Tibia's Summons</a> spell. The catacombs boss drops <a class="wiki_link" title="Elden Ring Glovewort Picker's Bell Bearing (1)" href="/Glovewort+Picker's+Bell+Bearing+(1)" target="">Glovewort Picker's Bell Bearing (1)</a>, which enables you to purchase low level grave glovewort from the Roundtable Hold.</p>`,
       image:
         'https://eldenring.wiki.fextralife.com/file/Elden-Ring/tibia-mariner_ground_boss_enemies_elden_ring_wiki_300px.jpg',
       link: 'https://eldenring.wiki.fextralife.com/Tibia+Mariner',
@@ -879,9 +927,120 @@ const taskHash: Map<string, Task> = new Map([
     {
       id: 'complete-wyndham-ruins-and-catacombs',
       title: 'Complete Wyndham Ruins & Catacombs',
+      longDesc: `<p><a class="wiki_link" title="Elden Ring Interactive Map?id=4567&amp;lat=-99.632&amp;lng=75.514&amp;zoom=8&amp;code=mapA" href="/Interactive+Map?id=4567&amp;lat=-99.632&amp;lng=75.514&amp;zoom=8&amp;code=mapA">Elden Ring Map: Mt. Gelmir Starting Point</a>. We'll complete a couple of locations that are technically Altus Plains but we left for later in order to make it easier to understand progress. From the Erdtree-Gazing Hill site of grace, go straight north and up to arrive to <a class="wiki_link" title="Elden Ring Wyndham Ruins" href="/Wyndham+Ruins" target="">Wyndham Ruins</a> and <a class="wiki_link" title="Elden Ring Wyndham Catacombs" href="/Wyndham+Catacombs" target="">Wyndham Catacombs</a>. There's a <a class="wiki_link" title="Elden Ring Tibia Mariner" href="/Tibia+Mariner" target="">Tibia Mariner</a> here to defeat and earn a <a class="wiki_link" title="Elden Ring Deathroot" href="/Deathroot" target="">Deathroot</a> as well as <a class="wiki_link" title="Elden Ring Tibia's Summons" href="/Tibia's+Summons" target="">Tibia's Summons</a> spell. The catacombs boss drops <a class="wiki_link" title="Elden Ring Glovewort Picker's Bell Bearing (1)" href="/Glovewort+Picker's+Bell+Bearing+(1)" target="">Glovewort Picker's Bell Bearing (1)</a>, which enables you to purchase low level grave glovewort from the Roundtable Hold.</p>`,
       image:
         'https://eldenring.wiki.fextralife.com/file/Elden-Ring/wyndham_ruins_2_locations_elden_ring_wiki_guide.jpg',
       link: 'https://eldenring.wiki.fextralife.com/Wyndham+Ruins',
+    },
+  ],
+  [
+    'collect-golden-seed-2',
+    {
+      id: 'collect-golden-seed-2',
+      title: 'Collect Golden Seed',
+      longDesc: `<p>Once you are done with exploring those, go west and down to the canyon floor, to find Seethewater River site of grace. Begin your ride northward, a teardrop scarab nearby drops <a class="wiki_link" title="Elden Ring Ash of War: Barrage" href="/Ash+of+War:+Barrage" target="">Ash of War: Barrage</a>. Continue your way north avoiding the waves of heat until you come to a <a class="wiki_link" title="Elden Ring Golden Seed" href="/Golden+Seed" target="">Golden Seed</a>. Further ahead, you can loot 1x <a class="wiki_link" title="Elden Ring Smithing Stone (5)" href="/Smithing+Stone+(5)" target="">Smithing Stone (5)</a> before arriving to an Imp Gate defended by <a class="wiki_link" title="Elden Ring Basilisk" href="/Basilisk" target="">Basilisks</a> that needs a Stonesword Key - this is <a class="wiki_link" title="Elden Ring Seethewater Cave" href="/Seethewater+Cave" target="">Seethewater Cave</a>, and you can get the peculiar <a class="wiki_link" title="Elden Ring Mushroom Set" href="/Mushroom+Set" target="">Mushroom Set</a> and <a class="wiki_link" title="Elden Ring Kindred of Rot's Exultation" href="/Kindred+of+Rot's+Exultation" target="">Kindred of Rot's Exultation</a> talisman.</p>`,
+      image:
+        'https://eldenring.wiki.fextralife.com/file/Elden-Ring/golden_seed_elden_ring_wiki_guide_200px.png',
+      link: 'https://eldenring.wiki.fextralife.com/Golden+Seed',
+    },
+  ],
+  [
+    'complete-fort-laeidd',
+    {
+      id: 'complete-fort-laeidd',
+      title: 'Complete Fort Laeidd',
+      longDesc: `<p>Follow the road north until a fort comes into view, this is <a class="wiki_link" title="Elden Ring Fort Laiedd" href="/Fort+Laiedd" target="">Fort Laiedd</a>, and it's UNDER the area with the map fragment so don't fret that you aren't up there yet!. Activate the Seethewater Terminus site of grace and head inside the fort to collect&nbsp;<a class="wiki_link" title="Elden Ring Armorer's Cookbook (7)" href="/Armorer's+Cookbook+(7)" target="">Armorer's Cookbook (7)</a> and the <a class="wiki_link" title="Elden Ring Fire Scorpion Charm" href="/Fire+Scorpion+Charm" target="">Fire Scorpion Charm</a>. You can also loot a Stone Sword Key by the jellyfish to the east of the fort it you needed one for the cave we mentioned before.</p>`,
+      image:
+        'https://eldenring.wiki.fextralife.com/file/Elden-Ring/fort_leidd_icon.png',
+      link: 'https://eldenring.wiki.fextralife.com/Fort+Laiedd',
+    },
+  ],
+  [
+    'defeat-magma-wyrm',
+    {
+      id: 'defeat-magma-wyrm',
+      title: 'Defeat Magma Wyrm',
+      longDesc: `<p>South from Fort Laiedd, the road converges to a magma poool with a <a class="wiki_link" title="Elden Ring Magma Wyrm" href="/Magma+Wyrm" target="">Magma Wyrm</a> boss. Defeat it to earn a <a class="wiki_link" title="Elden Ring Dragon Heart" href="/Dragon+Heart" target="">Dragon Heart</a> and unlock the <a class="wiki_link" title="Elden Ring Magma Breath" href="/Magma+Breath" target="">Magma Breath</a> spell at the <a class="wiki_link" title="Elden Ring Cathedral of Dragon Communion" href="/Cathedral+of+Dragon+Communion" target="">Cathedral of Dragon Communion</a>. You will also meet <a class="wiki_link" title="Elden Ring Iron Fist Alexander" href="/Iron+Fist+Alexander" target="">Iron Fist Alexander</a> for the fifth location of his questline. Beware that you will lose health while talking to him if you are in the wrong spot, so keep in mind Alexander can be spoken to from the safety of the rock in the lava lake. Follow the road south past some enemies and a graveyard that can be looted for runes, until you come to the <a class="wiki_link" title="Elden Ring Hermit's Shack" href="/Hermit's+Shack" target="">Hermit's Shack</a>. Defeat the demi-humans here to loot <a class="wiki_link" title="Elden Ring Roiling Magma" href="/Roiling+Magma" target="">Roiling Magma</a>. You can also use the giant Rune Bear to destroy the statue and get some more smithing stones.</p>`,
+      image:
+        'https://eldenring.wiki.fextralife.com/file/Elden-Ring/magma_wyrm_bosses_elden_ring_wiki_guide.jpg',
+      link: 'https://eldenring.wiki.fextralife.com/Magma+Wyrm',
+    },
+  ],
+  [
+    'talk-to-iron-fist-2',
+    {
+      id: 'talk-to-iron-fist-2',
+      title: 'Talk to Iron Fist Alexander',
+      longDesc: `<p>South from Fort Laiedd, the road converges to a magma poool with a <a class="wiki_link" title="Elden Ring Magma Wyrm" href="/Magma+Wyrm" target="">Magma Wyrm</a> boss. Defeat it to earn a <a class="wiki_link" title="Elden Ring Dragon Heart" href="/Dragon+Heart" target="">Dragon Heart</a> and unlock the <a class="wiki_link" title="Elden Ring Magma Breath" href="/Magma+Breath" target="">Magma Breath</a> spell at the <a class="wiki_link" title="Elden Ring Cathedral of Dragon Communion" href="/Cathedral+of+Dragon+Communion" target="">Cathedral of Dragon Communion</a>. You will also meet <a class="wiki_link" title="Elden Ring Iron Fist Alexander" href="/Iron+Fist+Alexander" target="">Iron Fist Alexander</a> for the fifth location of his questline. Beware that you will lose health while talking to him if you are in the wrong spot, so keep in mind Alexander can be spoken to from the safety of the rock in the lava lake. Follow the road south past some enemies and a graveyard that can be looted for runes, until you come to the <a class="wiki_link" title="Elden Ring Hermit's Shack" href="/Hermit's+Shack" target="">Hermit's Shack</a>. Defeat the demi-humans here to loot <a class="wiki_link" title="Elden Ring Roiling Magma" href="/Roiling+Magma" target="">Roiling Magma</a>. You can also use the giant Rune Bear to destroy the statue and get some more smithing stones.</p>`,
+      image:
+        'https://eldenring.wiki.fextralife.com/file/Elden-Ring/alexander_npc_elden_ring_wiki_guide_300px.jpg',
+      link: 'https://eldenring.wiki.fextralife.com/Iron+Fist+Alexander',
+    },
+  ],
+  [
+    'obtain-memory-stone-comet-azur',
+    {
+      id: 'obtain-memory-stone-comet-azur',
+      title: 'Obtain Memory Stone & Comet Azur',
+      longDesc: `<p>Continue following this road to arrive at <a class="wiki_link" title="Elden Ring Craftman's Shack" href="/Craftman's+Shack" target="">Craftman's Shack</a>. You can obtain the Pulley Crossbow as a treasure here as well as activate a convenient site of grace. Up ahead is Hermit Village, that is barricaded and has several enemies for you to deal with. Loot the Hierodas Glinstone Crown from a corpse in the southern area of the village, and the <a class="wiki_link" title="Elden Ring Prattling Pate You're Beautiful" href="/Prattling+Pate+You're+Beautiful">Prattling Pate "You're Beautiful"</a> from a door nearby. The north of the village has the miniboss <a class="wiki_link" title="Elden Ring Demi-Human Queen Maggie" href="/Demi-Human+Queen+Maggie" target="">Demi-Human Queen Maggie</a>, who will drop a <a class="wiki_link" title="Elden Ring Memory Stone" href="/Memory+Stone" target="">Memory Stone</a> upon defeat. Slightly north around the corner, you can get <a class="wiki_link" title="Elden Ring Comet Azur" href="/Comet+Azur" target="">Comet Azur</a> from <a class="wiki_link" title="Elden Ring Primeval Sorcerer Azur" href="/Primeval+Sorcerer+Azur" target="">Primeval Sorcerer Azur</a> and activate the site of grace.</p>`,
+      image:
+        'https://eldenring.wiki.fextralife.com/file/Elden-Ring/comet_azur_sorcery_elden_ring_wiki_guide_200px.png',
+      link: 'https://eldenring.wiki.fextralife.com/Comet+Azur',
+    },
+  ],
+  [
+    'complete-gelmir-hero-grave',
+    {
+      id: 'complete-gelmir-hero-grave',
+      title: "Complete Gelmir Hero's Grave",
+      longDesc: `<p>Traverse the beam by the sorcerer to cross the canyon and drop down. You can activate the lift to <a class="wiki_link" title="Elden Ring Gelmir Hero's Grave" href="/Gelmir+Hero's+Grave" target="">Gelmir Hero's Grave</a>. This location has a <a class="wiki_link" title="Elden Ring Deathroot" href="/Deathroot" target="">Deathroot</a>, as well as the <a class="wiki_link" title="Elden Ring Bloodhound Knight Set" href="/Bloodhound+Knight+Set" target="">Bloodhound Knight Set</a>, <a class="wiki_link" title="Elden Ring Gelmir Knight Set" href="/Gelmir+Knight+Set" target="">Gelmir Knight Set</a>, <a class="wiki_link" title="Elden Ring Bloodhound Knight Floh" href="/Bloodhound+Knight+Floh" target="">Bloodhound Knight Floh</a> spirit ashes and the <a class="wiki_link" title="Elden Ring Mantis Blade" href="/Mantis+Blade" target="">Mantis Blade</a>&nbsp;curved sword. Once you complete the location, return to the entrance and explore north to continue. You will be ambushed by a pack of wolves and then arrive at a fortification defended by a Mad Pumpkin Head and some soldiers. The <a class="wiki_link" title="Elden Ring Pulley Bow" href="/Pulley+Bow" target="">Pulley Bow</a> can be looted here, and you can opt to follow the <a class="wiki_link" title="Elden Ring Rainbow Stone" href="/Rainbow+Stone" target="">Rainbow Stones</a> glowing on the ground and if you dismount and get close to the edge, <a class="wiki_link" title="Elden Ring Patches" href="/Patches" target="">Patches</a> will knock you to the ground level near the entrance to Seethewater Cave, to prevent you accessing the Volcano Manor. The road south from the patches encounter takes you to the First Mt. Gelmir Campsite site of grace, that has a staircase leading you down to the dead-end road toward Corpse-Stench Shack.</p>`,
+      image:
+        'https://eldenring.wiki.fextralife.com/file/Elden-Ring/gelmir_heros_grave_locations_elden_ring_wiki_guide.jpg',
+      link: "https://eldenring.wiki.fextralife.com/Gelmir+Hero's+Grave",
+    },
+  ],
+  [
+    'trigger-patches-event',
+    {
+      id: 'trigger-patches-event',
+      title: 'Trigger Patches event',
+      longDesc: `<p>Traverse the beam by the sorcerer to cross the canyon and drop down. You can activate the lift to <a class="wiki_link" title="Elden Ring Gelmir Hero's Grave" href="/Gelmir+Hero's+Grave" target="">Gelmir Hero's Grave</a>. This location has a <a class="wiki_link" title="Elden Ring Deathroot" href="/Deathroot" target="">Deathroot</a>, as well as the <a class="wiki_link" title="Elden Ring Bloodhound Knight Set" href="/Bloodhound+Knight+Set" target="">Bloodhound Knight Set</a>, <a class="wiki_link" title="Elden Ring Gelmir Knight Set" href="/Gelmir+Knight+Set" target="">Gelmir Knight Set</a>, <a class="wiki_link" title="Elden Ring Bloodhound Knight Floh" href="/Bloodhound+Knight+Floh" target="">Bloodhound Knight Floh</a> spirit ashes and the <a class="wiki_link" title="Elden Ring Mantis Blade" href="/Mantis+Blade" target="">Mantis Blade</a>&nbsp;curved sword. Once you complete the location, return to the entrance and explore north to continue. You will be ambushed by a pack of wolves and then arrive at a fortification defended by a Mad Pumpkin Head and some soldiers. The <a class="wiki_link" title="Elden Ring Pulley Bow" href="/Pulley+Bow" target="">Pulley Bow</a> can be looted here, and you can opt to follow the <a class="wiki_link" title="Elden Ring Rainbow Stone" href="/Rainbow+Stone" target="">Rainbow Stones</a> glowing on the ground and if you dismount and get close to the edge, <a class="wiki_link" title="Elden Ring Patches" href="/Patches" target="">Patches</a> will knock you to the ground level near the entrance to Seethewater Cave, to prevent you accessing the Volcano Manor. The road south from the patches encounter takes you to the First Mt. Gelmir Campsite site of grace, that has a staircase leading you down to the dead-end road toward Corpse-Stench Shack.</p>`,
+      image:
+        'https://eldenring.wiki.fextralife.com/file/Elden-Ring/patches_bosses_elden_ring_wiki_guide_300x.jpg',
+      link: 'https://eldenring.wiki.fextralife.com/Patches',
+    },
+  ],
+  [
+    'defeat-fallingstar-beast',
+    {
+      id: 'defeat-fallingstar-beast',
+      title: 'Defeat Full-Grown Fallingstar Beast',
+      longDesc: `<p>You should instead cross the beam leading to the other side of the canyon and begin making your way up the ladder behind a <a class="wiki_link" title="Elden Ring Grafted Scion" href="/Grafted+Scion" target="">Grafted Scion</a> mini-encounter. This next section is a continuation of ladders and optional drops to loot. One of the rests has a <a class="wiki_link" title="Elden Ring Nomadic Merchant Mt. Gelmir" href="/Nomadic+Merchant+Mt.+Gelmir">Nomadic Merchant</a>, before leading you to an encounter with the <a class="wiki_link" title="Elden Ring Full-Grown Fallingstar Beast" href="/Full-Grown+Fallingstar+Beast" target="">Full-Grown Fallingstar Beast</a> that drops <a class="wiki_link" title="Elden Ring Fallingstar Beast Jaw" href="/Fallingstar+Beast+Jaw" target="">Fallingstar Beast Jaw</a>. From the crater of this boss encounter, you have to take some broken pillars to the west and jump across to the other side to land successfully near the Road of Iniquity site of grace. You will be attacked by Marionette Soldiers to be careful. You can loot a <a class="wiki_link" title="Elden Ring Golden Seed" href="/Golden+Seed" target="">Golden Seed</a> and kill an invisible Teardrop Scarab to obtain <a class="wiki_link" title="Elden Ring Ash of War: Through and Through" href="/Ash+of+War:+Through+and+Through" target="">Ash of War: Through and Through</a>.</p>`,
+      image:
+        'https://eldenring.wiki.fextralife.com/file/Elden-Ring/full-grown-fallingstar-beast-bosses-elden-ring-wiki-guide-300px.jpg',
+      link: 'https://eldenring.wiki.fextralife.com/Full-Grown+Fallingstar+Beast',
+    },
+  ],
+  [
+    'loot-golden-seed-map-fragment-3',
+    {
+      id: 'loot-golden-seed-map-fragment-3',
+      title: 'Loot Golden Seed & Map Fragment',
+      longDesc: `<p>You should instead cross the beam leading to the other side of the canyon and begin making your way up the ladder behind a <a class="wiki_link" title="Elden Ring Grafted Scion" href="/Grafted+Scion" target="">Grafted Scion</a> mini-encounter. This next section is a continuation of ladders and optional drops to loot. One of the rests has a <a class="wiki_link" title="Elden Ring Nomadic Merchant Mt. Gelmir" href="/Nomadic+Merchant+Mt.+Gelmir">Nomadic Merchant</a>, before leading you to an encounter with the <a class="wiki_link" title="Elden Ring Full-Grown Fallingstar Beast" href="/Full-Grown+Fallingstar+Beast" target="">Full-Grown Fallingstar Beast</a> that drops <a class="wiki_link" title="Elden Ring Fallingstar Beast Jaw" href="/Fallingstar+Beast+Jaw" target="">Fallingstar Beast Jaw</a>. From the crater of this boss encounter, you have to take some broken pillars to the west and jump across to the other side to land successfully near the Road of Iniquity site of grace. You will be attacked by Marionette Soldiers to be careful. You can loot a <a class="wiki_link" title="Elden Ring Golden Seed" href="/Golden+Seed" target="">Golden Seed</a> and kill an invisible Teardrop Scarab to obtain <a class="wiki_link" title="Elden Ring Ash of War: Through and Through" href="/Ash+of+War:+Through+and+Through" target="">Ash of War: Through and Through</a>.</p>`,
+      image:
+        'https://eldenring.wiki.fextralife.com/file/Elden-Ring/golden_seed_elden_ring_wiki_guide_200px.png',
+      link: '',
+    },
+  ],
+  [
+    'complete-volcano-manor',
+    {
+      id: 'complete-volcano-manor',
+      title: 'Complete Volcano Manor',
+      longDesc: `<p>You are now in the right level to obtain the map shard, but be careful as you approach the pillar as there are deadly <a class="wiki_link" title="Elden Ring Spider Hand" href="/Spider+Hand" target="">Spider Hand</a> enemies ready to ambush you. Activate the&nbsp; site of grace first! Go down the road toward the pillar and run past all the hands and map to rest at Road of Iniquity, then loot <a class="wiki_link" title="Elden Ring Map (Mt. Gelmir)" href="/Map+(Mt.+Gelmir)" target="">Map (Mt. Gelmir)</a>. You now have revealed the zone and are ready to head into Volcano Manor, that is just above. There different ways to deal with the location, so see <a class="wiki_link" title="Elden Ring Volcano Manor" href="/Volcano+Manor" target="">Volcano Manor</a> for details.</p>`,
+      image:
+        'https://eldenring.wiki.fextralife.com/file/Elden-Ring/volcano-manor-walkthrough-1-elden-ring-wiki-guide.jpg',
+      link: 'https://eldenring.wiki.fextralife.com/Volcano+Manor',
     },
   ],
   [
@@ -995,6 +1154,7 @@ const taskHash: Map<string, Task> = new Map([
     {
       id: 'loot-sacrificial-twig',
       title: 'Loot Sacrificial Twig',
+      longDesc: `Return to Academy Gate Town where you should have gotten the Map fragment of the area, and make it past the many enemies guarding the town to the magic-sealed entrance of the Academy. Here, there is a note showing you a map to a Key that will let you through the magic barrier.`,
       image:
         'https://eldenring.wiki.fextralife.com/file/Elden-Ring/sacrificial_twig_talisman_elden_ring_wiki_guide_200px.png',
       link: 'https://eldenring.wiki.fextralife.com/Sacrificial+Twig',
@@ -1015,9 +1175,21 @@ const taskHash: Map<string, Task> = new Map([
     {
       id: 'acquire-academy-glintstone-key',
       title: 'Acquire the Academy Glintstone Key',
+      longDesc: `<p>To enter Raya Lucaria Academy, you must have an <a class="wiki_link" title="Elden Ring Academy Glintstone Key" href="/Academy+Glintstone+Key" target="">Academy Glintstone Key</a>&nbsp;to pass through the barrier.&nbsp;To find it, grab the map that has the coordinates of the key or travel&nbsp;to an island that is situated on the west side from the academy.&nbsp;On that island, you'll find that it is guarded by a field boss, the&nbsp;Glintstone Dragon Smarag. Fighting this dragon is optional since you can simply sneak behind it and loot the key from a lucarian sorcerer corpse. Once you have it, return to the&nbsp;South Raya Lucaria Gate and you can pass through the barrier. The nearest site of grace is the Crystalline Woods site [<a class="wiki_link" title="Elden Ring Interactive Map?id=1139&amp;lat=-133.59375&amp;lng=51.455302&amp;zoom=8" href="/Interactive+Map?id=1139&amp;lat=-133.59375&amp;lng=51.455302&amp;zoom=8">Map Coordinates</a>].</p>`,
       image:
         'https://eldenring.wiki.fextralife.com/file/Elden-Ring/academy-glintstone-key_key-items-elden-ring-wiki-guide-200.png',
       link: 'https://eldenring.wiki.fextralife.com/Academy+Glintstone+Key',
+    },
+  ],
+  [
+    'pickup-several-ashes',
+    {
+      id: 'pickup-several-ashes',
+      title: 'Pick up Several Ashes',
+      longDesc: `<p>At the Academy Gate Town <a class="wiki_link" title="Elden Ring Sites of Grace" href="/Sites+of+Grace" target="">Site of Grace</a>, check the northwest section and you can find a glowing sapling where you can pick up x1&nbsp;<a class="wiki_link" title="Elden Ring Golden Seed" href="/Golden+Seed" target="">Golden Seed</a>&nbsp;[<a class="wiki_link" title="Elden Ring Interactive Map?id=1302&amp;lat=-143.960937&amp;lng=64.048781&amp;zoom=8" href="/Interactive+Map?id=1302&amp;lat=-143.960937&amp;lng=64.048781&amp;zoom=8">Map Coordinates Here</a>], next, go west and you'll see a&nbsp;<a class="wiki_link" title="Elden Ring Giant Crab" href="/Giant+Crab" target="">Giant Crab</a>&nbsp;that you can kill, this drops x1&nbsp;<a class="wiki_link" title="Elden Ring Crab Eggs" href="/Crab+Eggs" target="">Crab Eggs</a>. At the same section where the Giant Crab was, you'll find a body that can be looted to find&nbsp;x3&nbsp;<a class="wiki_link" title="Elden Ring Smithing Stone (2)" href="/Smithing+Stone+(2)" target="">Smithing Stone (2)</a>&nbsp;[<a class="wiki_link" title="Elden Ring Interactive Map?id=1303&amp;lat=-143.460937&amp;lng=62.022922&amp;zoom=8" href="/Interactive+Map?id=1303&amp;lat=-143.460937&amp;lng=62.022922&amp;zoom=8">Map Coordinates Here</a>].&nbsp;In the same section, look behind and you'll see a couple of&nbsp;<a class="wiki_link" title="Elden Ring Poison Pod" href="/Poison+Pod">Poison Pods</a>, and above it is a&nbsp;<a class="wiki_link" title="Elden Ring Teardrop Scarab" href="/Teardrop+Scarab" target="">Teardrop Scarab</a>&nbsp;hanging on the wall. Killing the Teardrop Scarab drops&nbsp;<a class="wiki_link" title="Elden Ring Ash of War: Charge Forth" href="/Ash+of+War:+Charge+Forth" target="">Ash of War: Charge Forth</a>.</p>`,
+      image:
+        'https://eldenring.wiki.fextralife.com/file/Elden-Ring/quality_upgrade_affinity_elden_ring_wiki_guide_60px.jpg',
+      link: 'https://eldenring.wiki.fextralife.com/Ashes+of+War',
     },
   ],
   [
@@ -1035,6 +1207,7 @@ const taskHash: Map<string, Task> = new Map([
     {
       id: 'get-carian-knight-set',
       title: 'Get Carian Knight Set',
+      longDesc: `<p>Head through the doorway to enter the next section where you'll find a large rotating lift. By the entrance, turn right, hug the wall, and drop down to the path below. Walk along the narrow path and you'll see another group of Glintstone Zombies that are worshipping a large tombstone, kill the group and pick up the glowing item near the tombstone to find the <a class="wiki_link" title="Elden Ring Carian Knight Set" href="/Carian+Knight+Set" target="">Carian Knight Set</a>. Go back to the section where the large rotating lift is, don't ride it yet, but instead go straight where you'll see some maiden statues and a monlith at the center. Defeat the <a class="wiki_link" title="Elden Ring Slender Wayfarer" href="/Slender+Wayfarer" target="">Slender Wayfarer</a>&nbsp;that is guarding the monolith to acquire the <a class="wiki_link" title="Elden Ring Gravity Well" href="/Gravity+Well" target="">Gravity Well</a>&nbsp;sorcery and pick up the smithing stone on the monolith.</p>`,
       image:
         'https://eldenring.wiki.fextralife.com/file/Elden-Ring/carian-knight-armor-set-elden-ring-wiki-guide.png',
       link: 'https://eldenring.wiki.fextralife.com/Carian+Knight+Set',
@@ -1045,7 +1218,9 @@ const taskHash: Map<string, Task> = new Map([
     {
       id: 'get-conspectus-scroll',
       title: 'Get Conspectus Scroll',
-      image: '',
+      longDesc: `<p>Next, ride the lift and head to the lower-most section where you'll encounter a <a class="wiki_link" title="Elden Ring Pendulum Statue" href="/Pendulum+Statue" target="">Pendulum Statue</a>&nbsp;enemy. Defeat it and make sure to loot the corpse here to find the&nbsp;<a class="wiki_link" title="Elden Ring Longtail Cat Talisman" href="/Longtail+Cat+Talisman" target="">Longtail Cat Talisman</a>. Ride the lift again and head to the top section, kill the enemies along the way and enter the next section where you can find the&nbsp;Schoolhouse Classroom site. From the site, enter the hallway and go to the room on the left. There's a corpse that you can loot to find the&nbsp;<a class="wiki_link" title="Elden Ring Conspectus Scroll" href="/Conspectus+Scroll" target="">Conspectus Scroll</a>&nbsp;and a treasure chest containing the&nbsp;<a class="wiki_link" title="Elden Ring Glintstone Craftsman's Cookbook [5]" href="/Glintstone+Craftsman's+Cookbook+[5]" target="">Glintstone Craftsman's Cookbook [5]</a>.</p>`,
+      image:
+        'https://eldenring.wiki.fextralife.com/file/Elden-Ring/conspectus_scroll_elden_ring_wiki_guide_200px.png',
       link: 'https://eldenring.wiki.fextralife.com/Conspectus+Scroll',
     },
   ],
@@ -1054,6 +1229,7 @@ const taskHash: Map<string, Task> = new Map([
     {
       id: 'get-olivinus-glintstone-crown-and-ritual-pot',
       title: 'Get Olivinus Glintstone Crown and Ritual Pot',
+      longDesc: `<p>Don't leave the room yet, in front of the body you just looted, make sure to hit the door in front of it to reveal the illusory wall. Pillage the body on the right of the balcony to find a <a class="wiki_link" title="Elden Ring Smithing Stones" href="/Smithing+Stones" target="">Smithing Stones</a>&nbsp;and then jump off the balcony from the left side. Grab the materials there and&nbsp;jump up the rocks on&nbsp;the narrow sideway, along the way, before jumping down and returning to the Schoolhouse Classroom site, there's a body that can be looted to find the&nbsp;<a class="wiki_link" title="Elden Ring Olivinus Glintstone Crown" href="/Olivinus+Glintstone+Crown" target="">Olivinus Glintstone Crown</a>. Now continue exploring the hallway.</p>`,
       image:
         'https://eldenring.wiki.fextralife.com/file/Elden-Ring/olivinus_glintstone_crown_elden_ring_wiki_guide_200px.png',
       link: 'https://eldenring.wiki.fextralife.com/Olivinus+Glintstone+Crown',
@@ -1064,6 +1240,7 @@ const taskHash: Map<string, Task> = new Map([
     {
       id: 'defeat-red-wolf-of-radagon',
       title: 'Defeat Red Wolf of Radagon',
+      longDesc: `<p>Take note that the&nbsp;<a class="wiki_link" title="Elden Ring Raya Lucaria Sorcerer" href="/Raya+Lucaria+Sorcerer">Raya Lucaria Sorcerers</a>&nbsp;enemies has a chance to drop the&nbsp;<a class="wiki_link" title="Elden Ring Academy Glintstone Staff" href="/Academy+Glintstone+Staff" target="">Academy Glintstone Staff</a>. At the other end of the hallway where you encountered the giant <a class="wiki_link" title="Elden Ring Living Jar" href="/Living+Jar" target="">Living Jar</a>, you'll find a chest containing x1&nbsp;<a class="wiki_link" title="Elden Ring Ritual Pot" href="/Ritual+Pot" target="">Ritual Pot</a>. On the second floor that is guarded by more&nbsp;<a class="wiki_link" title="Elden Ring Raya Lucaria Sorcerer" href="/Raya+Lucaria+Sorcerer">Raya Lucaria Sorcerers</a>, make sure to check the balcony to find another corpse that can be pillaged to acquire&nbsp;<a class="wiki_link" title="Elden Ring Furcalling Finger Remedy" href="/Furcalling+Finger+Remedy" target="">Furcalling Finger Remedy</a>&nbsp;- head up the third floor, and if you are prepared, pass through the mist to fight&nbsp;<a class="wiki_link" title="Elden Ring Red Wolf of Radagon" href="/Red+Wolf+of+Radagon" target="">Red Wolf of Radagon</a>.</p>`,
       image:
         'https://eldenring.wiki.fextralife.com/file/Elden-Ring/red-wolf-of-radagon.jpg',
       link: 'https://eldenring.wiki.fextralife.com/Red+Wolf+of+Radagon',
@@ -1074,6 +1251,7 @@ const taskHash: Map<string, Task> = new Map([
     {
       id: 'access-secret-radagon-upstairs-area',
       title: 'Access Secret Radagon Upstairs Area',
+      longDesc: `<p>Defeating&nbsp;<a class="wiki_link" title="Elden Ring Red Wolf of Radagon" href="/Red+Wolf+of+Radagon" target="">Red Wolf of Radagon</a>&nbsp;rewards you with 14000&nbsp;<a class="wiki_link" title="Elden Ring Runes" href="/Runes" target="">Runes</a>&nbsp;and x1&nbsp;<a class="wiki_link" title="Elden Ring Memory Stone" href="/Memory+Stone" target="">Memory Stone</a>, you'll also find the Debate Hall&nbsp;<a class="wiki_link" title="Elden Ring Sites of Grace" href="/Sites+of+Grace" target="">Site of Grace</a>&nbsp;in this arena. As you exit through the doorway, you'll enter the main courtyard of the institue. From the entrance, turn right and jump over the fence. Climb up the ladder and go through the broken glass window to reach the second floor of the Debate Hall.&nbsp;Go to the left, and you'll find a body that you can pillage to find x5&nbsp;<a class="wiki_link" title="Elden Ring Crystal Bud" href="/Crystal+Bud" target="">Crystal Bud</a>. Head to the opposite side on the right, and you'll find a treasure chest containing x1&nbsp;<a class="wiki_link" title="Elden Ring Radagon Icon" href="/Radagon+Icon" target="">Radagon Icon</a>. Head back down and start exploring the courtyard section.</p>`,
       image: '',
       link: '',
     },
@@ -1083,6 +1261,7 @@ const taskHash: Map<string, Task> = new Map([
     {
       id: 'get-key-golden-seed-glintstone-crown',
       title: 'Get Stonesword Key, Golden Seed and Karolos Glintstone Crown',
+      longDesc: `<p>On the fountain, you can find&nbsp;x1&nbsp;<a class="wiki_link" title="Elden Ring Stonesword Key" href="/Stonesword+Key" target="">Stonesword Key</a>. Make sure to go around the courtyard to find some materials.&nbsp;Head west of the courtyard and you'll see a glowing sapling that is guarded by three Noble Zombies. Kill the enemies and check the glowing sapling to find x1&nbsp;<a class="wiki_link" title="Elden Ring Golden Seed" href="/Golden+Seed" target="">Golden Seed</a>&nbsp;on the ground.&nbsp;Also on the west, there's a Cryallized Crab hiding around the corner, by the bush, kill it to acquire&nbsp;x1&nbsp;<a class="wiki_link" title="Elden Ring Karolos Glintstone Crown" href="/Karolos+Glintstone+Crown" target="">Karolos Glintstone Crown</a>.</p>`,
       image:
         'https://eldenring.wiki.fextralife.com/file/Elden-Ring/karolos_glintstone_crown_elden_ring_wiki_guide_200px.png',
       link: 'https://eldenring.wiki.fextralife.com/Karolos+Glintstone+Crown',
@@ -1093,6 +1272,7 @@ const taskHash: Map<string, Task> = new Map([
     {
       id: 'expore-upper-rooftops',
       title: 'Explore Upper Rooftops',
+      longDesc: `<p>After clearing the west side of the courtyard, return to the center area where the fountain is and you'll see a slope of rubble on the right&nbsp;(facing the doorway leading back to the&nbsp;Debate Hall, along the building). At the top, there are multiple enemies here such as more&nbsp;<a class="wiki_link" title="Elden Ring Raya Lucaria Sorcerer" href="/Raya+Lucaria+Sorcerer">Raya Lucaria Sorcerers</a>, Noble Zombies, and a different-looking zombie enemy called the Aristocrat. You'll see the Noble Zombies kneeling, the Aristocrat standing on the steps, two Sorcerers standing by the balcony fence at the top of the steps, while another sorcerer inside the room in front of the kneeling zombies. Kill all the enemies and go inside the small room to find&nbsp;a body that is hanging on the fence of the window balcony - the body contains x1&nbsp;<a class="wiki_link" title="Elden Ring Glintstone Whetblade" href="/Glintstone+Whetblade" target="">Glintstone Whetblade</a>.</p>`,
       image: '',
       link: '',
     },
@@ -1102,6 +1282,7 @@ const taskHash: Map<string, Task> = new Map([
     {
       id: 'get-imbued-sword-key',
       title: 'Get Imbued Sword Key',
+      longDesc: `<p>Now traverse the rooftops section of the academy. Make sure to check every corner and some platforms that you can jump on or can drop to find some materials. There's&nbsp;x1&nbsp;<a class="wiki_link" title="Elden Ring Imbued Sword Key" href="/Imbued+Sword+Key" target="">Imbued Sword Key</a>&nbsp;as well that can be looted off a body located on&nbsp;another towering building. Eventually, you'll end up finding a broken glass window that leads to the ceiling of the Church of the Cuckoo. Loot the body that's on the narrow beam and drop down until you land on the chandelier where you can take another&nbsp;<a class="wiki_link" title="Elden Ring Academy Glintstone Key" href="/Academy+Glintstone+Key" target="">Academy Glintstone Key</a>&nbsp;from the corpse.</p>`,
       image:
         'https://eldenring.wiki.fextralife.com/file/Elden-Ring/imbued-sword-key-elden-ring-wiki-guide.png',
       link: 'https://eldenring.wiki.fextralife.com/Imbued+Sword+Key',
@@ -1112,6 +1293,7 @@ const taskHash: Map<string, Task> = new Map([
     {
       id: 'loot-scademy-glintstone-key',
       title: 'Loot Academy Glintstone Key',
+      longDesc: `<p>Now traverse the rooftops section of the academy. Make sure to check every corner and some platforms that you can jump on or can drop to find some materials. There's&nbsp;x1&nbsp;<a class="wiki_link" title="Elden Ring Imbued Sword Key" href="/Imbued+Sword+Key" target="">Imbued Sword Key</a>&nbsp;as well that can be looted off a body located on&nbsp;another towering building. Eventually, you'll end up finding a broken glass window that leads to the ceiling of the Church of the Cuckoo. Loot the body that's on the narrow beam and drop down until you land on the chandelier where you can take another&nbsp;<a class="wiki_link" title="Elden Ring Academy Glintstone Key" href="/Academy+Glintstone+Key" target="">Academy Glintstone Key</a>&nbsp;from the corpse.</p>`,
       image:
         'https://eldenring.wiki.fextralife.com/file/Elden-Ring/academy-glintstone-key_key-items-elden-ring-wiki-guide-200.png',
       link: 'https://eldenring.wiki.fextralife.com/Academy+Glintstone+Key',
@@ -1122,6 +1304,7 @@ const taskHash: Map<string, Task> = new Map([
     {
       id: 'defeat-moongrum-carian-knight',
       title: 'Defeat Moongrum, Carian Knight',
+      longDesc: `<p>Jump down to the second floor and clear the area of&nbsp;<a class="wiki_link" title="Elden Ring Raya Lucarian Warden" href="/Raya+Lucarian+Warden">Raya Lucarian Wardens</a>&nbsp;and&nbsp;<a class="wiki_link" title="Elden Ring Raya Lucarian Sorcerer" href="/Raya+Lucarian+Sorcerer">Raya Lucarian Sorcerers</a>.&nbsp;Check the northwest&nbsp;side after killing the enemies to find a corpse that is sitting against a wall, you can pillage the body to find x1&nbsp;<a class="wiki_link" title="Elden Ring Shattering Crystal" href="/Shattering+Crystal" target="">Shattering Crystal</a>.&nbsp;Head east, out the balcony, and check the right side by the corner of the scaffolding to find another Crystallized Crab, kill it to acquire the&nbsp;<a class="wiki_link" title="Elden Ring Twinsage Glintstone Crown" href="/Twinsage+Glintstone+Crown" target="">Twinsage Glintstone Crown</a>. Also, there's another doorway here that is guarded by a single Page. Inside the room that is being guarded, you'll find&nbsp;the&nbsp;<a class="wiki_link" title="Elden Ring Azur's Glintstone Staff" href="/Azur's+Glintstone+Staff" target="">Azur's Glintstone Staff</a>&nbsp;on the ground - after clearing the second floor, make sure to kick the ladder to unlock a shortcut to the Church of the Cuckoo site.</p> <p>Go back to the courtyard and&nbsp;go east where you'll encounter the large iron ball trap. Make sure to loot the bodies on the stairs and the broken beam to find items such as&nbsp;x8&nbsp;<a class="wiki_link" title="Elden Ring Crystal Dart" href="/Crystal+Dart" target="">Crystal Dart</a>,&nbsp;x1&nbsp;<a class="wiki_link" title="Elden Ring Smithing Stone (5)" href="/Smithing+Stone+(5)" target="">Smithing Stone (5)</a>&nbsp;and&nbsp;x1&nbsp;<a class="wiki_link" title="Elden Ring Furlcalling Finger Remedy" href="/Furlcalling+Finger+Remedy" target="">Furlcalling Finger Remedy</a>. As you enter the next section, you'll encounter&nbsp;a hostile enemy NPC,&nbsp;<a class="wiki_link" title="Elden Ring Moongrum, Carian Knight" href="/Moongrum,+Carian+Knight" target="">Moongrum, Carian Knight</a>&nbsp;that's guarding the lift leading to the main boss of this legacy dungeon. Defeating&nbsp;<a class="wiki_link" title="Elden Ring Moongrum, Carian Knight" href="/Moongrum,+Carian+Knight" target="">Moongrum</a>&nbsp;drops the&nbsp;<a class="wiki_link" title="Elden Ring Carian Knight's Shield" href="/Carian+Knight's+Shield" target="">Carian Knight's Shield</a>. Before riding the lift, check the west side, by the gate, turn left and jump over the fence as you walk on the narrow beam of the wall. Climb up the ladder, defeat the <a class="wiki_link" title="Elden Ring Lesser Pumpkin Head" href="/Lesser+Pumpkin+Head" target="">Lesser Pumpkin Head</a>&nbsp;and&nbsp;<a class="wiki_link" title="Elden Ring Raya Lucaria Sorcerer" href="/Raya+Lucaria+Sorcerer">Raya Lucaria Sorcerers</a>. There's a treasure chest that you can open to find&nbsp;x1&nbsp;<a class="wiki_link" title="Elden Ring Glintstone Scarab" href="/Glintstone+Scarab" target="">Glintstone Scarab</a>&nbsp;- climb back down, open the closed door and ride the lift.</p>`,
       image:
         'https://eldenring.wiki.fextralife.com/file/Elden-Ring/moongrum-carian-knight-hostile-npc-enemy-elden-ring-wiki-guide.jpg',
       link: 'https://eldenring.wiki.fextralife.com/Moongrum+Carian+Knight',
@@ -1132,6 +1315,7 @@ const taskHash: Map<string, Task> = new Map([
     {
       id: 'deal-with-iron-ball',
       title: 'Deal with Iron Ball Trap',
+      longDesc: `<p>Go back to the courtyard and&nbsp;go east where you'll encounter the large iron ball trap. Make sure to loot the bodies on the stairs and the broken beam to find items such as&nbsp;x8&nbsp;<a class="wiki_link" title="Elden Ring Crystal Dart" href="/Crystal+Dart" target="">Crystal Dart</a>,&nbsp;x1&nbsp;<a class="wiki_link" title="Elden Ring Smithing Stone (5)" href="/Smithing+Stone+(5)" target="">Smithing Stone (5)</a>&nbsp;and&nbsp;x1&nbsp;<a class="wiki_link" title="Elden Ring Furlcalling Finger Remedy" href="/Furlcalling+Finger+Remedy" target="">Furlcalling Finger Remedy</a>. As you enter the next section, you'll encounter&nbsp;a hostile enemy NPC,&nbsp;<a class="wiki_link" title="Elden Ring Moongrum, Carian Knight" href="/Moongrum,+Carian+Knight" target="">Moongrum, Carian Knight</a>&nbsp;that's guarding the lift leading to the main boss of this legacy dungeon. Defeating&nbsp;<a class="wiki_link" title="Elden Ring Moongrum, Carian Knight" href="/Moongrum,+Carian+Knight" target="">Moongrum</a>&nbsp;drops the&nbsp;<a class="wiki_link" title="Elden Ring Carian Knight's Shield" href="/Carian+Knight's+Shield" target="">Carian Knight's Shield</a>. Before riding the lift, check the west side, by the gate, turn left and jump over the fence as you walk on the narrow beam of the wall. Climb up the ladder, defeat the <a class="wiki_link" title="Elden Ring Lesser Pumpkin Head" href="/Lesser+Pumpkin+Head" target="">Lesser Pumpkin Head</a>&nbsp;and&nbsp;<a class="wiki_link" title="Elden Ring Raya Lucaria Sorcerer" href="/Raya+Lucaria+Sorcerer">Raya Lucaria Sorcerers</a>. There's a treasure chest that you can open to find&nbsp;x1&nbsp;<a class="wiki_link" title="Elden Ring Glintstone Scarab" href="/Glintstone+Scarab" target="">Glintstone Scarab</a>&nbsp;- climb back down, open the closed door and ride the lift.</p>`,
       image: '',
       link: '',
     },
@@ -1141,6 +1325,7 @@ const taskHash: Map<string, Task> = new Map([
     {
       id: 'defeat-rennala',
       title: 'Defeat Rennala, Queen of the Full Moon',
+      longDesc: `<p>Beyond the large door is the Grand Library where you will fight&nbsp;<a class="wiki_link" title="Elden Ring Rennala, Queen of the Moon" href="/Rennala,+Queen+of+the+Moon" target="">Rennala, Queen of the Moon</a>&nbsp;in two phases. Defeating her&nbsp;yields 40000 Runes and rewards you with x1&nbsp;<a class="wiki_link" title="Elden Ring Remembrance of the Full Moon Queen" href="/Remembrance+of+the+Full+Moon+Queen" target="">Remembrance of the Full Moon Queen</a>&nbsp;and x1&nbsp;<a class="wiki_link" title="Elden Ring Great Rune of the Unborn" href="/Great+Rune+of+the+Unborn" target="">Great Rune of the Unborn</a>. Make sure to discover the site of grace here before leaving.</p> <p>One of the items you've found in the academy is the&nbsp;<a class="wiki_link" title="Elden Ring Academy Glintstone Key" href="/Academy+Glintstone+Key" target="">Academy Glintstone Key</a>. This is to be given to&nbsp;<a class="wiki_link" title="Elden Ring Thops" href="/Thops" target="">Thops</a>&nbsp;who can be found at the&nbsp;<a class="wiki_link" title="Elden Ring Church of Irith" href="/Church+of+Irith" target="">Church of Irith</a>. [<a class="wiki_link" title="Elden Ring Interactive Map?id=842&amp;lat=-172.992187&amp;lng=81.645886&amp;zoom=8" href="/Interactive+Map?id=842&amp;lat=-172.992187&amp;lng=81.645886&amp;zoom=8">Map Link</a>]. Just make sure that you were able to buy everything that you need from him before or after giving him the key. Upon giving the key, if you travel to the Schoolhouse Classroom site of grace of the academy, you'll find him dead outside the room. Go outside and turn right, you'll find him, sitting in a chair. You can loot his body to find x1&nbsp;<a class="wiki_link" title="Elden Ring Thops's Bell Bearing" href="/Thops's+Bell+Bearing" target="">Thops's Bell Bearing</a>, x1&nbsp;<a class="wiki_link" title="Elden Ring Thops's Barrier (Spell)" href="/Thops's+Barrier+(Spell)">Thops's Barrier</a>, and x1&nbsp;<a class="wiki_link" title="Elden Ring Academy Glintstone Staff" href="/Academy+Glintstone+Staff" target="">Academy Glintstone Staff</a>.</p>`,
       image:
         'https://eldenring.wiki.fextralife.com/file/Elden-Ring/renala_bosses_elden_ring_wiki_guide_300px.jpg',
       link: 'https://eldenring.wiki.fextralife.com/Rennala+Queen+of+the+Full+Moon',
@@ -1162,6 +1347,7 @@ const taskHash: Map<string, Task> = new Map([
     {
       id: 'get-kaiden-sellsword-ashes',
       title: 'Get Kaiden Sellsword Ashes',
+      longDesc: `<p><a class="wiki_link" title="Elden Ring Interactive Map?id=1466&amp;lat=-171.09375&amp;lng=87.487072&amp;zoom=5&amp;code=mapA" href="/Interactive+Map?id=1466&amp;lat=-171.09375&amp;lng=87.487072&amp;zoom=5&amp;code=mapA">Elden Ring Map: Liurnia of the Lakes East Starting Point</a>. We'll tackle this area from the bottom heading up, just to make it easier to navigate. You can begin ALL the way south by collecting the <a class="wiki_link" title="Elden Ring Treespear" href="/Treespear" target="">Treespear</a> weapon (Found on the Caravan left at the edge of the collapsed bridge). From here head to <a class="wiki_link" title="Elden Ring Cliffbottom Catacombs" href="/Cliffbottom+Catacombs" target="">Cliffbottom Catacombs</a> to gather valuable upgrade materials <a class="wiki_link" title="Elden Ring Grave Glovewort (2)" href="/Grave+Glovewort+(2)" target="">Grave Glovewort (2)</a> and <a class="wiki_link" title="Elden Ring Grave Glovewort (3)" href="/Grave+Glovewort+(3)" target="">Grave Glovewort (3)</a> as well as the <a class="wiki_link" title="Elden Ring Kaiden Sellsword Ashes" href="/Kaiden+Sellsword+Ashes" target="">Kaiden Sellsword Ashes</a> that is excellent for early game tanking. Slightly North-West from here, <a class="wiki_link" title="Elden Ring Purified Ruins" href="/Purified+Ruins">Purified Ruins</a> has a <a class="wiki_link" title="Elden Ring Shabriri Grape" href="/Shabriri+Grape" target="">Shabriri Grape</a> and <a class="wiki_link" title="Elden Ring Hyetta" href="/Hyetta" target="">Hyetta</a>'s second location.</p>`,
       image:
         'https://eldenring.wiki.fextralife.com/file/Elden-Ring/kaiden_sellsword_ashes_elden_ring_wiki_guide_200px.png',
       link: 'https://eldenring.wiki.fextralife.com/Kaiden+Sellsword+Ashes',
@@ -1172,6 +1358,7 @@ const taskHash: Map<string, Task> = new Map([
     {
       id: 'get-shabiri-grape-talk-to-hyetta',
       title: 'Get Shabriri Grape at Purified Ruins and Talk to Hyetta',
+      longDesc: `<p><a class="wiki_link" title="Elden Ring Interactive Map?id=1466&amp;lat=-171.09375&amp;lng=87.487072&amp;zoom=5&amp;code=mapA" href="/Interactive+Map?id=1466&amp;lat=-171.09375&amp;lng=87.487072&amp;zoom=5&amp;code=mapA">Elden Ring Map: Liurnia of the Lakes East Starting Point</a>. We'll tackle this area from the bottom heading up, just to make it easier to navigate. You can begin ALL the way south by collecting the <a class="wiki_link" title="Elden Ring Treespear" href="/Treespear" target="">Treespear</a> weapon (Found on the Caravan left at the edge of the collapsed bridge). From here head to <a class="wiki_link" title="Elden Ring Cliffbottom Catacombs" href="/Cliffbottom+Catacombs" target="">Cliffbottom Catacombs</a> to gather valuable upgrade materials <a class="wiki_link" title="Elden Ring Grave Glovewort (2)" href="/Grave+Glovewort+(2)" target="">Grave Glovewort (2)</a> and <a class="wiki_link" title="Elden Ring Grave Glovewort (3)" href="/Grave+Glovewort+(3)" target="">Grave Glovewort (3)</a> as well as the <a class="wiki_link" title="Elden Ring Kaiden Sellsword Ashes" href="/Kaiden+Sellsword+Ashes" target="">Kaiden Sellsword Ashes</a> that is excellent for early game tanking. Slightly North-West from here, <a class="wiki_link" title="Elden Ring Purified Ruins" href="/Purified+Ruins">Purified Ruins</a> has a <a class="wiki_link" title="Elden Ring Shabriri Grape" href="/Shabriri+Grape" target="">Shabriri Grape</a> and <a class="wiki_link" title="Elden Ring Hyetta" href="/Hyetta" target="">Hyetta</a>'s second location.</p>`,
       image:
         'https://eldenring.wiki.fextralife.com/file/Elden-Ring/purefied-ruins-location-elden-ring-wiki-300px-min-min.jpeg',
       link: 'https://eldenring.wiki.fextralife.com/Purified+Ruins',
@@ -1182,6 +1369,7 @@ const taskHash: Map<string, Task> = new Map([
     {
       id: 'get-cookbook-staff-highway-lookout',
       title: 'Get Cookbook & Staff at Highway Lookout Tower',
+      longDesc: `<p>Head further north and stop by <a class="wiki_link" title="Elden Ring Highway Lookout Tower" href="/Highway+Lookout+Tower" target="">Highway Lookout Tower</a> to obtain Carian Glintblade Staff and Glintstone Craftman's Cookbook (3), then return to the main road. You will encounter a group of undead fighting soldiers, and a giant Spirit Skeleton. You can fight them or run by, your destination is the&nbsp;<a class="wiki_link" title="Elden Ring Interactive Map?id=1512&amp;lat=-149.7969&amp;lng=77.477&amp;zoom=8&amp;code=mapA" href="/Interactive+Map?id=1512&amp;lat=-149.7969&amp;lng=77.477&amp;zoom=8&amp;code=mapA"> Gate Town Bridge site of grace</a>. Wait until night to fight a <a class="wiki_link" title="Elden Ring Night's Cavalry" href="/Night's+Cavalry" target="">Night's Cavalry</a> that drops the <a class="wiki_link" title="Elden Ring Ice Spear" href="/Ice+Spear" target="">Ice Spear</a> <a class="wiki_link" title="Elden Ring Ashes of War" href="/Ashes+of+War" target="">Ash of War</a>.</p>`,
       image:
         'https://eldenring.wiki.fextralife.com/file/Elden-Ring/carian_glintblade_staff_glintstonestaff_weapon_elden_ring_wiki_guide_200px.png',
       link: 'https://eldenring.wiki.fextralife.com/Highway+Lookout+Tower',
@@ -1212,6 +1400,7 @@ const taskHash: Map<string, Task> = new Map([
     {
       id: 'obtain-dragon-cult-prayerbook',
       title: 'Obtain Dragon Cult Prayerbook',
+      longDesc: `<p>Backtrack south to <a class="wiki_link" title="Elden Ring Interactive Map?id=1509&amp;lat=-157.15625&amp;lng=81.735548&amp;zoom=8&amp;code=mapA" href="/Interactive+Map?id=1509&amp;lat=-157.15625&amp;lng=81.735548&amp;zoom=8&amp;code=mapA">Liurnia Highway North</a> and head further east up the slopes until you come to a <a class="wiki_link" title="Elden Ring Tibia Mariner" href="/Tibia+Mariner" target="">Tibia Mariner</a> boss, a valuable <a class="wiki_link" title="Elden Ring Deathroot" href="/Deathroot" target="">Deathroot</a>, and can pick up <a class="wiki_link" title="Elden Ring Skeletal Bandit Ashes" href="/Skeletal+Bandit+Ashes" target="">Skeletal Bandit Ashes</a>. Further north, defeat a patrolling knight to obtain the <a class="wiki_link" title="Elden Ring Dragon Cult Prayerbook" href="/Dragon+Cult+Prayerbook" target="">Dragon Cult Prayerbook</a>. Beware of his lightning strikes!</p>`,
       image:
         'https://eldenring.wiki.fextralife.com/file/Elden-Ring/dragon_cult_prayerbook_elden_ring_wiki_guide_200px.png',
       link: 'https://eldenring.wiki.fextralife.com/Dragon+Cult+Prayerbook',
@@ -1222,6 +1411,7 @@ const taskHash: Map<string, Task> = new Map([
     {
       id: 'visit-church-of-vows',
       title: 'Visit Church of Vows',
+      longDesc: `<p>You must now go back to ground level to the <a class="wiki_link" title="Elden Ring Interactive Map?id=1517&amp;lat=-138.75&amp;lng=75.351&amp;zoom=8&amp;code=mapA" href="/Interactive+Map?id=1517&amp;lat=-138.75&amp;lng=75.351&amp;zoom=8&amp;code=mapA">Eastern Liurnia Lake Shore</a> site of grace. Follow it East and then <strong>north</strong> to continue exploring this area. (To the south, <a class="wiki_link" title="Elden Ring Carian Study Hall" href="/Carian+Study+Hall" target="">Carian Study Hall</a> cannot yet be completed as you are missing a key item you will obtain later from <a class="wiki_link" title="Elden Ring Ranni the Witch" href="/Ranni+the+Witch">this NPC</a>). The road north has two paths: One has a <a class="wiki_link" title="Elden Ring Golem" href="/Golem" target="">Golem</a> that is guarding access to <a class="wiki_link" title="Elden Ring Ainsel Rivel Well" href="/Ainsel+Rivel+Well" target="">Ainsel Rivel Well</a>. We will go there later. Take the other path up the slopes. The area to the left of the site of grace will have an Incantation (<a class="wiki_link" title="Elden Ring Flame, Cleanse Me!" href="/Flame,+Cleanse+Me!" target="">Flame, Cleanse Me!</a>) and the <a class="wiki_link" title="Elden Ring Fire Monk Gauntlets" href="/Fire+Monk+Gauntlets" target="">Fire Monk Gauntlets</a>. Stay the road and access the higher ground to arrive at the <a class="wiki_link" title="Elden Ring Church of Vows" href="/Church+of+Vows" target="">Church of Vows</a> and meet <a class="wiki_link" title="Elden Ring Miriel Pastor of Vows" href="/Miriel+Pastor+of+Vows" target="">Miriel, Pastor of Vows</a> who can teach you both <a class="wiki_link" title="Elden Ring Incantations" href="/Incantations" target="">Incantations</a> and <a class="wiki_link" title="Elden Ring Sorceries" href="/Sorceries" target="">Sorceries</a>, receive Scrolls and Prayerbooks, and give you <a class="wiki_link" title="Elden Ring Lore" href="/Lore" target="">Lore</a> information. This location is important because it allows you to cleanse your SIN (aggrod NPCs) by using <a class="wiki_link" title="Elden Ring Celestial Dew" href="/Celestial+Dew" target="">Celestial Dew</a> and performing an "<a class="wiki_link" title="Elden Ring Absolution" href="/Absolution" target="">Absolution</a>" at the altar. You will also find <a class="wiki_link" title="Elden Ring Golden Sewing Needle" href="/Golden+Sewing+Needle" target="">Golden Sewing Needle</a> and <a class="wiki_link" title="Elden Ring Golden Tailoring Tools" href="/Golden+Tailoring+Tools" target="">Golden Tailoring Tools</a> (key items for boss armor alteration)</p>`,
       image:
         'https://eldenring.wiki.fextralife.com/file/Elden-Ring/church_of_vows_locations_elden_ring_wiki_300px.jpg',
       link: 'https://eldenring.wiki.fextralife.com/Church+of+Vows',
@@ -1242,6 +1432,7 @@ const taskHash: Map<string, Task> = new Map([
     {
       id: 'obtain-flask-upgrades-from-erdtree-2',
       title: 'Obtain Flask Upgrades from Minor Erdtree',
+      longDesc: `<p>Now follow the road east and north to visit the Minor Erdtree. Here you will fight the <a class="wiki_link" title="Elden Ring Erdtree Avatar" href="/Erdtree+Avatar" target="">Erdtree Avatar</a>, and can loot <a class="wiki_link" title="Elden Ring Lightning-Shrouding Cracked Tear" href="/Lightning-Shrouding+Cracked+Tear" target="">Lightning-Shrouding Cracked Tear</a>, <a class="wiki_link" title="Elden Ring Holy-Shrouding Cracked Tear" href="/Holy-Shrouding+Cracked+Tear" target="">Holy-Shrouding Cracked Tear</a> and <a class="wiki_link" title="Elden Ring Magic-Shrouding Cracked Tear" href="/Magic-Shrouding+Cracked+Tear" target="">Magic-Shrouding Cracked Tear</a>. Once these are obtained, follow the road west to unlock the Walking Mausoleum, and continue all the way to the lake shore to find and complete <a class="wiki_link" title="Elden Ring Raya Lucaria Crystal Tunnel" href="/Raya+Lucaria+Crystal+Tunnel" target="">Raya Lucaria Crystal Tunnel</a>. Within the tunnel you will find <a class="wiki_link" title="Elden Ring Smithing-Stone Miner's Bell Bearing (1)" href="/Smithing-Stone+Miner's+Bell+Bearing+(1)" target="">Smithing-Stone Miner's Bell Bearing (1)</a> as well as <a class="wiki_link" title="Elden Ring Smithing Stones" href="/Smithing+Stones">upgrade stones level 2 and 3</a>.</p>`,
       image:
         'https://eldenring.wiki.fextralife.com/file/Elden-Ring/minor_erdtree_(liurnia_northeast)_full_map_elden_ring_wiki_guide_600px.jpg',
       link: 'https://eldenring.wiki.fextralife.com/Minor+Erdtree+(Liurnia+Northeast)',
@@ -1262,6 +1453,7 @@ const taskHash: Map<string, Task> = new Map([
     {
       id: 'upgrades-raya-lucaria-crystal-tunnel',
       title: 'Get upgrades from Raya Lucaria Crystal Tunnel',
+      longDesc: `<p>Now follow the road east and north to visit the Minor Erdtree. Here you will fight the <a class="wiki_link" title="Elden Ring Erdtree Avatar" href="/Erdtree+Avatar" target="">Erdtree Avatar</a>, and can loot <a class="wiki_link" title="Elden Ring Lightning-Shrouding Cracked Tear" href="/Lightning-Shrouding+Cracked+Tear" target="">Lightning-Shrouding Cracked Tear</a>, <a class="wiki_link" title="Elden Ring Holy-Shrouding Cracked Tear" href="/Holy-Shrouding+Cracked+Tear" target="">Holy-Shrouding Cracked Tear</a> and <a class="wiki_link" title="Elden Ring Magic-Shrouding Cracked Tear" href="/Magic-Shrouding+Cracked+Tear" target="">Magic-Shrouding Cracked Tear</a>. Once these are obtained, follow the road west to unlock the Walking Mausoleum, and continue all the way to the lake shore to find and complete <a class="wiki_link" title="Elden Ring Raya Lucaria Crystal Tunnel" href="/Raya+Lucaria+Crystal+Tunnel" target="">Raya Lucaria Crystal Tunnel</a>. Within the tunnel you will find <a class="wiki_link" title="Elden Ring Smithing-Stone Miner's Bell Bearing (1)" href="/Smithing-Stone+Miner's+Bell+Bearing+(1)" target="">Smithing-Stone Miner's Bell Bearing (1)</a> as well as <a class="wiki_link" title="Elden Ring Smithing Stones" href="/Smithing+Stones">upgrade stones level 2 and 3</a>.</p>`,
       image:
         'https://eldenring.wiki.fextralife.com/file/Elden-Ring/raya_lucaria_crystal_tunnel_locations_elden_ring_wiki_guide.jpg',
       link: 'https://eldenring.wiki.fextralife.com/Raya+Lucaria+Crystal+Tunnel',
@@ -1272,6 +1464,7 @@ const taskHash: Map<string, Task> = new Map([
     {
       id: 'visit-frenzied-flame-village',
       title: 'Visit Frenzied Flame Village',
+      longDesc: `<p>Exit the tunnel and find your way up and north: this will be your first encounter with the <a class="wiki_link" title="Elden Ring Madness" href="/Madness" target="">Madness</a> effect. Stay out of sight of the "Eye of Sauron" you can see in the distance! You can pick up the incantation Frenzied Burst and head further north past an NPC invasion to the <a class="wiki_link" title="Elden Ring Church of Inhibition" href="/Church+of+Inhibition" target="">Church of Inhibition</a> to get the <a class="wiki_link" title="Elden Ring Finger Maiden Set" href="/Finger+Maiden+Set" target="">Finger Maiden Set</a>. Now set south and east toward Frenzied Flame Village: Pick up <a class="wiki_link" title="Elden Ring Frenzied's Cookbook (1)" href="/Frenzied's+Cookbook+(1)" target="">Frenzied's Cookbook (1)</a> and the&nbsp;<a class="wiki_link" title="Elden Ring Shabriri's Woe" href="/Shabriri's+Woe" target="">Shabriri's Woe</a> talisman. Past the village outskirts Site of Grace to the East, you'll find a knight that drops Ash of War: Giant Hunt and the way to Converted Fringe Tower.</p>`,
       image:
         'https://eldenring.wiki.fextralife.com/file/Elden-Ring/frenzied_flame_village_full_map_elden_ring_wiki_guide_600px.jpg',
       link: 'https://eldenring.wiki.fextralife.com/Frenzied+Flame+Village',
@@ -1282,6 +1475,7 @@ const taskHash: Map<string, Task> = new Map([
     {
       id: 'spells-from-fringe-tower',
       title: 'Obtain powerful spells from Converted Fringe Tower',
+      longDesc: `<p>Go back down the tower and move over to the cliff nearby. You'll see some platforms that you can use to get down. Do this to access <a class="wiki_link" title="Elden Ring Black Knife Catacombs" href="/Black+Knife+Catacombs">Black Knife Catacombs</a>. Inside you'll get&nbsp;<a class="wiki_link" title="Elden Ring Upgrade Materials" href="/Upgrade+Materials">Ghost Glovewort (2), (3) and (4)</a>, as well as <a class="wiki_link" title="Elden Ring Twinsage Sorcerer Ashes" href="/Twinsage+Sorcerer+Ashes" target="">Twinsage Sorcerer Ashes</a>.</p>`,
       image:
         'https://eldenring.wiki.fextralife.com/file/Elden-Ring/converted_fringe_tower_full_map_elden_ring_wiki_guide_600px.jpg',
       link: 'https://eldenring.wiki.fextralife.com/Converted+Fringe+Tower',
@@ -1292,6 +1486,7 @@ const taskHash: Map<string, Task> = new Map([
     {
       id: 'unlock-ainsel-river-well',
       title: 'Unlock Ainsel River Well',
+      longDesc: `<p>Go back to Eastern Liurnia Lake Shore site of grace and find the previous road north with the two divergent paths. The one we want has a golem and is guarding access to&nbsp;<a class="wiki_link" title="Elden Ring Ainsel Rivel Well" href="/Ainsel+Rivel+Well">Ainsel Rivel Well</a>. To find it, just follow the road east from the grace site and&nbsp;then north until you find a golem. Defeat it and enter&nbsp;<a class="wiki_link" title="Elden Ring Ainsel River" href="/Ainsel+River" target="">Ainsel River</a>.</p>`,
       image:
         'https://eldenring.wiki.fextralife.com/file/Elden-Ring/ainsel-river-well-location-elden-ring-wiki-guide.jpg',
       link: 'https://eldenring.wiki.fextralife.com/Ainsel+River+Well',
