@@ -29,8 +29,6 @@ jobs:
 
       - run: touch ./out/.nojekyll
 
-      - run: touch ./elden-ring-progress/out/.nojekyll
-
       - name: Deploy
         uses: JamesIves/github-pages-deploy-action@v4.2.5
         with:
