@@ -21,14 +21,15 @@ const Header = (props: HeaderProps) => {
         >
           Elden Ring Wiki Game Progress Route
         </a>
-        . - 
+        . -{' '}
         <a
           href="https://github.com/JacobMillner/elden-ring-progression"
           target="_blank"
           rel="noreferrer"
         >
           Github Repo
-        </a> - 
+        </a>{' '}
+        -
         <a href="https://jacobmillner.dev/" target="_blank" rel="noreferrer">
           jacobmillner.dev
         </a>
