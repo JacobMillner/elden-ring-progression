@@ -464,7 +464,7 @@ const taskHash: Map<string, Task> = new Map([
     {
       id: 'obtain-academy-scroll',
       title: 'Obtain Academy Scroll',
-      longDesc: `<p>Northwest from their position, a graveyard hides the <a class="wiki_link" title="Elden Ring Academy Scroll" href="/Academy+Scroll" target="">Academy Scroll</a>, that can be given to Sorceress Sellen to unlock more inventory at her Shop. Follow the road south, collecting <a class="wiki_link" title="Elden Ring Glintstone Craftman's Cookbook (1)" href="/Glintstone+Craftman's+Cookbook+(1)" target="">Glintstone Craftman's Cookbook (1)</a>, and talk to the <a class="wiki_link" title="Elden Ring Nomadic Merchant Liurnia of the Lakes" href="/Nomadic+Merchant+Liurnia+of+the+Lakes" target="">Nomadic Merchant</a> of the area. Head into the water and north until you come to <a class="wiki_link" title="Elden Ring Laskyar Ruins" href="/Laskyar+Ruins" target="">Laskyar Ruins</a>, where you can loot two key items:&nbsp;<a class="wiki_link" title="Elden Ring Glintstone Craftsman's Cookbook (2)" href="/Glintstone+Craftsman's+Cookbook+(2)" target="">Glintstone Craftsman's Cookbook (2)</a> and <a class="wiki_link" title="Elden Ring Ritual Pot" href="/Ritual+Pot" target="">Ritual Pot</a>.</p>`,
+      longDesc: `<p>Northwest from their position, a graveyard hides the <a class="wiki_link" title="Elden Ring Academy Scroll" href="/Academy+Scroll" target="">Academy Scroll</a>, that can be given to Sorceress Sellen to unlock more inventory at her Shop. Follow the road south, collecting <a class="wiki_link" title="Elden Ring Glintstone Craftman's Cookbook (1)" href="/Glintstone+Craftsman's+Cookbook+(1)" target="">Glintstone Craftman's Cookbook (1)</a>, and talk to the <a class="wiki_link" title="Elden Ring Nomadic Merchant Liurnia of the Lakes" href="/Nomadic+Merchant+Liurnia+of+the+Lakes" target="">Nomadic Merchant</a> of the area. Head into the water and north until you come to <a class="wiki_link" title="Elden Ring Laskyar Ruins" href="/Laskyar+Ruins" target="">Laskyar Ruins</a>, where you can loot two key items:&nbsp;<a class="wiki_link" title="Elden Ring Glintstone Craftsman's Cookbook (2)" href="/Glintstone+Craftsman's+Cookbook+(2)" target="">Glintstone Craftsman's Cookbook (2)</a> and <a class="wiki_link" title="Elden Ring Ritual Pot" href="/Ritual+Pot" target="">Ritual Pot</a>.</p>`,
       image:
         'https://eldenring.wiki.fextralife.com/file/Elden-Ring/academy-scroll_spells-elden-ring-wiki-guide-200.png',
       link: 'https://eldenring.wiki.fextralife.com/Academy+Scroll',
@@ -1659,6 +1659,17 @@ const taskHash: Map<string, Task> = new Map([
       image:
         'https://eldenring.wiki.fextralife.com/file/Elden-Ring/fmlgngpvcacmvf4.jpg',
       link: 'https://eldenring.wiki.fextralife.com/Ranni+the+Witch',
+    },
+  ],
+  [
+    'start-ryas-questline',
+    {
+      id: 'start-ryas-questline',
+      title: "Start Rya's Questline",
+      longDesc: `<p>Find the Telescope icon to meet <a class="wiki_link" title="Elden Ring Rya" href="/Rya" target="">Rya</a>, who asks you to retrieve her necklace that was stolen from her. North-west from her location you can find <a class="wiki_link" title="Elden Ring Boilprawn Shack" href="/Boilprawn+Shack" target="">Boilprawn Shack</a>, here <a class="wiki_link" title="Elden Ring Blackguard Big Boggart" href="/Blackguard+Big+Boggart" target="">Blackguard Big Boggart</a> resides. Talk to him and purchase <a class="wiki_link" title="Elden Ring Rya's Necklace" href="/Rya's+Necklace" target="">Rya's Necklace</a> (1000 runes) and <a class="wiki_link" title="Elden Ring Boiled Prawn" href="/Boiled+Prawn" target="">Boiled Prawn</a>, so he will move to his next location. Return to <a class="wiki_link" title="Elden Ring Rya" href="/Rya" target="">Rya</a> and she will invite you to the <a class="wiki_link" title="Elden Ring Volcano Manor" href="/Volcano+Manor" target="">Volcano Manor</a> (for later!)</p>`,
+      image:
+        'https://eldenring.wiki.fextralife.com/file/Elden-Ring/rya_npcs_elden_ring_wiki_guide_300px.jpg',
+      link: 'https://eldenring.wiki.fextralife.com/Rya',
     },
   ],
 ]);
