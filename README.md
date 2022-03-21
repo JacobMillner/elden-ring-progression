@@ -2,5 +2,6 @@
 
 TODO: Fill this out 😅
 
-Visit the in progress site here:
-https://jacobmillner.github.io/elden-ring-progression/
+Visit the WIP site here:
+
+https://eldenringprogress.com/
