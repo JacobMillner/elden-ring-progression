@@ -157,6 +157,19 @@ export const progression: PageCategory[] = [
     ],
   },
   {
+    title: 'Siofra River (underground)',
+    subtitle: 'Level: 60+ Upgrades: +8 ~ +12',
+    tasks: [
+      'obtain-map-fragment-5',
+      'light-fire-pillars',
+      'collect-spells-tailsman-2',
+      'defeat-dragonkin-soldier',
+      'obtain-golden-seed-5',
+      'unlock-deep-siofra-well',
+      'defeat-ancestor-spirit',
+    ],
+  },
+  {
     title: 'Deeproot Depths',
     subtitle: 'Level: 70+ Upgrades: +15 ~ +20',
     tasks: [

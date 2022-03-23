@@ -1672,6 +1672,87 @@ const taskHash: Map<string, Task> = new Map([
       link: 'https://eldenring.wiki.fextralife.com/Rya',
     },
   ],
+  [
+    'obtain-map-fragment-5',
+    {
+      id: 'obtain-map-fragment-5',
+      title: 'Obtain Map Fragment',
+      longDesc: `<p><a class="wiki_link" title="Elden Ring Interactive Map?id=1185&amp;lat=-187.414062&amp;lng=122.572832&amp;zoom=5&amp;code=mapB" href="/Interactive+Map?id=1185&amp;lat=-187.414062&amp;lng=122.572832&amp;zoom=5&amp;code=mapB">Elden Ring Map: Siofra River Starting Point</a>. Head to <a class="wiki_link" title="Elden Ring Mistwood" href="/Mistwood" target="">Mistwood</a> and go down <a class="wiki_link" title="Elden Ring Siofra River Well" href="/Siofra+River+Well" target="">Siofra River Well</a> - unlock the <a class="wiki_link" title="Elden Ring Interactive Map?id=1185&amp;lat=-187.414062&amp;lng=122.572832&amp;zoom=8&amp;code=mapB" href="/Interactive+Map?id=1185&amp;lat=-187.414062&amp;lng=122.572832&amp;zoom=8&amp;code=mapB">Site of Grace here</a> if you haven't. This area is filled with <a class="wiki_link" title="Elden Ring Ancestral Follower" href="/Ancestral+Follower" target="">Ancestral Follower</a> enemies that are generally best to take at a distance, but be VERY mindful of their incredibly powerful arrows. The area has lots of useful materials for weapons level 10+, so check out the interactive map for exact loot locations. You should make sure to pick up the&nbsp;<a class="wiki_link" title="Elden Ring Armorer's Cookbook (6)" href="/Armorer's+Cookbook+(6)" target="">Armorer's Cookbook (6)</a> and the <a class="wiki_link" title="Elden Ring Map (Siofra River)" href="/Map+(Siofra+River)" target="">Map (Siofra River)</a> before exploring further.</p>`,
+      image:
+        'https://eldenring.wiki.fextralife.com/file/Elden-Ring/map-siofra-river-key-item-elden-ring-wiki-guide.png',
+      link: 'https://eldenring.wiki.fextralife.com/Map+(Siofra+River)',
+    },
+  ],
+  [
+    'light-fire-pillars',
+    {
+      id: 'light-fire-pillars',
+      title: 'Light the Fire Pillars',
+      longDesc: `<p>This area has a mechanic to summon a special boss: you must light altars scattered around the zone. There's a map for their location in the <a class="wiki_link" title="Elden Ring Siofra River" href="/Siofra+River" target="">Siofra River</a> page. You will find <a class="wiki_link" title="Elden Ring Blaidd" href="/Blaidd" target="">Blaidd</a> standing <a class="wiki_link" title="Elden Ring Interactive Map?id=2799&amp;lat=-184.97187&amp;lng=136.09082&amp;zoom=8&amp;code=mapB" href="/Interactive+Map?id=2799&amp;lat=-184.97187&amp;lng=136.09082&amp;zoom=8&amp;code=mapB">near hallowhorn grounds</a>, you can talk to him to advance his quest. You should then proceed to locate and activate the pillars in the area:</p> <ul> 
+      <li>First Pillar is by the site of grace <a class="wiki_link" title="Elden Ring Interactive Map?id=1183&amp;lat=-184.898437&amp;lng=130.582834&amp;zoom=8&amp;code=mapB" href="/Interactive+Map?id=1183&amp;lat=-184.898437&amp;lng=130.582834&amp;zoom=8&amp;code=mapB">Siofra River Bank</a>. [<a class="wiki_link" title="Elden Ring Interactive Map?id=3810&amp;lat=-185.109375&amp;lng=131.824941&amp;zoom=8&amp;code=mapB" href="/Interactive+Map?id=3810&amp;lat=-185.109375&amp;lng=131.824941&amp;zoom=8&amp;code=mapB">Map Link</a>]</li> 
+      <li>Second Pillar is in a corner west from the first pillar. [<a class="wiki_link" title="Elden Ring Interactive Map?id=3812&amp;lat=-181.807812&amp;lng=129.941307&amp;zoom=8&amp;code=mapB" href="/Interactive+Map?id=3812&amp;lat=-181.807812&amp;lng=129.941307&amp;zoom=8&amp;code=mapB">Map Link</a>]</li> 
+      <li>Third Pillar is in a small island in the watery area with the lightning whisps. [<a class="wiki_link" title="Elden Ring Interactive Map?id=3813&amp;lat=-181.896875&amp;lng=135.342489&amp;zoom=8&amp;code=mapB" href="/Interactive+Map?id=3813&amp;lat=-181.896875&amp;lng=135.342489&amp;zoom=8&amp;code=mapB">Map Link</a>]</li> 
+      <li>Fourth Pillar is by a cliff on the eastern area of the map. [<a class="wiki_link" title="Elden Ring Interactive Map?id=3814&amp;lat=-183.67&amp;lng=140.23&amp;zoom=8&amp;code=mapB" href="/Interactive+Map?id=3814&amp;lat=-183.67&amp;lng=140.23&amp;zoom=8&amp;code=mapB">Map Link</a>]</li> 
+      <li>Fifth Pillar is just south from Worshipper's Woods site of grace. [<a class="wiki_link" title="Elden Ring Interactive Map?id=3815&amp;lat=-179.95&amp;lng=139.50&amp;zoom=8&amp;code=mapB" href="/Interactive+Map?id=3815&amp;lat=-179.95&amp;lng=139.50&amp;zoom=8&amp;code=mapB">Map Link</a>]</li> 
+      <li>Sixth Pillar is west from Worshipper's Woods site of grace. [<a class="wiki_link" title="Elden Ring Interactive Map?id=3816&amp;lat=-178.31&amp;lng=136.91&amp;zoom=8&amp;code=mapB" href="/Interactive+Map?id=3816&amp;lat=-178.31&amp;lng=136.91&amp;zoom=8&amp;code=mapB">Map Link</a>]</li> 
+      <li>Seventh Pillar is to the right on the path toward "Below the Well" site of grace. [<a class="wiki_link" title="Elden Ring Interactive Map?id=3817&amp;lat=-175.44&amp;lng=140&amp;zoom=8&amp;code=mapB" href="/Interactive+Map?id=3817&amp;lat=-175.44&amp;lng=140&amp;zoom=8&amp;code=mapB">Map Link</a>]</li> 
+      <li>Eight Pillar is on the left on the path toward "Below the Well" site of grace. [<a class="wiki_link" title="Elden Ring Interactive Map?id=3818&amp;lat=-175.31&amp;lng=138.17&amp;zoom=8&amp;code=mapB" href="/Interactive+Map?id=3818&amp;lat=-175.31&amp;lng=138.17&amp;zoom=8&amp;code=mapB">Map Link</a>]</li> 
+     </ul>`,
+      image: '',
+      link: '',
+    },
+  ],
+  [
+    'collect-spells-tailsman-2',
+    {
+      id: 'collect-spells-tailsman-2',
+      title: 'Collect Spells & Talismans',
+      longDesc: `<p><a class="wiki_link" title="Elden Ring Interactive Map?id=1185&amp;lat=-187.414062&amp;lng=122.572832&amp;zoom=5&amp;code=mapB" href="/Interactive+Map?id=1185&amp;lat=-187.414062&amp;lng=122.572832&amp;zoom=5&amp;code=mapB">Elden Ring Map: Siofra River Starting Point</a>. Head to <a class="wiki_link" title="Elden Ring Mistwood" href="/Mistwood" target="">Mistwood</a> and go down <a class="wiki_link" title="Elden Ring Siofra River Well" href="/Siofra+River+Well" target="">Siofra River Well</a> - unlock the <a class="wiki_link" title="Elden Ring Interactive Map?id=1185&amp;lat=-187.414062&amp;lng=122.572832&amp;zoom=8&amp;code=mapB" href="/Interactive+Map?id=1185&amp;lat=-187.414062&amp;lng=122.572832&amp;zoom=8&amp;code=mapB">Site of Grace here</a> if you haven't. This area is filled with <a class="wiki_link" title="Elden Ring Ancestral Follower" href="/Ancestral+Follower" target="">Ancestral Follower</a> enemies that are generally best to take at a distance, but be VERY mindful of their incredibly powerful arrows. The area has lots of useful materials for weapons level 10+, so check out the interactive map for exact loot locations. You should make sure to pick up the&nbsp;<a class="wiki_link" title="Elden Ring Armorer's Cookbook (6)" href="/Armorer's+Cookbook+(6)" target="">Armorer's Cookbook (6)</a> and the <a class="wiki_link" title="Elden Ring Map (Siofra River)" href="/Map+(Siofra+River)" target="">Map (Siofra River)</a> before exploring further.</p>`,
+      image: '',
+      link: '',
+    },
+  ],
+  [
+    'defeat-dragonkin-soldier',
+    {
+      id: 'defeat-dragonkin-soldier',
+      title: 'Defeat Dragonkin Soldier',
+      longDesc: `<p>Once you have lit all pillars you can challenge the Ancestor Spirit boss fight. As you explore, you can also take a gateway (<a class="wiki_link" title="Elden Ring Interactive Map?id=1305&amp;lat=-181.296875&amp;lng=138.115104&amp;zoom=8&amp;code=mapB" href="/Interactive+Map?id=1305&amp;lat=-181.296875&amp;lng=138.115104&amp;zoom=8&amp;code=mapB">see on map)</a> to access the <a class="wiki_link" title="Elden Ring Dragonkin Soldier" href="/Dragonkin+Soldier" target="">Dragonkin Soldier</a> boss fight. This Great Enemy drops the <a class="wiki_link" title="Elden Ring Dragon Halberd" href="/Dragon+Halberd" target="">Dragon Halberd</a>, and players can loot the&nbsp;<a class="wiki_link" title="Elden Ring Marika's Scarseal" href="/Marika's+Scarseal" target="">Marika's Scarseal</a> talisman from nearby. Dropping down from here and going north will also bring you to a Golden Seed and the "Below the Well" site of grace.</p>`,
+      image:
+        'https://eldenring.wiki.fextralife.com/file/Elden-Ring/dragonkin-soldier-boss-enemies-elden-ring-wiki-guide-300px.jpg',
+      link: 'https://eldenring.wiki.fextralife.com/Dragonkin+Soldier',
+    },
+  ],
+  [
+    'obtain-golden-seed-5',
+    {
+      id: 'obtain-golden-seed-5',
+      title: 'Obtain Golden Seed',
+      image:
+        'https://eldenring.wiki.fextralife.com/file/Elden-Ring/golden_seed_elden_ring_wiki_guide_200px.png',
+      link: 'https://eldenring.wiki.fextralife.com/Golden+Seed',
+    },
+  ],
+  [
+    'unlock-deep-siofra-well',
+    {
+      id: 'unlock-deep-siofra-well',
+      title: 'Unlock Deep Siofra Well',
+      image: '',
+      link: '',
+    },
+  ],
+  [
+    'defeat-ancestor-spirit',
+    {
+      id: 'defeat-ancestor-spirit',
+      title: 'Defeat Ancestor Spirit',
+      longDesc: `<p>Once you have lit all pillars you can challenge the Ancestor Spirit boss fight. As you explore, you can also take a gateway (<a class="wiki_link" title="Elden Ring Interactive Map?id=1305&amp;lat=-181.296875&amp;lng=138.115104&amp;zoom=8&amp;code=mapB" href="/Interactive+Map?id=1305&amp;lat=-181.296875&amp;lng=138.115104&amp;zoom=8&amp;code=mapB">see on map)</a> to access the <a class="wiki_link" title="Elden Ring Dragonkin Soldier" href="/Dragonkin+Soldier" target="">Dragonkin Soldier</a> boss fight. This Great Enemy drops the <a class="wiki_link" title="Elden Ring Dragon Halberd" href="/Dragon+Halberd" target="">Dragon Halberd</a>, and players can loot the&nbsp;<a class="wiki_link" title="Elden Ring Marika's Scarseal" href="/Marika's+Scarseal" target="">Marika's Scarseal</a> talisman from nearby. Dropping down from here and going north will also bring you to a Golden Seed and the "Below the Well" site of grace.</p>`,
+      image:
+        'https://eldenring.wiki.fextralife.com/file/Elden-Ring/ancestor_spirit.png',
+      link: 'https://eldenring.wiki.fextralife.com/Ancestor+Spirit',
+    },
+  ],
 ]);
 
 export default taskHash;
