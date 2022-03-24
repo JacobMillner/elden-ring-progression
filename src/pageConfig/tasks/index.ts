@@ -1753,6 +1753,157 @@ const taskHash: Map<string, Task> = new Map([
       link: 'https://eldenring.wiki.fextralife.com/Ancestor+Spirit',
     },
   ],
+  [
+    'complete-smoldering-church',
+    {
+      id: 'complete-smoldering-church',
+      title: 'Complete Smoldering Church',
+      longDesc: `<p><a class="wiki_link" title="Elden Ring Interactive Map?id=983&amp;lat=-169.328125&amp;lng=124.477279&amp;zoom=5&amp;code=mapA" href="/Interactive+Map?id=983&amp;lat=-169.328125&amp;lng=124.477279&amp;zoom=5&amp;code=mapA">Elden Ring Map: Caelid Starting Point</a>. Exploring <a class="wiki_link" title="Elden Ring Caelid" href="/Caelid" target="">Caelid</a> can be a challenging task for players. The western area is quite easy at this point, but the east area is tough and the north (<a class="wiki_link" title="Elden Ring Dragonbarrow" href="/Dragonbarrow" target="">Dragonbarrow</a>) is best tackled later on. Many players may prefer to take the path North from <a class="wiki_link" title="Elden Ring Liurnia of the Lakes" href="/Liurnia+of+the+Lakes" target="">Liurnia of the Lakes</a> and through the <a class="wiki_link" title="Elden Ring Ruin-Strewn Precipice" href="/Ruin-Strewn+Precipice" target="">Ruin-Strewn Precipice</a> to explore the <a class="wiki_link" title="Elden Ring Altus Plateau" href="/Altus+Plateau" target="">Altus Plateau</a> first. If you want you can do this, and you can even go to <a class="wiki_link" title="Elden Ring Mt Gelmir" href="/Mt+Gelmir" target="">Mt Gelmir</a> before coming to Caelid. The reason this walkthrough opts to visit Caelid first is because there is little of consequence in Altus for the story, some <a class="wiki_link" title="Elden Ring Side Quests" href="/Side+Quests">NPC questlines</a> start in Caelid, and Mt. Gelmir is intended as higher level (upgrades are +6-7 whereas Caelid is +4-6)</p> <p>If you decide to tackle Caelid, then continue reading from here. If you want to do Altus, then scroll down to it using <a class="wiki_link" title="Elden Ring Game Progress Route#altusfirst" href="/Game+Progress+Route#altusfirst">this handy click</a>. We will include a way to return to this point from the end of Altus as well.</p> <p>Your first objective as you enter is to complete <a class="wiki_link" title="Elden Ring Smouldering Church" href="/Smouldering+Church" target="">Smouldering Church</a>. There's an NPC invasion here by <a class="wiki_link" title="Elden Ring Anastacia, Tarnished Eater" href="/Anastacia,+Tarnished+Eater" target="">Anastacia, Tarnished Eater</a> who drops a talisman, but the church also has 2 cookbooks that you want: <a class="wiki_link" title="Elden Ring Nomadic Warrior's Cookbook (14)" href="/Nomadic+Warrior's+Cookbook+(14)" target="">Nomadic Warrior's Cookbook (14)</a> and <a class="wiki_link" title="Elden Ring Missionary's Cookbook (3)" href="/Missionary's+Cookbook+(3)" target="">Missionary's Cookbook (3)</a>. From here you will want to activate the site of grace at the <a class="wiki_link" title="Elden Ring Shack of Rotting" href="/Shack+of+Rotting" target="">Shack of Rotting</a> to make sure you have an easy respawn if things go badly.</p>`,
+      image:
+        'https://eldenring.wiki.fextralife.com/file/Elden-Ring/smoldering-church-locations-elden-ring-wiki-guide-300px.jpg',
+      link: 'https://eldenring.wiki.fextralife.com/Smoldering+Church',
+    },
+  ],
+  [
+    'flask-spirit-upgrades',
+    {
+      id: 'flask-spirit-upgrades',
+      title: 'Obtain Flask & Spirit Upgrades',
+      longDesc: `<p>Follow the road forward and you will come to the Minor Erdtree of the area. Defeat the <a class="wiki_link" title="Elden Ring Erdtree Avatar" href="/Erdtree+Avatar" target="">Erdtree Avatar</a> and get&nbsp;<a class="wiki_link" title="Elden Ring Flame-Shrouding Cracked Tear" href="/Flame-Shrouding+Cracked+Tear" target="">Flame-Shrouding Cracked Tear</a> and <a class="wiki_link" title="Elden Ring Greenburst Crystal Tear" href="/Greenburst+Crystal+Tear" target="">Greenburst Crystal Tear</a>. You can then opt to explore the nearby <a class="wiki_link" title="Elden Ring Minor Erdtree Catacombs" href="/Minor+Erdtree+Catacombs" target="">Minor Erdtree Catacombs</a>, you can loot&nbsp;<a class="wiki_link" title="Elden Ring Grave Glovewort (5)" href="/Grave+Glovewort+(5)" target="">Grave Glovewort (5)</a> and the <a class="wiki_link" title="Elden Ring Mad Pumpkin Head" href="/Mad+Pumpkin+Head" target="">Mad Pumpkin Head</a> Spirit Ashes from a duo boss within. After this continue following the road and you can loot the <a class="wiki_link" title="Elden Ring Greatsword" href="/Greatsword" target="">Greatsword</a> from the travelling wagon. Ahead there are some ruins with a duo of Pumpkin Head mini-bosses that let you loot the <a class="wiki_link" title="Elden Ring Visage Shield" href="/Visage+Shield" target="">Visage Shield</a>.</p>`,
+      image: '',
+      link: '',
+    },
+  ],
+  [
+    'get-golden-scarab',
+    {
+      id: 'get-golden-scarab',
+      title: 'Get Golden Scarab talisman',
+      longDesc: `<p>Travel East from here (directly East of the telescope icon on the map) and jump across the canyon to access the <a class="wiki_link" title="Elden Ring Abandoned Cave" href="/Abandoned+Cave" target="">Abandoned Cave</a>. Make sure to use gear with <a class="wiki_link" title="Elden Ring Immunity" href="/Immunity">Immunity</a> to fight against the pools of <a class="wiki_link" title="Elden Ring Scarlet Rot" href="/Scarlet+Rot">Scarlet Rot</a>, and have some <a class="wiki_link" title="Elden Ring Preserving Boluses" href="/Preserving+Boluses">Preserving Boluses</a> at hand! The <a class="wiki_link" title="Elden Ring Cleanrot Knight" href="/Cleanrot+Knight" target="">Cleanrot Knight</a> boss duo within can be challenging, but they drop the <a class="wiki_link" title="Elden Ring Gold Scarab" href="/Gold+Scarab" target="">Gold Scarab</a> talisman that can make rune farming a lot faster. There's also the <a class="wiki_link" title="Elden Ring Serpent Bow" href="/Serpent+Bow" target="">Serpent Bow</a> and <a class="wiki_link" title="Elden Ring Venomous Fang" href="/Venomous+Fang" target="">Venomous Fang</a> claw weapon to loot here.</p>`,
+      image:
+        'https://eldenring.wiki.fextralife.com/file/Elden-Ring/gold_scarab_talisman_elden_ring_wiki_guide_200px.png',
+      link: 'https://eldenring.wiki.fextralife.com/Golden+Scarab',
+    },
+  ],
+  [
+    'find-iron-fist-alexander-2',
+    {
+      id: 'find-iron-fist-alexander-2',
+      title: 'Find Iron Fist Alexander',
+      longDesc: `<p>Return to the Smouldering Wall site of grace just south of the telescope icon. To the west of this location, back toward Limgrave but on the lower level, you can find <a class="wiki_link" title="Elden Ring Gael Tunnel" href="/Gael+Tunnel" target="">Gael Tunnel</a> and challenge the <a class="wiki_link" title="Elden Ring Magma Wyrm" href="/Magma+Wyrm" target="">Magma Wyrm</a> to get 1&nbsp;<a class="wiki_link" title="Elden Ring Dragon Heart" href="/Dragon+Heart" target="">Dragon Heart</a> and <a class="wiki_link" title="Elden Ring Moonveil" href="/Moonveil" target="">Moonveil</a> (the Katana all PvPers love!). Explore thoroughly and find rear Gael Tunnel entrance to trigger your second encounter with <a class="wiki_link" title="Elden Ring Iron Fist Alexander" href="/Iron+Fist+Alexander">Alexander</a>. There are several upgrade materials to be looted in and out of the tunnel so make sure to check the <a class="wiki_link" title="Elden Ring Interactive Map" href="/Interactive+Map">Elden Ring Map</a>. You can also kill an invisible Teardrop Scarab near the tunnel's exit to loot <a class="wiki_link" title="Elden Ring Ash of War: Flame of the Redmanes" href="/Ash+of+War:+Flame+of+the+Redmanes" target="">Ash of War: Flame of the Redmanes</a>.</p>`,
+      image:
+        'https://eldenring.wiki.fextralife.com/file/Elden-Ring/alexander_npc_elden_ring_wiki_guide_300px.jpg',
+      link: 'https://eldenring.wiki.fextralife.com/Iron+Fist+Alexander',
+    },
+  ],
+  [
+    'clear-fort-gael',
+    {
+      id: 'clear-fort-gael',
+      title: 'Clear Fort Gael',
+      longDesc: `<p>Further south from here you will be able to explore Fort Gael. There's a Talisman, A Katar and <a class="wiki_link" title="Elden Ring Ash of War: Lion Claw" href="/Ash+of+War:+Lion+Claw" target="">Ash of War: Lion Claw</a> here as well as a secretive gateway that takes you to Redmane Castle. Don't take it right now if you want to continue exploring naturally, but you can progress this way if you want too.</p>`,
+      image:
+        'https://eldenring.wiki.fextralife.com/file/Elden-Ring/fort-gael-location-elden-ring-wiki-guide.jpg',
+      link: 'https://eldenring.wiki.fextralife.com/Fort+Gael',
+    },
+  ],
+  [
+    'obtain-map-fragment-6',
+    {
+      id: 'obtain-map-fragment-6',
+      title: 'Obtain Map Fragments',
+      longDesc: `<p>Find <a class="wiki_link" title="Elden Ring Gaol Cave" href="/Gaol+Cave">Gaol Cave</a>&nbsp;to the northeast in the canyon and unlock it with <a class="wiki_link" title="Elden Ring Stonesword Key" href="/Stonesword+Key" target="">Stonesword Keys</a>.&nbsp;Within you will find some upgrade materials, a shield, and a <a class="wiki_link" title="Elden Ring Frenzied Duelist" href="/Frenzied+Duelist" target="">Frenzied Duelist</a> boss that drops <a class="wiki_link" title="Elden Ring Putrid Corpse Ashes" href="/Putrid+Corpse+Ashes" target="">Putrid Corpse Ashes</a>. The rear entrance of the cave allows you to drop down to an item that's technically in <a class="wiki_link" title="Elden Ring Limgrave" href="/Limgrave" target="">Limgrave</a>:&nbsp;<a class="wiki_link" title="Elden Ring Regalia of Echoid" href="/Regalia+of+Echoid" target="">Regalia of Echoid</a> (Straight Sword).</p> <p>Make your way southeast, and loot the&nbsp;<a class="wiki_link" title="Elden Ring Meteoric Ore Blade" href="/Meteoric+Ore+Blade" target="">Meteoric Ore Blade</a> in <a class="wiki_link" title="Elden Ring Caelid Waypoint Ruins" href="/Caelid+Waypoint+Ruins" target="">Caelid Waypoint Ruins</a>, before returning to the road. Follow it south until you come across <a class="wiki_link" title="Elden Ring Decaying Ekzykes" href="/Decaying+Ekzykes" target="">Decaying Ekzykes</a>, don't fight it yet as you should head just a little further along the road to find the area's <a class="wiki_link" title="Elden Ring Map (Caelid)" href="/Map+(Caelid)" target="">Map&nbsp; </a>and a convenient Site of Grace. There's also a merchant here that sells Stonesword Key and <a class="wiki_link" title="Elden Ring Nomadic Warrior's Cookbook (15)" href="/Nomadic+Warrior's+Cookbook+(15)" target="">Nomadic Warrior's Cookbook (15)</a>. You are now at the Southern Aonia Swampbank site of grace, and visiting this location at night will let you challenge the <a class="wiki_link" title="Elden Ring Night's Cavalry" href="/Night's+Cavalry" target="">Night's Cavalry</a> of the area and obtain his drop: <a class="wiki_link" title="Elden Ring Ash of War: Poison Moth Flight" href="/Ash+of+War:+Poison+Moth+Flight" target="">Ash of War: Poison Moth Flight</a>. Slightly east from here, a <a class="wiki_link" title="Elden Ring Deathbird" href="/Deathbird" target="">Deathbird</a> also spawns at night, and drops the&nbsp;<a class="wiki_link" title="Elden Ring Death's Poker" href="/Death's+Poker" target="">Death's Poker</a> greatsword.</p>`,
+      image:
+        'https://eldenring.wiki.fextralife.com/file/Elden-Ring/map_caelid_elden_ring_wiki_guide_200px.png',
+      link: 'https://eldenring.wiki.fextralife.com/Map+(Caelid)',
+    },
+  ],
+  [
+    'unlock-zone-merchants',
+    {
+      id: 'unlock-zone-merchants',
+      title: 'Unlock Zone Merchants',
+      longDesc: `<p>Explore the road South from the fork by the merchant and loot a <a class="wiki_link" title="Elden Ring Golden Seed" href="/Golden+Seed" target="">Golden Seed</a>, then go westward to find the <a class="wiki_link" title="Elden Ring Cathedral of Dragon Communion" href="/Cathedral+of+Dragon+Communion" target="">Cathedral of Dragon Communion</a>, that allows you to buy special Dragon Incantations based on the dragons that you have defeated. Loot the&nbsp;<a class="wiki_link" title="Elden Ring Ancient Dragon Apostle's Cookbook (3)" href="/Ancient+Dragon+Apostle's+Cookbook+(3)" target="">Ancient Dragon Apostle's Cookbook (3)</a> before exploring nearby to find the <a class="wiki_link" title="Elden Ring Caelid Catacombs" href="/Caelid+Catacombs">Caelid Catacombs</a>&nbsp;directly east. There's an illusory wall within the catacombs that hides <a class="wiki_link" title="Elden Ring Miranda Ashes" href="/Miranda+Ashes" target="">Miranda Ashes</a>, and the <a class="wiki_link" title="Elden Ring Kindred of Rot" href="/Kindred+of+Rot" target="">Kindred of Rot</a> ashes can also be obtained within alongside upgrade materials. There's a teardrop scarab east from the catacombs to get a Somber Smithing Stone (3).</p> <p>You can now opt to follow the road south and east to visit and complete Redmane Castle, or go north toward the swamp and explore Sellia.</p>`,
+      image: '',
+      link: '',
+    },
+  ],
+  [
+    'defeat-dragon-deathbird',
+    {
+      id: 'defeat-dragon-deathbird',
+      title: "Defeat Dragon, Deathbird & Night's Cavalry",
+      longDesc: `<li>Defeat Dragon, <a class="wiki_link" title="Elden Ring Deathbird" href="/Deathbird" target="">Deathbird</a> &amp; <a class="wiki_link" title="Elden Ring Night's Cavalry" href="/Night's+Cavalry" target="">Night's Cavalry</a></li>`,
+      image:
+        'https://eldenring.wiki.fextralife.com/file/Elden-Ring/deathbird_elden_ring_wiki_300px.jpg',
+      link: 'https://eldenring.wiki.fextralife.com/Deathbird',
+    },
+  ],
+  [
+    'loot-sellia-crystal',
+    {
+      id: 'loot-sellia-crystal',
+      title: 'Loot Sellia Crystal Tunnels',
+      image:
+        'https://eldenring.wiki.fextralife.com/file/Elden-Ring/sellia_crystal_tunnel_map_elden_ring_wiki_guide_300px.jpg',
+      link: 'https://eldenring.wiki.fextralife.com/Sellia+Crystal+Tunnel',
+    },
+  ],
+  [
+    'meet-gowry-millicent',
+    {
+      id: 'meet-gowry-millicent',
+      title: 'Meet Gowry and Millicent',
+      longDesc: `<p>To the east of the Swamp is <a class="wiki_link" title="Elden Ring Sellia, Town of Sorcery" href="/Sellia,+Town+of+Sorcery" target="">Sellia, Town of Sorcery</a>. This is an important location with many items to pick up. Notably, you will meet <a class="wiki_link" title="Elden Ring Gowry" href="/Gowry" target="">Gowry</a> at his shack just north of Sellia Gateway, who will task you with defeating&nbsp;<a class="wiki_link" title="Elden Ring Commander O'Neil" href="/Commander+O'Neil" target="">Commander O'Neil</a> in the swamp to obtain the <a class="wiki_link" title="Elden Ring Unalloyed Gold Needle" href="/Unalloyed+Gold+Needle" target="">Unalloyed Gold Needle</a>. Commander O'Neil can be found in a large clearing within Aeonia Swamp in eastern Caelid. Players can easily reach his arena by traveling southwest from <a class="wiki_link" title="Elden Ring Sellia, Town of Sorcery" href="/Sellia,+Town+of+Sorcery">Sellia, Town of Sorcery</a>&nbsp;(a further up north), looking for a large group of trees in a circular formation and jumping over the mutated growths with Torrent.</p> <p>After you defeat Commander O'Neil, return the Gold Needle to Gowry. Before we enter <a class="wiki_link" title="Elden Ring Sellia, Town of Sorcery" href="/Sellia,+Town+of+Sorcery">Sellia, Town of Sorcery</a>, we should visit <a class="wiki_link" title="Elden Ring Church of the Plague" href="/Church+of+the+Plague">Church of the Plague</a>&nbsp;to meet <a class="wiki_link" title="Elden Ring Millicent" href="/Millicent" target="">Millicent</a>. Players can reach this location by getting up the cliffs east of Gowry's Shack from the south or from the backstreets of Sellia, Town of Sorcery. Talk to <a class="wiki_link" title="Elden Ring Millicent" href="/Millicent">Millicent</a>&nbsp;and follow the steps outlined in her questline to obtain&nbsp;<a class="wiki_link" title="Elden Ring Prosthesis-Wearer Heirloom" href="/Prosthesis-Wearer+Heirloom" target="">Prosthesis-Wearer Heirloom</a>. Don't forget to exhaust her dialogue to move her to <a class="wiki_link" title="Elden Ring Altus Plateau" href="/Altus+Plateau" target="">Altus Plateau</a>. Make sure to loot the <a class="wiki_link" title="Elden Ring Sacred Tear" href="/Sacred+Tear" target="">Sacred Tear</a> in the area, then head into Sellia proper.</p>`,
+      image:
+        'https://eldenring.wiki.fextralife.com/file/Elden-Ring/gowry-location-npc-elden-ring-wiki-300px-min-min.jpeg',
+      link: 'https://eldenring.wiki.fextralife.com/Gowry',
+    },
+  ],
+  [
+    'complete-sellia-tower-sorcery',
+    {
+      id: 'complete-sellia-tower-sorcery',
+      title: 'Complete Sellia, Town of Sorcery',
+      longDesc: `<p>Read the <a class="wiki_link" title="Elden Ring Sellia, Town of Sorcery" href="/Sellia,+Town+of+Sorcery" target="">Sellia, Town of Sorcery</a> page for a proper walkthrough of the area. There is useful loot in there but of particular note is a <a class="wiki_link" title="Elden Ring Golden Seed" href="/Golden+Seed" target="">Golden Seed</a> and Imbued Sword Key.</p>`,
+      image:
+        'https://eldenring.wiki.fextralife.com/file/Elden-Ring/sellia-town-of-sorcery-location-elden-ring-wiki-guide.jpg',
+      link: 'https://eldenring.wiki.fextralife.com/Sellia,+Town+of+Sorcery',
+    },
+  ],
+  [
+    'complete-redmane-castle',
+    {
+      id: 'complete-redmane-castle',
+      title: 'Complete Redmane Castle',
+      longDesc: `<p>It is now time to take on Redmane Castle. See the <a class="wiki_link" title="Elden Ring Redmane Castle" href="/Redmane+Castle" target="">Redmane Castle</a> page for information on how to navigate and loot it, and challenge&nbsp;<a class="wiki_link" title="Elden Ring Starscourge Radahn" href="/Starscourge+Radahn" target="">Starscourge Radahn</a> to progress the game.&nbsp;<br>(Note: After defeating the duo bosses at Redmane Castle, if the Old Geezer has a dialogue loop where&nbsp;he mentions that he "no use for you yet", assuming you've accepted <a class="wiki_link" title="Elden Ring Ranni the Witch" href="/Ranni+the+Witch">Ranni</a>'s quest earlier in the walkthrough,&nbsp;go speak to <a class="wiki_link" title="Elden Ring War Counselor Iji" href="/War+Counselor+Iji">Iji</a> at the&nbsp;<a class="wiki_link" title="Elden Ring Interactive Map?id=1507&amp;lat=-114.875&amp;lng=52.924561&amp;zoom=8&amp;code=mapA" href="/Interactive+Map?id=1507&amp;lat=-114.875&amp;lng=52.924561&amp;zoom=8&amp;code=mapA">Road To The Manor grace</a>, nearby <a class="wiki_link" title="Elden Ring Caria Manor" href="/Caria+Manor">Caria Manor</a>.&nbsp;He should talk about the Festival. Exhaust his dialogue, and fast travel back to <a class="wiki_link" title="Elden Ring Interactive Map?id=4543&amp;lat=-193.703&amp;lng=159.141&amp;zoom=8&amp;code=mapA" href="/Interactive+Map?id=4543&amp;lat=-193.703&amp;lng=159.141&amp;zoom=8&amp;code=mapA">Redmane Castle Plaza grace</a>, where all the NPCs now should have gathered at the Plaza. Now you can challenge Starscourge Radahn. Good luck!)</p>`,
+      image:
+        'https://eldenring.wiki.fextralife.com/file/Elden-Ring/redmane-castle-location-elden-ring-wiki-guide.jpg',
+      link: 'https://eldenring.wiki.fextralife.com/Redmane+Castle',
+    },
+  ],
+  [
+    'defeat-starscourge-radahn',
+    {
+      id: 'defeat-starscourge-radahn',
+      title: 'Defeat Starscourge Radahn',
+      longDesc: `<p>It is now time to take on Redmane Castle. See the <a class="wiki_link" title="Elden Ring Redmane Castle" href="/Redmane+Castle" target="">Redmane Castle</a> page for information on how to navigate and loot it, and challenge&nbsp;<a class="wiki_link" title="Elden Ring Starscourge Radahn" href="/Starscourge+Radahn" target="">Starscourge Radahn</a> to progress the game.&nbsp;<br>(Note: After defeating the duo bosses at Redmane Castle, if the Old Geezer has a dialogue loop where&nbsp;he mentions that he "no use for you yet", assuming you've accepted <a class="wiki_link" title="Elden Ring Ranni the Witch" href="/Ranni+the+Witch">Ranni</a>'s quest earlier in the walkthrough,&nbsp;go speak to <a class="wiki_link" title="Elden Ring War Counselor Iji" href="/War+Counselor+Iji">Iji</a> at the&nbsp;<a class="wiki_link" title="Elden Ring Interactive Map?id=1507&amp;lat=-114.875&amp;lng=52.924561&amp;zoom=8&amp;code=mapA" href="/Interactive+Map?id=1507&amp;lat=-114.875&amp;lng=52.924561&amp;zoom=8&amp;code=mapA">Road To The Manor grace</a>, nearby <a class="wiki_link" title="Elden Ring Caria Manor" href="/Caria+Manor">Caria Manor</a>.&nbsp;He should talk about the Festival. Exhaust his dialogue, and fast travel back to <a class="wiki_link" title="Elden Ring Interactive Map?id=4543&amp;lat=-193.703&amp;lng=159.141&amp;zoom=8&amp;code=mapA" href="/Interactive+Map?id=4543&amp;lat=-193.703&amp;lng=159.141&amp;zoom=8&amp;code=mapA">Redmane Castle Plaza grace</a>, where all the NPCs now should have gathered at the Plaza. Now you can challenge Starscourge Radahn. Good luck!)</p>`,
+      image:
+        'https://eldenring.wiki.fextralife.com/file/Elden-Ring/starscourge_radahn_bosses_elden_ring_wiki_guide_300px.jpg',
+      link: 'https://eldenring.wiki.fextralife.com/Starscourge+Radahn',
+    },
+  ],
+  [
+    'complete-war-dead-catacombs',
+    {
+      id: 'complete-war-dead-catacombs',
+      title: 'Complete War-Dead Catacombs',
+      longDesc: `<p>After you defeat him, you can talk to <a class="wiki_link" title="Elden Ring Iron Fist Alexander" href="/Iron+Fist+Alexander" target="">Iron Fist Alexander</a> near the site of grace, and explore the <a class="wiki_link" title="Elden Ring War-Dead Catacombs" href="/War-Dead+Catacombs" target="">War-Dead Catacombs</a> to the north of the arena (you may want to leave them for later as they are quite challenging maybe level 80+).</p>`,
+      image:
+        'https://eldenring.wiki.fextralife.com/file/Elden-Ring/war-dead-catacombs-location-elden-ring-wiki-guide.jpg',
+      link: 'https://eldenring.wiki.fextralife.com/War-Dead+Catacombs',
+    },
+  ],
 ]);
 
 export default taskHash;

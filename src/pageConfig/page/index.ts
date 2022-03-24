@@ -170,6 +170,26 @@ export const progression: PageCategory[] = [
     ],
   },
   {
+    title: 'Caelid (South)',
+    subtitle: 'Level: 60+ Upgrades: +10 ~ +12',
+    tasks: [
+      'complete-smoldering-church',
+      'flask-spirit-upgrades',
+      'get-golden-scarab',
+      'find-iron-fist-alexander-2',
+      'clear-fort-gael',
+      'obtain-map-fragment-6',
+      'unlock-zone-merchants',
+      'defeat-dragon-deathbird',
+      'loot-sellia-crystal',
+      'meet-gowry-millicent',
+      'complete-sellia-tower-sorcery',
+      'complete-redmane-castle',
+      'defeat-starscourge-radahn',
+      'complete-war-dead-catacombs',
+    ],
+  },
+  {
     title: 'Deeproot Depths',
     subtitle: 'Level: 70+ Upgrades: +15 ~ +20',
     tasks: [
