@@ -1904,6 +1904,152 @@ const taskHash: Map<string, Task> = new Map([
       link: 'https://eldenring.wiki.fextralife.com/War-Dead+Catacombs',
     },
   ],
+  [
+    'access-nokron-from-mistwood',
+    {
+      id: 'access-nokron-from-mistwood',
+      title: 'Access Nokron from Mistwood',
+      longDesc: `<p><a class="wiki_link" title="Elden Ring Interactive Map?id=1545&amp;lat=-185.742187&amp;lng=121.299656&amp;zoom=5&amp;code=mapB" href="/Interactive+Map?id=1545&amp;lat=-185.742187&amp;lng=121.299656&amp;zoom=5&amp;code=mapB">Elden Ring Map: Nokron Starting Point</a>. With <a class="wiki_link" title="Elden Ring Starscourge Radahn" href="/Starscourge+Radahn">Starscourge Radahn</a>&nbsp;defeated, a new region underground is now accessible. Head back to <a class="wiki_link" title="Elden Ring Mistwood" href="/Mistwood">Mistwood</a> via the Mistwood Outskirts Site of Grace (or any you have in the area) and make your way south&nbsp;until&nbsp;you find a huge crater in the&nbsp;area west of <a class="wiki_link" title="Elden Ring Fort Haight" href="/Fort+Haight">Fort Haight</a>. Descend down the crater using platforms found in its the eastern side and eventually you'll arrive at <a class="wiki_link" title="Elden Ring Nokron, Eternal City" href="/Nokron,+Eternal+City">Nokron, Eternal City</a>. On the way, make sure to keep an eye out for corpses that have a <a class="wiki_link" title="Elden Ring Golden Rune (5)" href="/Golden+Rune+(5)">Golden Rune [5]</a> and two <a class="wiki_link" title="Elden Ring Soporific Grease" href="/Soporific+Grease">Soporific Grease</a> on them.</p> <p>At this point you're just in the outskirts of Nokron. This Eternal City shares a map fragment with <a class="wiki_link" title="Elden Ring Siofra River" href="/Siofra+River">Siofra River</a>, so navigating this area may get confusing; even opening your map&nbsp;right now shows you're outside of the map. From here though, getting to the main part of the city is pretty straightforward - head northeast to a toppled over building, noting&nbsp;a <a class="wiki_link" title="Elden Ring Rune Arc" href="/Rune+Arc">Rune Arc</a> can be found on a corpse laying up on a roof of&nbsp;a building in the south. Head north scaling up the building, and go through&nbsp;one of the windows on the side of the standing building that opens into a cavern. Before dropping down to where the <a class="wiki_link" title="Elden Ring Fallen Hawks Soldier" href="/Fallen+Hawks+Soldier">Fallen Hawks Soldiers</a>&nbsp;are, make sure to loot the corpses on this ledge for a <a class="wiki_link" title="Elden Ring Furlcalling Finger Remedy" href="/Furlcalling+Finger+Remedy">Furlcalling Finger Remedy</a> and a <a class="wiki_link" title="Elden Ring Smithing Stone (5)" href="/Smithing+Stone+(5)">Smithing Stone [5]</a>. After clearing out the enemies and collecting the <a class="wiki_link" title="Elden Ring Ghost Glovewort (3)" href="/Ghost+Glovewort+(3)">Ghost Glovewort [3]</a>, head through the doorway to the north to interact with the Nokron, Eternal City Site of Grace and you will now emerge into the heart of the city.</p>`,
+      image: 'https://eldenring.wiki.fextralife.com/file/Elden-Ring/nokron.jpg',
+      link: 'https://eldenring.wiki.fextralife.com/Nokron,+Eternal+City',
+    },
+  ],
+  [
+    'loot-ghost-glovewort-picker-bell-1',
+    {
+      id: 'loot-ghost-glovewort-picker-bell-1',
+      title: "Loot Ghost-Glovewort Picker's Bell Bearing (1)",
+      image:
+        'https://eldenring.wiki.fextralife.com/file/Elden-Ring/ghost-glovewort-pickers-bell-bearing-1-key-items-description.png',
+      link: "https://eldenring.wiki.fextralife.com/Ghost-Glovewort+Picker's+Bell+Bearing+(1)",
+    },
+  ],
+  [
+    'obtain-larval-tears-2',
+    {
+      id: 'obtain-larval-tears-2',
+      title: 'Obtain Larval Tears',
+      longDesc: `<p>Right ahead, lying on the steps of a gazebo is a corpse that has the <a class="wiki_link" title="Elden Ring Ghost-Glovewort Picker's Bell Bearing (1)" href="/Ghost-Glovewort+Picker's+Bell+Bearing+(1)">Ghost-Glovewort Picker's Bell Bearing [1]</a> on them. There are corpses strewn around that have various levels of Smithing Stones and Somber Smithing Stones on them, as well as Ghost Gloveworts that you can collect. If you head east, next to the stairs going down, you'll find a small graveyard where you can collect the <a class="wiki_link" title="Elden Ring Greatshield Soldier Ashes" href="/Greatshield+Soldier+Ashes">Greatshield Soldier Ashes</a>, and two <a class="wiki_link" title="Elden Ring Ghost Glovewort (3)" href="/Ghost+Glovewort+(3)">Ghost Glovewort [3]</a>. In the building opposite to this graveyard, you'll find a corpse inside with a <a class="wiki_link" title="Elden Ring Larval Tear" href="/Larval+Tear">Larval Tear</a> guarded by two Fallen Hawks Soldiers.</p> <p>When you're done collecting items in this area, descend down the stairs going eastward and turn right at the corner. You'll be able to see a fog door in the distance. Head towards it, looting the corpses on the way for another <a class="wiki_link" title="Elden Ring Larval Tear" href="/Larval+Tear">Larval Tear</a>, a <a class="wiki_link" title="Elden Ring Ghost Glovewort (3)" href="/Ghost+Glovewort+(3)">Ghost Glovewort [3]</a>, and a <a class="wiki_link" title="Elden Ring Golden Rune (7)" href="/Golden+Rune+(7)">Golden Rune [7]</a>. At the bottom of the crumbling steps turn around for a Rune Arc on a dead body.&nbsp; When you're ready to face the boss, transverse through the mist.</p>`,
+      image:
+        'https://eldenring.wiki.fextralife.com/file/Elden-Ring/ghost-glovewort-pickers-bell-bearing-1-key-items-description.png',
+      link: "https://eldenring.wiki.fextralife.com/Ghost-Glovewort+Picker's+Bell+Bearing+(1)",
+    },
+  ],
+  [
+    'defeat-mimic-tear',
+    {
+      id: 'defeat-mimic-tear',
+      title: 'Defeat Mimic Tear',
+      longDesc: `<p>You'll find yourself in a large temple ruin with no boss to be seen. Approach the center of the arena and the slime puddle will reveal itself to be the <a class="wiki_link" title="Elden Ring Mimic Tear" href="/Mimic+Tear">Mimic Tear</a>, transforming into your character. Defeat it for the <a class="wiki_link" title="Elden Ring Silver Tear Mask" href="/Silver+Tear+Mask">Silver Tear Mask</a>, two <a class="wiki_link" title="Elden Ring Larval Tear" href="/Larval+Tear">Larval Tears</a>, and to be able to progress further into <a class="wiki_link" title="Elden Ring Nokron, Eternal City" href="/Nokron,+Eternal+City">Nokron, Eternal City</a>.</p>`,
+      image:
+        'https://eldenring.wiki.fextralife.com/file/Elden-Ring/mimic-tear-boss-enemies-elden-ring-wiki-guide-300px.jpg',
+      link: 'https://eldenring.wiki.fextralife.com/Mimic+Tear',
+    },
+  ],
+  [
+    'get-to-nights-sacred-ground',
+    {
+      id: 'get-to-nights-sacred-ground',
+      title: "Get to Night's Sacred Ground",
+      longDesc: `<p>Upon exiting the arena, cross the bridge and as soon as it's safe to, turn left and get off the bridge. Walk westwards until you reach the Ancestral Woods Site of Grace. Facing south-west, jump down to the roof of the building. Don't worry about collecting items in the north-east yet, we'll be back here later. Jump down to the next building's ledge and turn right, then jump down to the corpse hanging over the banister. You've reached <a class="wiki_link" title="Elden Ring Night's Sacred Ground" href="/Night's+Sacred+Ground">Night's Sacred Ground</a>, but the safe way down might not be too obvious yet. Continue following the edge of this building and you'll find another <a class="wiki_link" title="Elden Ring Rune Arc" href="/Rune+Arc">Rune Arc</a> on a corpse at the top of the large stairs to your right. Turn back around and jump down to the next building where there's two <a class="wiki_link" title="Elden Ring Silver Tear" href="/Silver+Tear">Silver Tears</a> hanging out. Head east after defeating them, following the building's edge, then walk across the wall ruin&nbsp;to reach the open windows on the other side.</p>`,
+      image:
+        'https://eldenring.wiki.fextralife.com/file/Elden-Ring/nights-sacred-ground-locations-elden-ring-wiki-guide-300px.jpg',
+      link: "https://eldenring.wiki.fextralife.com/Night's+Sacred+Ground",
+    },
+  ],
+  [
+    'loot-black-whetblade-celestial-dew',
+    {
+      id: 'loot-black-whetblade-celestial-dew',
+      title: 'Loot Black Whetblade, Celestial Dew',
+      longDesc: `<p>After you've rested, continue northeast up the road, defeating enemies and pillaging corpses for loot, including a <a class="wiki_link" title="Elden Ring Celestial Dew" href="/Celestial+Dew">Celestial Dew</a>, along the way. It should be noted that the <a class="wiki_link" title="Elden Ring Silver Tear" href="/Silver+Tear">Silver Tear</a> right at the base of the stairs transforms into a <a class="wiki_link" title="Elden Ring Troll" href="/Troll">Troll</a>. At the top of the stairs and underneath the massive skeleton on it's throne, you'll find a chest containing the Hidden Treasure of Nokron, the <a class="wiki_link" title="Elden Ring Fingerslayer Blade" href="/Fingerslayer+Blade">Fingerslayer Blade</a>, as well as a <a class="wiki_link" title="Elden Ring Great Ghost Glovewort" href="/Great+Ghost+Glovewort">Great Ghost Glovewort</a>. The waygate next to this giant statue will take you back up to the Ancestral Woods Site of Grace.</p>`,
+      image:
+        'https://eldenring.wiki.fextralife.com/file/Elden-Ring/black_whetblade_elden_ring_wiki_guide_200px.png',
+      link: 'https://eldenring.wiki.fextralife.com/Black+Whetblade',
+    },
+  ],
+  [
+    'obtain-fingerslayer-blade',
+    {
+      id: 'obtain-fingerslayer-blade',
+      title: 'Obtain Fingerslayer Blade',
+      longDesc: `<p>Feel free to explore this hilly part of Nokron and it's ruins to collect valuable items such as a <a class="wiki_link" title="Elden Ring Clarifying Horn Charm" href="/Clarifying+Horn+Charm">Clarifying Horn Charm</a> (+1), <a class="wiki_link" title="Elden Ring Mottled Necklace" href="/Mottled+Necklace">Mottled Necklace</a> (+1),&nbsp;<a class="wiki_link" title="Elden Ring Celestial Dew" href="/Celestial+Dew">Celestial Dew</a>, and the <a class="wiki_link" title="Elden Ring Ash of War: Enchanted Shot" href="/Ash+of+War:+Enchanted+Shot">Ash of War: Enchanted Shot</a>. While you explore, you may have noticed that there's another <a class="wiki_link" title="Elden Ring Hallowhorn Grounds" href="/Hallowhorn+Grounds">Hallowhorn Grounds</a>&nbsp;here with unlit obelisks, like that in <a class="wiki_link" title="Elden Ring Siofra River" href="/Siofra+River">Siofra River</a>. The altars you need to activate can be found in the following places:</p> <ul> 
+      <li>First Pillar is by the cliff's edge, next to the broken bridge you took to get here. [<a class="wiki_link" title="Elden Ring Interactive Map?id=3853&amp;lat=-179.625&amp;lng=132.781009&amp;zoom=8&amp;code=mapB" href="/Interactive+Map?id=3853&amp;lat=-179.625&amp;lng=132.781009&amp;zoom=8&amp;code=mapB">Map Link</a>]</li> 
+      <li>Second Pillar is by the side of the brick road. [<a class="wiki_link" title="Elden Ring Interactive Map?id=3852&amp;lat=-180.359375&amp;lng=131.067153&amp;zoom=8&amp;code=mapB" href="/Interactive+Map?id=3852&amp;lat=-180.359375&amp;lng=131.067153&amp;zoom=8&amp;code=mapB">Map Link</a>]</li> 
+      <li>Third Pillar is up on the ledge next to the brick road with an <a class="wiki_link" title="Elden Ring Ancestral Follower" href="/Ancestral+Follower">Ancestral Follower</a> singing by it. [<a class="wiki_link" title="Elden Ring Interactive Map?id=3858&amp;lat=-178.9375&amp;lng=129.445743&amp;zoom=8&amp;code=mapB" href="/Interactive+Map?id=3858&amp;lat=-178.9375&amp;lng=129.445743&amp;zoom=8&amp;code=mapB">Map Link</a>]</li> 
+      <li>Fouth Pillar is found by a large rock. [<a class="wiki_link" title="Elden Ring Interactive Map?id=3857&amp;lat=-177.523437&amp;lng=127.398852&amp;zoom=8&amp;code=mapB" href="/Interactive+Map?id=3857&amp;lat=-177.523437&amp;lng=127.398852&amp;zoom=8&amp;code=mapB">Map Link</a>]</li> 
+      <li>Fifth Pillar is by the cliff's edge, next to a submerged ruins and guarded by some <a class="wiki_link" title="Elden Ring Giant Rat" href="/Giant+Rat">Giant Rats</a>&nbsp;and chanting Ancestral Followers. [<a class="wiki_link" title="Elden Ring Interactive Map?id=3856&amp;lat=-174.132812&amp;lng=127.906287&amp;zoom=8&amp;code=mapB" href="/Interactive+Map?id=3856&amp;lat=-174.132812&amp;lng=127.906287&amp;zoom=8&amp;code=mapB">Map Link</a>]</li> 
+      <li>Sixth Pillar is behind a deer carcass in a ruin&nbsp;right beside the Hallowhorn Grounds. [<a class="wiki_link" title="Elden Ring Interactive Map?id=3855&amp;lat=-176.625&amp;lng=130.524048&amp;zoom=8&amp;code=mapB" href="/Interactive+Map?id=3855&amp;lat=-176.625&amp;lng=130.524048&amp;zoom=8&amp;code=mapB">Map Link</a>]</li> 
+     </ul>`,
+      image:
+        'https://eldenring.wiki.fextralife.com/file/Elden-Ring/fingerslayer_blade_elden_ring_wiki_guide_200px.png',
+      link: 'https://eldenring.wiki.fextralife.com/Fingerslayer+Blade',
+    },
+  ],
+  [
+    'collect-ancestral-infant-head',
+    {
+      id: 'collect-ancestral-infant-head',
+      title: "Collect Ancestral Infant's Head",
+      longDesc: `<p>When you get to the Fifth Pillar, it may be worth taking a detour to the submerged ruins down in the water. You'll find a <a class="wiki_link" title="Elden Ring Ghost Glovewort (5)" href="/Ghost+Glovewort+(5)">Ghost Glovewort (5)</a>, and the <a class="wiki_link" title="Elden Ring Ancestral Infant's Head" href="/Ancestral+Infant's+Head">Ancestral Infant's Head</a> in a chest at the far end of the ruins. Once all six&nbsp;altars are lit, head back to <a class="wiki_link" title="Elden Ring Hallowhorn Grounds" href="/Hallowhorn+Grounds">Hallowhorn Grounds</a> to challenge the <a class="wiki_link" title="Elden Ring Regal Ancestor Spirit" href="/Regal+Ancestor+Spirit">Regal Ancestor Spirit</a> and obtain the <a class="wiki_link" title="Elden Ring Remembrance of the Regal Ancestor" href="/Remembrance+of+the+Regal+Ancestor">Remembrance of the Regal Ancestor</a>.</p>`,
+      image:
+        'https://eldenring.wiki.fextralife.com/file/Elden-Ring/ancestral_infants_head_elden_ring_wiki_guide_200px.png',
+      link: "https://eldenring.wiki.fextralife.com/Ancestral+Infant's+Head",
+    },
+  ],
+  [
+    'defeat-regal-ancestor-sprit',
+    {
+      id: 'defeat-regal-ancestor-sprit',
+      title: 'Defeat Regal Ancestor Spirit',
+      longDesc: `<p>When you get to the Fifth Pillar, it may be worth taking a detour to the submerged ruins down in the water. You'll find a <a class="wiki_link" title="Elden Ring Ghost Glovewort (5)" href="/Ghost+Glovewort+(5)">Ghost Glovewort (5)</a>, and the <a class="wiki_link" title="Elden Ring Ancestral Infant's Head" href="/Ancestral+Infant's+Head">Ancestral Infant's Head</a> in a chest at the far end of the ruins. Once all six&nbsp;altars are lit, head back to <a class="wiki_link" title="Elden Ring Hallowhorn Grounds" href="/Hallowhorn+Grounds">Hallowhorn Grounds</a> to challenge the <a class="wiki_link" title="Elden Ring Regal Ancestor Spirit" href="/Regal+Ancestor+Spirit">Regal Ancestor Spirit</a> and obtain the <a class="wiki_link" title="Elden Ring Remembrance of the Regal Ancestor" href="/Remembrance+of+the+Regal+Ancestor">Remembrance of the Regal Ancestor</a>.</p>`,
+      image:
+        'https://eldenring.wiki.fextralife.com/file/Elden-Ring/regal-ancestor-spirit_map-bosses-enemies-elden-ring-wiki-guide-300px.jpg',
+      link: 'https://eldenring.wiki.fextralife.com/Regal+Ancestor+Spirit',
+    },
+  ],
+  [
+    'enter-siofra-aqueduct',
+    {
+      id: 'enter-siofra-aqueduct',
+      title: 'Enter Siofra Aqueduct',
+      longDesc: `<p>This long structure is the <a class="wiki_link" title="Elden Ring Siofra Aqueduct" href="/Siofra+Aqueduct">Siofra Aqueduct</a>. There are some branching platforms on the outer walls of the aqueduct with valuable items&nbsp;such as the <a class="wiki_link" title="Elden Ring Order Healing" href="/Order+Healing">Order Healing</a> spell, a <a class="wiki_link" title="Elden Ring Rune Arc" href="/Rune+Arc">Rune Arc</a>, and <a class="wiki_link" title="Elden Ring Missionary's Cookbook (5)" href="/Missionary's+Cookbook+(5)">Missionary's Cookbook (5)</a>. You'll also find an NPC sitting on the outer section of the aqueduct who gives you the Inner Order <a class="wiki_link" title="Elden Ring Gestures" href="/Gestures">Gesture</a> in exchange for the <a class="wiki_link" title="Elden Ring Twinned Set" href="/Twinned+Set">Twinned Armor Set</a>.</p> <p>Navigate your way to the lowest level of the <a class="wiki_link" title="Elden Ring Siofra Aqueduct" href="/Siofra+Aqueduct">Siofra Aqueduct</a>, and exit the structure to emerge into a cavern at the base of a large waterfall. As you approach it, the <a class="wiki_link" title="Elden Ring Valiant Gargoyle" href="/Valiant+Gargoyle">Valiant Gargoyle</a> will jump down from the ceiling, and after taking him to about half health, the <a class="wiki_link" title="Elden Ring Valiant Gargoyle (Twinblade)" href="/Valiant+Gargoyle+(Twinblade)">Valiant Gargoyle (Twinblade)</a> jumps down to join him in the fight. Defeat them both and you'll be rewarded with the <a class="wiki_link" title="Elden Ring Gargoyle's Greatsword" href="/Gargoyle's+Greatsword">Gargoyle's Greatsword</a> and <a class="wiki_link" title="Elden Ring Gargoyle's Twinblade" href="/Gargoyle's+Twinblade">Gargoyle's Twinblade</a>. The Great Waterfall Basin Site of Grace will be accessible after this boss fight. Resting in the coffin north of the site of grace will deliver you to the secret area of <a class="wiki_link" title="Elden Ring Deeprooth Depths" href="/Deeprooth+Depths">Deeprooth Depths</a>, in which you can progress <a class="wiki_link" title="Elden Ring Fia" href="/Fia">Fia</a>'s quest. But first visit Ranni to obtain the <a class="wiki_link" title="Elden Ring Cursemark of Death" href="/Cursemark+of+Death" target="">Cursemark of Death</a>.</p>`,
+      image:
+        'https://eldenring.wiki.fextralife.com/file/Elden-Ring/siofra-aquaduct.jpg',
+      link: 'https://eldenring.wiki.fextralife.com/Siofra+Aqueduct',
+    },
+  ],
+  [
+    'collect-missionary-cookbook-5',
+    {
+      id: 'collect-missionary-cookbook-5',
+      title: "Collect Missionary's Cookbook (5)",
+      image:
+        'https://eldenring.wiki.fextralife.com/file/Elden-Ring/missionarys_cookbook_key_items_elden_ring_wiki_guide_200px.png',
+      link: "https://eldenring.wiki.fextralife.com/Missionary's+Cookbook+(5)",
+    },
+  ],
+  [
+    'trade-twinned-set',
+    {
+      id: 'trade-twinned-set',
+      title: 'Trade Twinned Set for Gesture',
+      image:
+        'https://eldenring.wiki.fextralife.com/file/Elden-Ring/twinned-set-elden-ring-wiki-guide.png',
+      link: 'https://eldenring.wiki.fextralife.com/Twinned+Set',
+    },
+  ],
+  [
+    'defeat-valiant-gargoyle',
+    {
+      id: 'defeat-valiant-gargoyle',
+      title: 'Defeat Valiant Gargoyle & Valiant Gargoyle (Twinblade)',
+      longDesc: `<p>Navigate your way to the lowest level of the <a class="wiki_link" title="Elden Ring Siofra Aqueduct" href="/Siofra+Aqueduct">Siofra Aqueduct</a>, and exit the structure to emerge into a cavern at the base of a large waterfall. As you approach it, the <a class="wiki_link" title="Elden Ring Valiant Gargoyle" href="/Valiant+Gargoyle">Valiant Gargoyle</a> will jump down from the ceiling, and after taking him to about half health, the <a class="wiki_link" title="Elden Ring Valiant Gargoyle (Twinblade)" href="/Valiant+Gargoyle+(Twinblade)">Valiant Gargoyle (Twinblade)</a> jumps down to join him in the fight. Defeat them both and you'll be rewarded with the <a class="wiki_link" title="Elden Ring Gargoyle's Greatsword" href="/Gargoyle's+Greatsword">Gargoyle's Greatsword</a> and <a class="wiki_link" title="Elden Ring Gargoyle's Twinblade" href="/Gargoyle's+Twinblade">Gargoyle's Twinblade</a>. The Great Waterfall Basin Site of Grace will be accessible after this boss fight. Resting in the coffin north of the site of grace will deliver you to the secret area of <a class="wiki_link" title="Elden Ring Deeprooth Depths" href="/Deeprooth+Depths">Deeprooth Depths</a>, in which you can progress <a class="wiki_link" title="Elden Ring Fia" href="/Fia">Fia</a>'s quest. But first visit Ranni to obtain the <a class="wiki_link" title="Elden Ring Cursemark of Death" href="/Cursemark+of+Death" target="">Cursemark of Death</a>.</p>`,
+      image:
+        'https://eldenring.wiki.fextralife.com/file/Elden-Ring/twinned-set-elden-ring-wiki-guide.png',
+      link: 'https://eldenring.wiki.fextralife.com/Twinned+Set',
+    },
+  ],
 ]);
 
 export default taskHash;

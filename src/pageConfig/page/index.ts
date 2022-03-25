@@ -190,6 +190,25 @@ export const progression: PageCategory[] = [
     ],
   },
   {
+    title: 'Nokron, Eternal City & Siofra Aqueduct',
+    subtitle: 'Level: 70+ Upgrades: +15 ~ +20',
+    tasks: [
+      'access-nokron-from-mistwood',
+      'loot-ghost-glovewort-picker-bell-1',
+      'obtain-larval-tears-2',
+      'defeat-mimic-tear',
+      'get-to-nights-sacred-ground',
+      'loot-black-whetblade-celestial-dew',
+      'obtain-fingerslayer-blade',
+      'collect-ancestral-infant-head',
+      'defeat-regal-ancestor-sprit',
+      'enter-siofra-aqueduct',
+      'collect-missionary-cookbook-5',
+      'trade-twinned-set',
+      'defeat-valiant-gargoyle',
+    ],
+  },
+  {
     title: 'Deeproot Depths',
     subtitle: 'Level: 70+ Upgrades: +15 ~ +20',
     tasks: [
