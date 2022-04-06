@@ -1161,7 +1161,7 @@ const taskHash: Map<string, Task> = new Map([
     },
   ],
   [
-    'obtain-razya-lucaria-academy-key',
+    'obtain-raya-lucaria-academy-key',
     {
       id: 'obtain-raya-lucaria-academy-key',
       title: 'Obtain Raya Lucaria Academy Key',
