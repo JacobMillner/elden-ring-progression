@@ -2050,6 +2050,50 @@ const taskHash: Map<string, Task> = new Map([
       link: 'https://eldenring.wiki.fextralife.com/Twinned+Set',
     },
   ],
+  [
+    'get-reward-from-ranni-2',
+    {
+      id: 'get-reward-from-ranni-2',
+      title: 'Get Reward from Ranni',
+      longDesc: `<p>You're going to be finishing up the underground areas next. But before that, return to <a class="wiki_link" title="Elden Ring Ranni's Rise" href="/Ranni's+Rise">Ranni's Rise</a> to hand over the <a class="wiki_link" title="Elden Ring Fingerslayer Blade" href="/Fingerslayer+Blade">Fingerslayer Blade</a> <a class="wiki_link" title="Elden Ring Ranni the Witch" href="/Ranni+the+Witch">Ranni</a> asked you to retrieve. If you want to do <a class="wiki_link" title="Elden Ring Preceptor Seluvis" href="/Preceptor+Seluvis">Seluvis'</a> questline, hold off on doing this section until his quest is complete. You will have to do an absolution at the Church of Vows however to continue Ranni's quest after doing Seluvis's. Give the treasure of Nokron to Ranni and she'll reward you with the <a class="wiki_link" title="Elden Ring Carian Inverted Statue" href="/Carian+Inverted+Statue">Carian Inverted Statue</a>, which when reading the description tells you to head to the <a class="wiki_link" title="Elden Ring Carian Study Hall" href="/Carian+Study+Hall">Carian Study Hall</a>.&nbsp;You may recall a tall globe just by the entrance of the study hall. Interact with the pedestal just in front of it to place the Carian Inverted Statue and a cutscene will play.</p>`,
+      image:
+        'https://eldenring.wiki.fextralife.com/file/Elden-Ring/fmlgngpvcacmvf4.jpg',
+      link: 'https://eldenring.wiki.fextralife.com/Ranni+the+Witch',
+    },
+  ],
+  [
+    'carian-study-hall-hidden',
+    {
+      id: 'carian-study-hall-hidden',
+      title: 'Access Carian Study Hall Hidden Area',
+      longDesc: `<p>Head to the elevator shaft and enter the secret area through the small window. Right off the bat, <a class="wiki_link" title="Elden Ring Preceptor Miriam" href="/Preceptor+Miriam">Preceptor Miriam</a> will start attacking you. Fight back with ranged attacks or close the distance by turning right and heading down the side of the walls. After you've defeated her and taken her loot, you can find a <a class="wiki_link" title="Elden Ring Mask of Confidence" href="/Mask+of+Confidence">Mask of Confidence</a> on a corpse on the left side of the room, opposite to where you came down from. Continue heading down by jumping down platforms and beams until you reach a button on a platform in the middle of the room.</p>`,
+      image:
+        'https://eldenring.wiki.fextralife.com/file/Elden-Ring/8ef42fdc-7aba-4cb4-8906-15ad073dfc1f.png',
+      link: 'https://eldenring.wiki.fextralife.com/Carian+Study+Hall',
+    },
+  ],
+  [
+    'obtain-cursemark-of-death',
+    {
+      id: 'obtain-cursemark-of-death',
+      title: 'Obtain the Cursemark of Death',
+      longDesc: `<p>The platform takes you&nbsp;down to a bridge&nbsp;guarded by a large enemy. Whether you choose to defeat it or simply run away from it, crossing the bridge takes you to the <a class="wiki_link" title="Elden Ring Divine Tower of Liurnia" href="/Divine+Tower+of+Liurnia">Divine Tower of Liurnia</a>. Following the ladders and stairs up to the top will take you to a body that can be looted for a <a class="wiki_link" title="Elden Ring Stargazer Heirloom" href="/Stargazer+Heirloom">Stargazer Heirloom</a> and a <a class="wiki_link" title="Elden Ring Cursemark of Death" href="/Cursemark+of+Death">Cursemark of Death</a>, a key item for <a class="wiki_link" title="Elden Ring Fia" href="/Fia">Fia's</a> quest.</p>`,
+      image:
+        'https://eldenring.wiki.fextralife.com/file/Elden-Ring/cursemark_of_death_elden_ring_wiki_guide_200px.png',
+      link: 'https://eldenring.wiki.fextralife.com/Cursemark+of+Death',
+    },
+  ],
+  [
+    'help-iron-fist',
+    {
+      id: 'help-iron-fist',
+      title: 'Help Iron Fist Alexander.',
+      longDesc: `<p>Finishing this step in <a class="wiki_link" title="Elden Ring Ranni the Witch" href="/Ranni+the+Witch">Ranni's</a> questline unlocks other collectible items. Ranni herself disappears from her tower and speaking to <a class="wiki_link" title="Elden Ring War Counselor Iji" href="/War+Counselor+Iji">Iji</a> gives you insights on where she's gone. If you head to <a class="wiki_link" title="Elden Ring Seluvis's Rise" href="/Seluvis's+Rise">Seluvis's Rise</a>, you will find that you now have access to Seluvis' armor set, the <a class="wiki_link" title="Elden Ring Preceptor's Set" href="/Preceptor's+Set">Preceptor's Set</a>, and other items related to him, and you can find Ranni's armor set, the <a class="wiki_link" title="Elden Ring Snow Witch Set" href="/Snow+Witch+Set">Snow Witch Set</a>, in a chest up the ladder in <a class="wiki_link" title="Elden Ring Renna's Rise" href="/Renna's+Rise">Renna's Rise</a>. If you head back to <a class="wiki_link" title="Elden Ring Pidia" href="/Pidia" target="">Pidia</a> in Caria Manor, you can witness an interesting scene and pick up <a class="wiki_link" title="Elden Ring Pidia's Bell Bearing" href="/Pidia's+Bell+Bearing" target="">Pidia's Bell Bearing</a> &amp; <a class="wiki_link" title="Elden Ring Dolores the Sleeping Arrow Puppet" href="/Dolores+the+Sleeping+Arrow+Puppet" target="">Dolores the Sleeping Arrow Puppet</a>.&nbsp;</p> <p>While you are in Liurnia, make sure to explore the area in the East where you found the <a class="wiki_link" title="Elden Ring Tibia Mariner" href="/Tibia+Mariner" target="">Tibia Mariner</a> just south from the <a class="wiki_link" title="Elden Ring Carian Study Hall" href="/Carian+Study+Hall" target="">Carian Study Hall</a>&nbsp;and meet <a class="wiki_link" title="Elden Ring Iron Fist Alexander" href="/Iron+Fist+Alexander" target="">Iron Fist Alexander</a>. Use an <a class="wiki_link" title="Elden Ring Oil Pot" href="/Oil+Pot" target="">Oil Pot</a> to free him. (<a class="wiki_link" title="Elden Ring Interactive Map?id=5416&amp;lat=-147.031&amp;lng=81.906&amp;zoom=8&amp;code=mapA" href="/Interactive+Map?id=5416&amp;lat=-147.031&amp;lng=81.906&amp;zoom=8&amp;code=mapA">See it on the map</a>). From here, we will visit Deeproot Depths to advance Fia's questline.</p>`,
+      image:
+        'https://eldenring.wiki.fextralife.com/file/Elden-Ring/alexander_npc_elden_ring_wiki_guide_300px.jpg',
+      link: 'https://eldenring.wiki.fextralife.com/Iron+Fist+Alexander',
+    },
+  ],
 ]);
 
 export default taskHash;

@@ -209,6 +209,16 @@ export const progression: PageCategory[] = [
     ],
   },
   {
+    title: 'Liurnia of the Lakes West 2',
+    subtitle: 'Level: 70+ Upgrades: +15 ~ +20',
+    tasks: [
+      'get-reward-from-ranni-2',
+      'carian-study-hall-hidden',
+      'obtain-cursemark-of-death',
+      'help-iron-fist',
+    ],
+  },
+  {
     title: 'Deeproot Depths',
     subtitle: 'Level: 70+ Upgrades: +15 ~ +20',
     tasks: [
